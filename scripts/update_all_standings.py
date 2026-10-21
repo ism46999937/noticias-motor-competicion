@@ -103,6 +103,8 @@ def normal_rows(table, series, kind):
             continue
         position = int(cells[0])
         name = clean_name(cells[1])
+        if series == "WEC" and kind == "teams":
+            name = re.sub(r"^#?\d{1,3}\s+", "", name)
         points = number(cells[-1])
         if not name or points is None or len(name) > 140:
             continue
