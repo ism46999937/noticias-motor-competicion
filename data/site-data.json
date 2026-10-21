@@ -7,154 +7,154 @@
         "event": "Gran Premio de Australia",
         "location": "Melbourne",
         "date": "6–8 mar 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 2,
         "event": "Gran Premio de China",
         "location": "Shanghái",
         "date": "13–15 mar 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 3,
         "event": "Gran Premio de Japón",
         "location": "Suzuka",
         "date": "27–29 mar 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 4,
         "event": "Gran Premio de Miami",
-        "location": "Miami",
+        "location": "Miami, Estados Unidos",
         "date": "1–3 may 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 5,
         "event": "Gran Premio de Canadá",
         "location": "Montreal",
         "date": "22–24 may 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 6,
         "event": "Gran Premio de Mónaco",
         "location": "Montecarlo",
         "date": "5–7 jun 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 7,
         "event": "Gran Premio de Barcelona-Catalunya",
         "location": "Barcelona, España",
         "date": "12–14 jun 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 8,
         "event": "Gran Premio de Austria",
         "location": "Spielberg",
         "date": "26–28 jun 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 9,
         "event": "Gran Premio de Gran Bretaña",
         "location": "Silverstone",
         "date": "3–5 jul 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 10,
         "event": "Gran Premio de Bélgica",
         "location": "Spa-Francorchamps",
         "date": "17–19 jul 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 11,
         "event": "Gran Premio de Hungría",
         "location": "Budapest",
         "date": "24–26 jul 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 12,
         "event": "Gran Premio de Países Bajos",
         "location": "Zandvoort",
         "date": "21–23 ago 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 13,
         "event": "Gran Premio de Italia",
         "location": "Monza",
         "date": "4–6 sep 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 14,
         "event": "Gran Premio de España",
         "location": "Madrid",
         "date": "11–13 sep 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 15,
         "event": "Gran Premio de Azerbaiyán",
         "location": "Bakú",
         "date": "24–26 sep 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 16,
         "event": "Gran Premio de Singapur",
         "location": "Singapur",
         "date": "9–11 oct 2026",
-        "status": "upcoming"
+        "status": ""
       },
       {
         "round": 17,
         "event": "Gran Premio de Estados Unidos",
         "location": "Austin",
         "date": "23–25 oct 2026",
-        "status": "upcoming"
+        "status": ""
       },
       {
         "round": 18,
         "event": "Gran Premio de México",
         "location": "Ciudad de México",
         "date": "30 oct–1 nov 2026",
-        "status": "upcoming"
+        "status": ""
       },
       {
         "round": 19,
         "event": "Gran Premio de São Paulo",
         "location": "São Paulo",
         "date": "6–8 nov 2026",
-        "status": "upcoming"
+        "status": ""
       },
       {
         "round": 20,
         "event": "Gran Premio de Las Vegas",
         "location": "Las Vegas",
         "date": "19–21 nov 2026",
-        "status": "upcoming"
+        "status": ""
       },
       {
         "round": 21,
         "event": "Gran Premio de Qatar",
         "location": "Lusail",
         "date": "27–29 nov 2026",
-        "status": "upcoming"
+        "status": ""
       },
       {
         "round": 22,
         "event": "Gran Premio de Abu Dabi",
         "location": "Yas Marina",
         "date": "4–6 dic 2026",
-        "status": "upcoming"
+        "status": ""
       }
     ],
     "F2": [
@@ -163,98 +163,98 @@
         "event": "Fórmula 2 · Australia",
         "location": "Melbourne",
         "date": "6–8 mar 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 2,
-        "event": "Fórmula 2 · Baréin",
-        "location": "Sakhir",
-        "date": "10–12 abr 2026",
-        "status": "past"
+        "event": "Fórmula 2 · Miami",
+        "location": "Miami, Estados Unidos",
+        "date": "1–3 may 2026",
+        "status": ""
       },
       {
         "round": 3,
-        "event": "Fórmula 2 · Arabia Saudí",
-        "location": "Yeda",
-        "date": "17–19 abr 2026",
-        "status": "past"
+        "event": "Fórmula 2 · Canadá",
+        "location": "Montreal",
+        "date": "22–24 may 2026",
+        "status": ""
       },
       {
         "round": 4,
         "event": "Fórmula 2 · Mónaco",
         "location": "Montecarlo",
         "date": "4–7 jun 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 5,
-        "event": "Fórmula 2 · España",
-        "location": "Barcelona",
+        "event": "Fórmula 2 · Barcelona",
+        "location": "Barcelona, España",
         "date": "12–14 jun 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 6,
         "event": "Fórmula 2 · Austria",
         "location": "Spielberg",
         "date": "26–28 jun 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 7,
         "event": "Fórmula 2 · Gran Bretaña",
         "location": "Silverstone",
         "date": "3–5 jul 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 8,
         "event": "Fórmula 2 · Bélgica",
         "location": "Spa-Francorchamps",
         "date": "17–19 jul 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 9,
         "event": "Fórmula 2 · Hungría",
         "location": "Budapest",
         "date": "24–26 jul 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 10,
         "event": "Fórmula 2 · Italia",
         "location": "Monza",
         "date": "4–6 sep 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 11,
-        "event": "Fórmula 2 · Madrid",
+        "event": "Fórmula 2 · España",
         "location": "Madrid",
         "date": "11–13 sep 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 12,
         "event": "Fórmula 2 · Azerbaiyán",
         "location": "Bakú",
-        "date": "25–27 sep 2026",
-        "status": "past"
+        "date": "24–26 sep 2026",
+        "status": ""
       },
       {
         "round": 13,
         "event": "Fórmula 2 · Qatar",
         "location": "Lusail",
         "date": "27–29 nov 2026",
-        "status": "upcoming"
+        "status": ""
       },
       {
         "round": 14,
         "event": "Fórmula 2 · Abu Dabi",
         "location": "Yas Marina",
         "date": "4–6 dic 2026",
-        "status": "upcoming"
+        "status": ""
       }
     ],
     "F3": [
@@ -263,63 +263,63 @@
         "event": "Fórmula 3 · Australia",
         "location": "Melbourne",
         "date": "6–8 mar 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 2,
         "event": "Fórmula 3 · Mónaco",
         "location": "Montecarlo",
         "date": "4–7 jun 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 3,
-        "event": "Fórmula 3 · España",
-        "location": "Barcelona",
+        "event": "Fórmula 3 · Barcelona",
+        "location": "Barcelona, España",
         "date": "12–14 jun 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 4,
         "event": "Fórmula 3 · Austria",
         "location": "Spielberg",
         "date": "26–28 jun 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 5,
         "event": "Fórmula 3 · Gran Bretaña",
         "location": "Silverstone",
         "date": "3–5 jul 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 6,
         "event": "Fórmula 3 · Bélgica",
         "location": "Spa-Francorchamps",
         "date": "17–19 jul 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 7,
         "event": "Fórmula 3 · Hungría",
         "location": "Budapest",
         "date": "24–26 jul 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 8,
         "event": "Fórmula 3 · Italia",
         "location": "Monza",
         "date": "4–6 sep 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 9,
-        "event": "Fórmula 3 · Madrid",
+        "event": "Fórmula 3 · España",
         "location": "Madrid",
         "date": "11–13 sep 2026",
-        "status": "past"
+        "status": ""
       }
     ],
     "WEC": [
@@ -328,66 +328,66 @@
         "event": "6 Horas de Imola",
         "location": "Imola, Italia",
         "date": "19 abr 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 2,
         "event": "6 Horas de Spa-Francorchamps",
         "location": "Spa, Bélgica",
         "date": "9 may 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 3,
         "event": "24 Horas de Le Mans",
         "location": "Le Mans, Francia",
         "date": "13–14 jun 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 4,
         "event": "6 Horas de São Paulo",
         "location": "São Paulo, Brasil",
         "date": "12 jul 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 5,
         "event": "Lone Star Le Mans",
         "location": "Austin, Estados Unidos",
         "date": "6 sep 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 6,
         "event": "6 Horas de Fuji",
         "location": "Fuji, Japón",
         "date": "27 sep 2026",
-        "status": "past"
+        "status": ""
       },
       {
         "round": 7,
         "event": "Qatar 1812 km",
         "location": "Lusail, Qatar",
         "date": "24 oct 2026",
-        "status": "upcoming"
+        "status": ""
       },
       {
         "round": 8,
         "event": "8 Horas de Baréin",
         "location": "Sakhir, Baréin",
         "date": "7 nov 2026",
-        "status": "upcoming"
+        "status": ""
       }
     ]
   },
   "standings": {},
   "updatedAt": null,
   "sources": {
-    "F1": "https://www.formula1.com/en/racing/2026",
-    "F2": "https://api.fia.com/news/fia-formula-2-championship-2026-season-calendar-revealed",
-    "F3": "https://api.fia.com/news/fia-formula-3-campionship-2026-season-calendar-revealed",
-    "WEC": "https://press.fiawec.com/assets/fileuploads/69/d4/69d4b6ffa267a.pdf"
+    "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
+    "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
+    "F3": "https://api.fia.com/news/fia-formula-3-championship-2026-season-calendar-revealed",
+    "WEC": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council"
   },
-  "note": "Los calendarios se transcriben de páginas oficiales publicadas. Comprueba cambios de última hora. Las clasificaciones no se rellenan con cifras no verificadas."
+  "note": "Calendarios contrastados con fuentes FIA publicadas y revisados para cambios anunciados en 2026. Los estados se calculan por fecha local. Las clasificaciones solo se actualizan si la fuente devuelve datos válidos."
 }
