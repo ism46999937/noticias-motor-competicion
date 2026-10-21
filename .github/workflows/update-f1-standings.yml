@@ -13,7 +13,7 @@ permissions:
   contents: write
 concurrency:
   group: championship-data
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   update:
     runs-on: ubuntu-latest
