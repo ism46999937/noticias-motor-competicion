@@ -13,16 +13,18 @@ El workflow publica solo el frontend estático y el JSON de datos. No publica ni
 ## Datos conectados
 - Calendarios de F1, F2, F3 y WEC transcritos de publicaciones oficiales FIA de 2026, incluidos los cambios anunciados para F2 en Miami y Montreal.
 - Los estados de las rondas se calculan en el navegador según la fecha actual.
-- Un workflow programado consulta la API pública Jolpica (compatible con Ergast) para obtener las clasificaciones de pilotos y constructores de F1 de 2026. Si la API no responde o aún no tiene datos, conserva los datos existentes en lugar de publicar puntos inventados.
+- Un workflow programado actualiza las clasificaciones de F1 con la API pública Jolpica (compatible con Ergast) y F2, F3 y WEC con páginas oficiales FIA. Cada campeonato solo sustituye sus datos si la fuente devuelve una tabla plausible; si falla, conserva la última tabla válida.
 - Las clasificaciones de F2, F3 y WEC aún requieren una API o feed autorizado específico; no se inventan posiciones ni puntos.
-- Se ha añadido un importador diario del feed RSS público de noticias FIA. Solo publica titulares, fecha, atribución y enlaces originales; clasifica las noticias cuando el texto permite identificar F1/F2/F3/WEC. Si el feed no está disponible o no devuelve coincidencias, conserva los titulares anteriores. Hay que comprobar en Actions la disponibilidad efectiva del feed y la clasificación editorial.
+- El importador diario del RSS público de noticias FIA está probado y publica titulares, fecha, atribución y enlace original. La clasificación por campeonato se hace a partir del titular para evitar etiquetas erróneas; si el feed no está disponible o no hay titulares identificables, conserva los anteriores.
 
 ## Fuentes oficiales de calendarios
 - Calendarios FIA 2026: https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council
 - Calendario F1 oficial: https://www.formula1.com/en/racing/2026
 - Calendario F2 revisado (Miami y Montreal): https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026
 - Calendario F3: https://api.fia.com/news/fia-formula-3-championship-2026-season-calendar-revealed
-- API pública de resultados F1: https://api.jolpi.ca/ergast/f1/2026/driverStandings.json
+- API pública de resultados F1 (licencia CC BY-NC-SA 4.0; revisar condiciones si la web se monetiza): https://api.jolpi.ca/ergast/f1/2026/driverStandings.json
+- Clasificación oficial F1 FIA: https://api.fia.com/events/fia-formula-one-world-championship/season-2026/2026-classifications
+- Clasificación oficial WEC FIA: https://api.fia.com/events/world-endurance-championship/season-2026/standings
 
 ## Desarrollo local
 Para probar el frontend estático:
