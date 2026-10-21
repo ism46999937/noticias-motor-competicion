@@ -29,14 +29,16 @@ def clean(value):
     return re.sub(r"\s+", " ", value or "").strip()
 
 def category(title, description=""):
-    value = (title + " " + description).lower()
-    if re.search(r"\b(wec|world endurance|hypercar|lmgt3|le mans|1812 ?km|hours of (imola|spa|bahrain|fuji|são paulo))\b", value):
+    # Classify by the headline itself, not the broad feed description,
+    # which can mention unrelated championships and cause false labels.
+    value = (title or "").lower()
+    if re.search(r"\b(wec|world endurance|hypercar|lmgt3|le mans|1812 ?km|6 hours of (imola|spa|bahrain|fuji|são paulo))\b", value):
         return "WEC"
-    if re.search(r"\b(formula 3|formula three|fia f3|f3 championship)\b", value):
+    if re.search(r"\b(formula 3|formula three|fia f3|f3 championship|f3)\b", value):
         return "F3"
-    if re.search(r"\b(formula 2|formula two|fia f2|f2 championship)\b", value):
+    if re.search(r"\b(formula 2|formula two|fia f2|f2 championship|f2)\b", value):
         return "F2"
-    if re.search(r"\b(formula 1|formula one|fia f1|f1 world championship|grand prix)\b", value):
+    if re.search(r"\b(formula 1|formula one|fia f1|f1 world championship|f1|grand prix)\b", value):
         return "F1"
     return None
 
