@@ -1908,7 +1908,7 @@
       }
     }
   },
-  "updatedAt": "2026-10-21T20:46:13.478601+00:00",
+  "updatedAt": "2026-10-21T20:46:35.955510+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -1923,10 +1923,11 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "F1": "2026-10-21T20:46:13.478601+00:00",
-    "F2": "2026-10-21T20:46:13.478601+00:00",
-    "F3": "2026-10-21T20:46:13.478601+00:00",
-    "WEC": "2026-10-21T20:46:13.478601+00:00"
+    "F1": "2026-10-21T20:46:35.955510+00:00",
+    "F2": "2026-10-21T20:46:35.955510+00:00",
+    "F3": "2026-10-21T20:46:35.955510+00:00",
+    "WEC": "2026-10-21T20:46:35.955510+00:00"
   },
-  "newsUpdatedAt": "2026-10-21T20:44:47.702954+00:00"
+  "newsUpdatedAt": "2026-10-21T20:44:47.702954+00:00",
+  "newsCheckedAt": "2026-10-21T20:46:36.303563+00:00"
 }
