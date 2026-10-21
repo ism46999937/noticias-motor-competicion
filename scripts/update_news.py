@@ -84,18 +84,21 @@ def main():
         if len(headlines) >= 24:
             break
 
-    if not headlines:
-        print("No FIA RSS items matched F1/F2/F3/WEC; keeping existing headlines.")
-        return
     payload = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+    checked_at = datetime.now(timezone.utc).isoformat()
+    payload["newsCheckedAt"] = checked_at
+    if not headlines:
+        DATA_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        print("FIA RSS checked; no matching headlines. Preserved previous headlines.")
+        return
     old = payload.get("news", [])
     if old == headlines:
-        print("News unchanged; no commit needed.")
+        DATA_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        print("FIA RSS checked; headlines unchanged.")
         return
     payload["news"] = headlines
-    payload["newsUpdatedAt"] = datetime.now(timezone.utc).isoformat()
+    payload["newsUpdatedAt"] = checked_at
     DATA_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Updated {len(headlines)} headlines from FIA RSS.")
-
 if __name__ == "__main__":
     main()
