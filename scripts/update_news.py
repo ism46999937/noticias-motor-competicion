@@ -43,8 +43,8 @@ def category(title, description=""):
 def main():
     request = urllib.request.Request(FEED_URL, headers=HEADERS)
     try:
-        with urllib.request.urlopen(request, timeout=25) as response:
-            root = ET.fromstring(response.read())
+        with urllib.request.urlopen(request, timeout=12) as response:
+            root = ET.fromstring(response.read(2_000_000))
     except Exception as exc:
         print(f"FIA RSS unavailable; keeping existing headlines: {exc}")
         return
