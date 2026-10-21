@@ -15,10 +15,10 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "site-data.json"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NoticiasMotorCompeticion/1.0; +https://github.com/ism46999937/noticias-motor-competicion)"}
 SOURCES = {
-    "F1": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/2026-classifications",
-    "F2": "https://www.fia.com/events/formula-2-championship/season-2026/standings",
-    "F3": "https://www.fia.com/events/fia-formula-3-championship/season-2026/2026-standings",
-    "WEC": "https://www.fiawec.com/en/page/manufacturers-classification",
+    "F1": "https://api.fia.com/events/fia-formula-one-world-championship/season-2026/2026-classifications",
+    "F2": "https://api.fia.com/events/formula-2-championship/season-2026/standings",
+    "F3": "https://api.fia.com/events/fia-formula-3-championship/season-2026/2026-standings",
+    "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings",
 }
 
 def fetch(url):
@@ -100,23 +100,16 @@ def normal_rows(table, series, kind):
         if len(cells) < 3 or not re.fullmatch(r"\d{1,2}", cells[0].strip()):
             continue
         position = int(cells[0])
+        name = clean_name(cells[1])
         points = number(cells[-1])
-        if points is None:
+        if not name or points is None or len(name) > 140:
             continue
-        # Official FIA tables have driver/team names in column 2; WEC has
-        # manufacturer, car number, team/driver, race points and total points.
-        if kind == "teams":
-            name = clean_name(cells[3]) if series == "WEC" and len(cells) >= 6 else clean_name(cells[1])
-            team = name
-        elif series == "WEC" and len(cells) >= 6:
-            name = clean_name(cells[3])
-            team = " ".join(x for x in (clean_name(cells[1]), clean_name(cells[2])) if x)
-        else:
-            name = clean_name(cells[1])
-            team = "—"
-        if not name:
-            continue
-        rows.append({"position": position, "name": name, "team": team or "—", "points": int(points) if float(points).is_integer() else points})
+        rows.append({
+            "position": position,
+            "name": name,
+            "team": name if kind == "teams" else "—",
+            "points": int(points) if float(points).is_integer() else points,
+        })
     return rows
 
 def parse_fia_series(series, url):
@@ -142,26 +135,28 @@ def parse_fia_series(series, url):
 
 def parse_wec(url):
     tables = tables_from(fetch(url))
-    parsed_tables = []
+    result = {"Hypercar": {}, "LMGT3": {}}
     for table in tables:
         rows = table.get("rows", [])
         if len(rows) < 4:
             continue
+        heading = (table.get("heading") or "").lower()
         header = " ".join(rows[0]).lower()
-        kind = "drivers" if "drivers" in header else ("teams" if "team" in header else ("manufacturers" if "manufacturer" in header else None))
+        context = heading + " " + header
+        category = "LMGT3" if "lmgt3" in context else ("Hypercar" if "hypercar" in context else None)
+        if not category:
+            continue
+        kind = "drivers" if "driver" in context else ("teams" if any(word in context for word in ("manufacturer", "manufacturers", "team", "teams")) else None)
         if not kind:
             continue
-        parsed = normal_rows(table, "WEC", "teams" if kind in ("teams", "manufacturers") else "drivers")
-        if len(parsed) >= 3:
-            parsed_tables.append((kind, parsed))
-    # The official page orders the tables as Hypercar manufacturers, Hypercar
-    # drivers, LMGT3 teams, LMGT3 drivers. Validate table sizes before publishing.
-    if len(parsed_tables) < 4:
-        raise ValueError(f"WEC: expected four official classification tables; found {len(parsed_tables)}")
-    return {
-        "Hypercar": {"drivers": parsed_tables[1][1], "teams": parsed_tables[0][1]},
-        "LMGT3": {"drivers": parsed_tables[3][1], "teams": parsed_tables[2][1]},
-    }
+        parsed = normal_rows(table, "WEC", kind)
+        if len(parsed) >= 3 and kind not in result[category]:
+            result[category][kind] = parsed
+    for category in ("Hypercar", "LMGT3"):
+        for kind in ("drivers", "teams"):
+            if len(result[category].get(kind, [])) < 3:
+                raise ValueError(f"WEC {category} {kind}: official table missing or implausible")
+    return result
 
 def main():
     payload = json.loads(DATA_FILE.read_text(encoding="utf-8"))
