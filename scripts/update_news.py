@@ -46,7 +46,7 @@ def main():
     request = urllib.request.Request(FEED_URL, headers=HEADERS)
     try:
         with urllib.request.urlopen(request, timeout=12) as response:
-            root = ET.fromstring(response.read(2_000_000))
+            root = ET.fromstring(response.read())
     except Exception as exc:
         print(f"FIA RSS unavailable; keeping existing headlines: {exc}")
         return
