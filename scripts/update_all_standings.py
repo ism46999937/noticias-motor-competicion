@@ -15,7 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "site-data.json"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NoticiasMotorCompeticion/1.0; +https://github.com/ism46999937/noticias-motor-competicion)"}
 SOURCES = {
-    "F1": "https://api.fia.com/events/fia-formula-one-world-championship/season-2026/2026-classifications",
+    "F1": "https://api.jolpi.ca/ergast/f1/2026",
     "F2": "https://api.fia.com/events/formula-2-championship/season-2026/standings",
     "F3": "https://api.fia.com/events/fia-formula-3-championship/season-2026/2026-standings",
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings",
@@ -112,6 +112,43 @@ def normal_rows(table, series, kind):
         })
     return rows
 
+def parse_f1_jolpica(base):
+    def fetch_json(endpoint):
+        request = urllib.request.Request(
+            f"\${base}/\${endpoint}.json?limit=100",
+            headers={"User-Agent": "NoticiasMotorCompeticion/1.0 (+GitHub Actions)"},
+        )
+        with urllib.request.urlopen(request, timeout=20) as response:
+            return json.loads(response.read().decode("utf-8"))
+    def standings(payload, key):
+        lists = payload.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
+        return lists[0].get(key, []) if lists else []
+    driver_data = standings(fetch_json("driverStandings"), "DriverStandings")
+    team_data = standings(fetch_json("constructorStandings"), "ConstructorStandings")
+    if len(driver_data) < 5 or len(team_data) < 5:
+        raise ValueError("Jolpica did not return a full 2026 F1 standings table")
+    drivers = []
+    for item in driver_data:
+        driver = item.get("Driver", {})
+        name = " ".join(filter(None, [driver.get("givenName"), driver.get("familyName")]))
+        constructors = item.get("Constructors", [])
+        drivers.append({
+            "position": int(item.get("position", len(drivers) + 1)),
+            "name": name or "Unknown driver",
+            "team": constructors[0].get("name", "—") if constructors else "—",
+            "points": number(str(item.get("points", ""))) or 0,
+        })
+    teams = []
+    for item in team_data:
+        constructor = item.get("Constructor", {})
+        teams.append({
+            "position": int(item.get("position", len(teams) + 1)),
+            "name": constructor.get("name", "Unknown constructor"),
+            "team": constructor.get("nationality", "—"),
+            "points": number(str(item.get("points", ""))) or 0,
+        })
+    return {"drivers": drivers, "teams": teams}
+
 def parse_fia_series(series, url):
     tables = tables_from(fetch(url))
     driver_rows, team_rows = [], []
@@ -165,7 +202,7 @@ def main():
     errors = []
     for series in ("F1", "F2", "F3"):
         try:
-            payload["standings"][series] = parse_fia_series(series, SOURCES[series])
+            payload["standings"][series] = parse_f1_jolpica(SOURCES[series]) if series == "F1" else parse_fia_series(series, SOURCES[series])
             payload.setdefault("standingsSources", {})[series] = SOURCES[series]
             payload.setdefault("standingsUpdatedAt", {})[series] = datetime.now(timezone.utc).isoformat()
             successes.append(series)
