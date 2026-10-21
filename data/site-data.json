@@ -1798,117 +1798,117 @@
         "teams": [
           {
             "position": 1,
-            "name": "33 TF SPORT",
-            "team": "33 TF SPORT",
+            "name": "TF SPORT",
+            "team": "TF SPORT",
             "points": 92
           },
           {
             "position": 2,
-            "name": "92 THE BEND MANTHEY",
-            "team": "92 THE BEND MANTHEY",
+            "name": "THE BEND MANTHEY",
+            "team": "THE BEND MANTHEY",
             "points": 74
           },
           {
             "position": 3,
-            "name": "34 RACING TEAM TURKEY BY TF",
-            "team": "34 RACING TEAM TURKEY BY TF",
+            "name": "RACING TEAM TURKEY BY TF",
+            "team": "RACING TEAM TURKEY BY TF",
             "points": 70
           },
           {
             "position": 4,
-            "name": "69 TEAM WRT",
-            "team": "69 TEAM WRT",
+            "name": "TEAM WRT",
+            "team": "TEAM WRT",
             "points": 66
           },
           {
             "position": 5,
-            "name": "21 VISTA AF CORSE",
-            "team": "21 VISTA AF CORSE",
+            "name": "VISTA AF CORSE",
+            "team": "VISTA AF CORSE",
             "points": 64
           },
           {
             "position": 6,
-            "name": "27 HEART OF RACING TEAM",
-            "team": "27 HEART OF RACING TEAM",
+            "name": "HEART OF RACING TEAM",
+            "team": "HEART OF RACING TEAM",
             "points": 62
           },
           {
             "position": 7,
-            "name": "10 GARAGE 59",
-            "team": "10 GARAGE 59",
+            "name": "GARAGE 59",
+            "team": "GARAGE 59",
             "points": 57
           },
           {
             "position": 8,
-            "name": "91 MANTHEY DK ENGINEERING",
-            "team": "91 MANTHEY DK ENGINEERING",
+            "name": "MANTHEY DK ENGINEERING",
+            "team": "MANTHEY DK ENGINEERING",
             "points": 54
           },
           {
             "position": 9,
-            "name": "23 HEART OF RACING TEAM",
-            "team": "23 HEART OF RACING TEAM",
+            "name": "HEART OF RACING TEAM",
+            "team": "HEART OF RACING TEAM",
             "points": 51
           },
           {
             "position": 10,
-            "name": "32 TEAM WRT",
-            "team": "32 TEAM WRT",
+            "name": "TEAM WRT",
+            "team": "TEAM WRT",
             "points": 48
           },
           {
             "position": 11,
-            "name": "78 AKKODIS ASP TEAM",
-            "team": "78 AKKODIS ASP TEAM",
+            "name": "AKKODIS ASP TEAM",
+            "team": "AKKODIS ASP TEAM",
             "points": 39
           },
           {
             "position": 12,
-            "name": "87 AKKODIS ASP TEAM",
-            "team": "87 AKKODIS ASP TEAM",
+            "name": "AKKODIS ASP TEAM",
+            "team": "AKKODIS ASP TEAM",
             "points": 38
           },
           {
             "position": 13,
-            "name": "61 IRON LYNX",
-            "team": "61 IRON LYNX",
+            "name": "IRON LYNX",
+            "team": "IRON LYNX",
             "points": 25
           },
           {
             "position": 14,
-            "name": "58 GARAGE 59",
-            "team": "58 GARAGE 59",
+            "name": "GARAGE 59",
+            "team": "GARAGE 59",
             "points": 22
           },
           {
             "position": 15,
-            "name": "88 PROTON COMPETITION",
-            "team": "88 PROTON COMPETITION",
+            "name": "PROTON COMPETITION",
+            "team": "PROTON COMPETITION",
             "points": 16
           },
           {
             "position": 16,
-            "name": "54 VISTA AF CORSE",
-            "team": "54 VISTA AF CORSE",
+            "name": "VISTA AF CORSE",
+            "team": "VISTA AF CORSE",
             "points": 13
           },
           {
             "position": 17,
-            "name": "77 PROTON COMPETITION",
-            "team": "77 PROTON COMPETITION",
+            "name": "PROTON COMPETITION",
+            "team": "PROTON COMPETITION",
             "points": 13
           },
           {
             "position": 18,
-            "name": "79 IRON LYNX",
-            "team": "79 IRON LYNX",
+            "name": "IRON LYNX",
+            "team": "IRON LYNX",
             "points": 10
           }
         ]
       }
     }
   },
-  "updatedAt": "2026-10-21T20:45:03.806586+00:00",
+  "updatedAt": "2026-10-21T20:45:41.225305+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -1923,10 +1923,10 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "F1": "2026-10-21T20:45:03.806586+00:00",
-    "F2": "2026-10-21T20:45:03.806586+00:00",
-    "F3": "2026-10-21T20:45:03.806586+00:00",
-    "WEC": "2026-10-21T20:45:03.806586+00:00"
+    "F1": "2026-10-21T20:45:41.225305+00:00",
+    "F2": "2026-10-21T20:45:41.225305+00:00",
+    "F3": "2026-10-21T20:45:41.225305+00:00",
+    "WEC": "2026-10-21T20:45:41.225305+00:00"
   },
   "newsUpdatedAt": "2026-10-21T20:44:47.702954+00:00"
 }
