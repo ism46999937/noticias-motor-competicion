@@ -11,14 +11,6 @@
     {
       "series": "WEC",
       "source": "FIA",
-      "date": "2026-10-19",
-      "title": "Rally roadmaps and grassroots affordability focus of FIA World Motor Sport Council",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/rally-roadmaps-and-grassroots-affordability-focus-fia-world-motor-sport-council"
-    },
-    {
-      "series": "WEC",
-      "source": "FIA",
       "date": "2026-10-18",
       "title": "WEC: Toyota masters mixed conditions to clinch the crown in Spain",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
@@ -621,43 +613,43 @@
       "drivers": [
         {
           "position": 1,
-          "name": "R. CAMARA BRA",
+          "name": "R. CAMARA",
           "team": "—",
           "points": 207
         },
         {
           "position": 2,
-          "name": "N. TSOLOV BUL",
+          "name": "N. TSOLOV",
           "team": "—",
           "points": 200
         },
         {
           "position": 3,
-          "name": "A. DUNNE IRL",
+          "name": "A. DUNNE",
           "team": "—",
           "points": 189
         },
         {
           "position": 4,
-          "name": "G. MINI ITA",
+          "name": "G. MINI",
           "team": "—",
           "points": 163
         },
         {
           "position": 5,
-          "name": "D. BEGANOVIC SWE",
+          "name": "D. BEGANOVIC",
           "team": "—",
           "points": 137
         },
         {
           "position": 6,
-          "name": "N. LEON MEX",
+          "name": "N. LEON",
           "team": "—",
           "points": 133
         },
         {
           "position": 7,
-          "name": "M. STENSHORNE NOR",
+          "name": "M. STENSHORNE",
           "team": "—",
           "points": 107
         },
@@ -675,43 +667,43 @@
         },
         {
           "position": 10,
-          "name": "L. VAN HOEPEN NED",
+          "name": "L. VAN HOEPEN",
           "team": "—",
           "points": 90
         },
         {
           "position": 11,
-          "name": "T. INTHRAPHUVASAK THA",
+          "name": "T. INTHRAPHUVASAK",
           "team": "—",
           "points": 71
         },
         {
           "position": 12,
-          "name": "R. MIYATA JPN",
+          "name": "R. MIYATA",
           "team": "—",
           "points": 70
         },
         {
           "position": 13,
-          "name": "R. VILLAGOMEZ MEX",
+          "name": "R. VILLAGOMEZ",
           "team": "—",
           "points": 42
         },
         {
           "position": 14,
-          "name": "J. BENNETT GBR",
+          "name": "J. BENNETT",
           "team": "—",
           "points": 38
         },
         {
           "position": 15,
-          "name": "O. GOETHE GER",
+          "name": "O. GOETHE",
           "team": "—",
           "points": 37
         },
         {
           "position": 16,
-          "name": "R. BILINSKI POL",
+          "name": "R. BILINSKI",
           "team": "—",
           "points": 36
         },
@@ -723,37 +715,37 @@
         },
         {
           "position": 18,
-          "name": "E. FITTIPALDI BRA",
+          "name": "E. FITTIPALDI",
           "team": "—",
           "points": 28
         },
         {
           "position": 19,
-          "name": "C. HERTA USA",
+          "name": "C. HERTA",
           "team": "—",
           "points": 26
         },
         {
           "position": 20,
-          "name": "M. BOYA ESP",
+          "name": "M. BOYA",
           "team": "—",
           "points": 21
         },
         {
           "position": 21,
-          "name": "N. VARRONE ARG",
+          "name": "N. VARRONE",
           "team": "—",
           "points": 15
         },
         {
           "position": 22,
-          "name": "C. SHIELDS GBR",
+          "name": "C. SHIELDS",
           "team": "—",
           "points": 10
         },
         {
           "position": 23,
-          "name": "H. YAMAKOSHI JPN",
+          "name": "H. YAMAKOSHI",
           "team": "—",
           "points": 2
         }
@@ -831,127 +823,127 @@
       "drivers": [
         {
           "position": 1,
-          "name": "U. UGOCHUKWU USA",
+          "name": "U. UGOCHUKWU",
           "team": "—",
           "points": 159
         },
         {
           "position": 2,
-          "name": "F. SLATER GBR",
+          "name": "F. SLATER",
           "team": "—",
           "points": 145
         },
         {
           "position": 3,
-          "name": "T. TAPONEN FIN",
+          "name": "T. TAPONEN",
           "team": "—",
           "points": 109
         },
         {
           "position": 4,
-          "name": "T. KATO JPN",
+          "name": "T. KATO",
           "team": "—",
           "points": 105
         },
         {
           "position": 5,
-          "name": "T. NAEL FRA",
+          "name": "T. NAEL",
           "team": "—",
           "points": 88
         },
         {
           "position": 6,
-          "name": "P. CLEROT BRA",
+          "name": "P. CLEROT",
           "team": "—",
           "points": 88
         },
         {
           "position": 7,
-          "name": "E. RIVERA MEX",
+          "name": "E. RIVERA",
           "team": "—",
           "points": 87
         },
         {
           "position": 8,
-          "name": "B. BADOER ITA",
+          "name": "B. BADOER",
           "team": "—",
           "points": 71
         },
         {
           "position": 9,
-          "name": "H. YAMAKOSHI JPN",
+          "name": "H. YAMAKOSHI",
           "team": "—",
           "points": 71
         },
         {
           "position": 10,
-          "name": "N. STROMSTED DEN",
+          "name": "N. STROMSTED",
           "team": "—",
           "points": 65
         },
         {
           "position": 11,
-          "name": "B. DEL PINO ESP",
+          "name": "B. DEL PINO",
           "team": "—",
           "points": 57
         },
         {
           "position": 12,
-          "name": "M. GLADYSZ POL",
+          "name": "M. GLADYSZ",
           "team": "—",
           "points": 54
         },
         {
           "position": 13,
-          "name": "M. COLNAGHI ARG",
+          "name": "M. COLNAGHI",
           "team": "—",
           "points": 54
         },
         {
           "position": 14,
-          "name": "J. NAKAMURA JPN",
+          "name": "J. NAKAMURA",
           "team": "—",
           "points": 53
         },
         {
           "position": 15,
-          "name": "A. GIUSTI FRA",
+          "name": "A. GIUSTI",
           "team": "—",
           "points": 45
         },
         {
           "position": 16,
-          "name": "E. DELIGNY FRA",
+          "name": "E. DELIGNY",
           "team": "—",
           "points": 40
         },
         {
           "position": 17,
-          "name": "J. WHARTON AUS",
+          "name": "J. WHARTON",
           "team": "—",
           "points": 39
         },
         {
           "position": 18,
-          "name": "Y. DAVID SRI",
+          "name": "Y. DAVID",
           "team": "—",
           "points": 35
         },
         {
           "position": 19,
-          "name": "N. LACORTE ITA",
+          "name": "N. LACORTE",
           "team": "—",
           "points": 33
         },
         {
           "position": 20,
-          "name": "K. LE JPN",
+          "name": "K. LE",
           "team": "—",
           "points": 30
         },
         {
           "position": 21,
-          "name": "L. SHARP NZL",
+          "name": "L. SHARP",
           "team": "—",
           "points": 21
         },
@@ -963,19 +955,19 @@
         },
         {
           "position": 23,
-          "name": "A. POWELL USA",
+          "name": "A. POWELL",
           "team": "—",
           "points": 14
         },
         {
           "position": 24,
-          "name": "M. DE PALO ITA",
+          "name": "M. DE PALO",
           "team": "—",
           "points": 7
         },
         {
           "position": 25,
-          "name": "B. BENAVIDES USA",
+          "name": "B. BENAVIDES",
           "team": "—",
           "points": 6
         },
@@ -987,49 +979,49 @@
         },
         {
           "position": 27,
-          "name": "F. MCLAUGHLIN IRL",
+          "name": "F. MCLAUGHLIN",
           "team": "—",
           "points": 2
         },
         {
           "position": 28,
-          "name": "F. BARRICHELLO BRA",
+          "name": "F. BARRICHELLO",
           "team": "—",
           "points": 2
         },
         {
           "position": 29,
-          "name": "J. GARFIAS MEX",
+          "name": "J. GARFIAS",
           "team": "—",
           "points": 1
         },
         {
           "position": 30,
-          "name": "N. BHIROMBHAKDI THA",
+          "name": "N. BHIROMBHAKDI",
           "team": "—",
           "points": 0
         },
         {
           "position": 31,
-          "name": "R. ESCOTTO MEX",
+          "name": "R. ESCOTTO",
           "team": "—",
           "points": 0
         },
         {
           "position": 32,
-          "name": "P. HEUZENROEDER AUS",
+          "name": "P. HEUZENROEDER",
           "team": "—",
           "points": 0
         },
         {
           "position": 33,
-          "name": "W. SHIN KOR",
+          "name": "W. SHIN",
           "team": "—",
           "points": 0
         },
         {
           "position": 34,
-          "name": "N. MACCAGNANI ITA",
+          "name": "N. MACCAGNANI",
           "team": "—",
           "points": 0
         },
@@ -1108,61 +1100,61 @@
         "drivers": [
           {
             "position": 1,
-            "name": "Buemi Sébastien SUI",
+            "name": "Buemi Sébastien",
             "team": "—",
             "points": 114
           },
           {
             "position": 1,
-            "name": "Hartley Brendon NZL",
+            "name": "Hartley Brendon",
             "team": "—",
             "points": 114
           },
           {
             "position": 1,
-            "name": "Hirakawa Ryō JPN",
+            "name": "Hirakawa Ryō",
             "team": "—",
             "points": 114
           },
           {
             "position": 2,
-            "name": "Conway Mike GBR",
+            "name": "Conway Mike",
             "team": "—",
             "points": 97
           },
           {
             "position": 2,
-            "name": "De Vries Nyck NED",
+            "name": "De Vries Nyck",
             "team": "—",
             "points": 97
           },
           {
             "position": 2,
-            "name": "Kobayashi Kamui JPN",
+            "name": "Kobayashi Kamui",
             "team": "—",
             "points": 97
           },
           {
             "position": 3,
-            "name": "Magnussen Kevin DEN",
+            "name": "Magnussen Kevin",
             "team": "—",
             "points": 75
           },
           {
             "position": 3,
-            "name": "Marciello Raffaele SUI",
+            "name": "Marciello Raffaele",
             "team": "—",
             "points": 75
           },
           {
             "position": 4,
-            "name": "Frijns Robin NED",
+            "name": "Frijns Robin",
             "team": "—",
             "points": 75
           },
           {
             "position": 4,
-            "name": "Rast René GER",
+            "name": "Rast René",
             "team": "—",
             "points": 75
           },
@@ -1174,19 +1166,19 @@
           },
           {
             "position": 6,
-            "name": "Fuoco Antonio ITA",
+            "name": "Fuoco Antonio",
             "team": "—",
             "points": 69
           },
           {
             "position": 6,
-            "name": "Molina Miguel ESP",
+            "name": "Molina Miguel",
             "team": "—",
             "points": 69
           },
           {
             "position": 6,
-            "name": "Nielsen Nicklas DEN",
+            "name": "Nielsen Nicklas",
             "team": "—",
             "points": 69
           },
@@ -1198,61 +1190,61 @@
           },
           {
             "position": 8,
-            "name": "Calado James GBR",
+            "name": "Calado James",
             "team": "—",
             "points": 59
           },
           {
             "position": 8,
-            "name": "Giovinazzi Antonio ITA",
+            "name": "Giovinazzi Antonio",
             "team": "—",
             "points": 59
           },
           {
             "position": 8,
-            "name": "Pier Guidi Alessandro ITA",
+            "name": "Pier Guidi Alessandro",
             "team": "—",
             "points": 59
           },
           {
             "position": 9,
-            "name": "Nato Norman FRA",
+            "name": "Nato Norman",
             "team": "—",
             "points": 58
           },
           {
             "position": 9,
-            "name": "Stevens Will GBR",
+            "name": "Stevens Will",
             "team": "—",
             "points": 58
           },
           {
             "position": 10,
-            "name": "Habsburg Ferdinand AUT",
+            "name": "Habsburg Ferdinand",
             "team": "—",
             "points": 57
           },
           {
             "position": 10,
-            "name": "Milesi Charles FRA",
+            "name": "Milesi Charles",
             "team": "—",
             "points": 57
           },
           {
             "position": 11,
-            "name": "Bamber Earl NZL",
+            "name": "Bamber Earl",
             "team": "—",
             "points": 56
           },
           {
             "position": 11,
-            "name": "Bourdais Sébastien FRA",
+            "name": "Bourdais Sébastien",
             "team": "—",
             "points": 56
           },
           {
             "position": 12,
-            "name": "Aitken Jack GBR",
+            "name": "Aitken Jack",
             "team": "—",
             "points": 52
           },
@@ -1264,25 +1256,25 @@
           },
           {
             "position": 14,
-            "name": "Gamble Tom GBR",
+            "name": "Gamble Tom",
             "team": "—",
             "points": 42
           },
           {
             "position": 14,
-            "name": "Tincknell Harry GBR",
+            "name": "Tincknell Harry",
             "team": "—",
             "points": 42
           },
           {
             "position": 15,
-            "name": "Hanson Philip GBR",
+            "name": "Hanson Philip",
             "team": "—",
             "points": 41
           },
           {
             "position": 15,
-            "name": "Kubica Robert POL",
+            "name": "Kubica Robert",
             "team": "—",
             "points": 41
           },
@@ -1294,85 +1286,85 @@
           },
           {
             "position": 16,
-            "name": "Gounon Jules FRA",
+            "name": "Gounon Jules",
             "team": "—",
             "points": 36
           },
           {
             "position": 16,
-            "name": "Martins Victor FRA",
+            "name": "Martins Victor",
             "team": "—",
             "points": 36
           },
           {
             "position": 17,
-            "name": "Delétraz Louis SUI",
+            "name": "Delétraz Louis",
             "team": "—",
             "points": 26
           },
           {
             "position": 18,
-            "name": "Makowiecki Frédéric FRA",
+            "name": "Makowiecki Frédéric",
             "team": "—",
             "points": 14
           },
           {
             "position": 19,
-            "name": "Duval Loïc FRA",
+            "name": "Duval Loïc",
             "team": "—",
             "points": 12
           },
           {
             "position": 19,
-            "name": "Jakobsen Malthe DEN",
+            "name": "Jakobsen Malthe",
             "team": "—",
             "points": 12
           },
           {
             "position": 19,
-            "name": "Pourchaire Théo FRA",
+            "name": "Pourchaire Théo",
             "team": "—",
             "points": 12
           },
           {
             "position": 20,
-            "name": "Derani Luis Felipe BRA",
+            "name": "Derani Luis Felipe",
             "team": "—",
             "points": 11
           },
           {
             "position": 20,
-            "name": "Jaubert Mathys FRA",
+            "name": "Jaubert Mathys",
             "team": "—",
             "points": 11
           },
           {
             "position": 20,
-            "name": "Lotterer André GER",
+            "name": "Lotterer André",
             "team": "—",
             "points": 11
           },
           {
             "position": 21,
-            "name": "Lynn Alex GBR",
+            "name": "Lynn Alex",
             "team": "—",
             "points": 8
           },
           {
             "position": 22,
-            "name": "Gunn Ross GBR",
+            "name": "Gunn Ross",
             "team": "—",
             "points": 8
           },
           {
             "position": 23,
-            "name": "Cassidy Nick NZL",
+            "name": "Cassidy Nick",
             "team": "—",
             "points": 6
           },
           {
             "position": 23,
-            "name": "Di Resta Paul GBR",
+            "name": "Di Resta Paul",
             "team": "—",
             "points": 6
           },
@@ -1384,19 +1376,19 @@
           },
           {
             "position": 25,
-            "name": "Riberas Alex ESP",
+            "name": "Riberas Alex",
             "team": "—",
             "points": 6
           },
           {
             "position": 25,
-            "name": "Sørensen Marco DEN",
+            "name": "Sørensen Marco",
             "team": "—",
             "points": 6
           },
           {
             "position": 26,
-            "name": "Taylor Ricky USA",
+            "name": "Taylor Ricky",
             "team": "—",
             "points": 2
           }
@@ -1456,43 +1448,43 @@
         "drivers": [
           {
             "position": 1,
-            "name": "Edgar Jonny GBR",
+            "name": "Edgar Jonny",
             "team": "—",
             "points": 92
           },
           {
             "position": 2,
-            "name": "Catsburg Nicky NED",
+            "name": "Catsburg Nicky",
             "team": "—",
             "points": 88
           },
           {
             "position": 3,
-            "name": "Lietz Richard AUT",
+            "name": "Lietz Richard",
             "team": "—",
             "points": 74
           },
           {
             "position": 3,
-            "name": "Pera Riccardo ITA",
+            "name": "Pera Riccardo",
             "team": "—",
             "points": 74
           },
           {
             "position": 3,
-            "name": "Shahin Yasser AUS",
+            "name": "Shahin Yasser",
             "team": "—",
             "points": 74
           },
           {
             "position": 4,
-            "name": "Dempsey Peter IRL",
+            "name": "Dempsey Peter",
             "team": "—",
             "points": 70
           },
           {
             "position": 4,
-            "name": "Eastwood Charlie IRL",
+            "name": "Eastwood Charlie",
             "team": "—",
             "points": 70
           },
@@ -1504,61 +1496,61 @@
           },
           {
             "position": 5,
-            "name": "Keating Ben USA",
+            "name": "Keating Ben",
             "team": "—",
             "points": 70
           },
           {
             "position": 6,
-            "name": "Harper Daniel GBR",
+            "name": "Harper Daniel",
             "team": "—",
             "points": 66
           },
           {
             "position": 6,
-            "name": "Mcintosh Anthony USA",
+            "name": "Mcintosh Anthony",
             "team": "—",
             "points": 66
           },
           {
             "position": 6,
-            "name": "Thompson Parker CAN",
+            "name": "Thompson Parker",
             "team": "—",
             "points": 66
           },
           {
             "position": 7,
-            "name": "Hériau François FRA",
+            "name": "Hériau François",
             "team": "—",
             "points": 64
           },
           {
             "position": 7,
-            "name": "Mann Simon USA",
+            "name": "Mann Simon",
             "team": "—",
             "points": 64
           },
           {
             "position": 7,
-            "name": "Rovera Alessio ITA",
+            "name": "Rovera Alessio",
             "team": "—",
             "points": 64
           },
           {
             "position": 8,
-            "name": "Drudi Mattia ITA",
+            "name": "Drudi Mattia",
             "team": "—",
             "points": 62
           },
           {
             "position": 8,
-            "name": "James Ian USA",
+            "name": "James Ian",
             "team": "—",
             "points": 62
           },
           {
             "position": 8,
-            "name": "Robichon Zacharie CAN",
+            "name": "Robichon Zacharie",
             "team": "—",
             "points": 62
           },
@@ -1570,13 +1562,13 @@
           },
           {
             "position": 9,
-            "name": "Fleming Thomas GBR",
+            "name": "Fleming Thomas",
             "team": "—",
             "points": 57
           },
           {
             "position": 9,
-            "name": "Kirchhöfer Marvin GER",
+            "name": "Kirchhöfer Marvin",
             "team": "—",
             "points": 57
           },
@@ -1588,7 +1580,7 @@
           },
           {
             "position": 10,
-            "name": "Cottingham James GBR",
+            "name": "Cottingham James",
             "team": "—",
             "points": 54
           },
@@ -1600,19 +1592,19 @@
           },
           {
             "position": 11,
-            "name": "Adam Jonny GBR",
+            "name": "Adam Jonny",
             "team": "—",
             "points": 51
           },
           {
             "position": 11,
-            "name": "Newell Gray USA",
+            "name": "Newell Gray",
             "team": "—",
             "points": 51
           },
           {
             "position": 12,
-            "name": "Farfus Augusto BRA",
+            "name": "Farfus Augusto",
             "team": "—",
             "points": 48
           },
@@ -1624,19 +1616,19 @@
           },
           {
             "position": 12,
-            "name": "Leung Darren GBR",
+            "name": "Leung Darren",
             "team": "—",
             "points": 48
           },
           {
             "position": 13,
-            "name": "Barrichello Eduardo BRA",
+            "name": "Barrichello Eduardo",
             "team": "—",
             "points": 48
           },
           {
             "position": 14,
-            "name": "David Hadrien FRA",
+            "name": "David Hadrien",
             "team": "—",
             "points": 39
           },
@@ -1648,13 +1640,13 @@
           },
           {
             "position": 15,
-            "name": "López José María ARG",
+            "name": "López José María",
             "team": "—",
             "points": 38
           },
           {
             "position": 15,
-            "name": "Schmid Clemens AUT",
+            "name": "Schmid Clemens",
             "team": "—",
             "points": 38
           },
@@ -1666,7 +1658,7 @@
           },
           {
             "position": 16,
-            "name": "Hawksworth Jack GBR",
+            "name": "Hawksworth Jack",
             "team": "—",
             "points": 36
           },
@@ -1678,7 +1670,7 @@
           },
           {
             "position": 17,
-            "name": "Berry Martin AUS",
+            "name": "Berry Martin",
             "team": "—",
             "points": 25
           },
@@ -1690,43 +1682,43 @@
           },
           {
             "position": 18,
-            "name": "Mcdonald Blake USA",
+            "name": "Mcdonald Blake",
             "team": "—",
             "points": 22
           },
           {
             "position": 19,
-            "name": "Gehrsitz Finn GER",
+            "name": "Gehrsitz Finn",
             "team": "—",
             "points": 22
           },
           {
             "position": 19,
-            "name": "Goethe Benjamin GER",
+            "name": "Goethe Benjamin",
             "team": "—",
             "points": 22
           },
           {
             "position": 19,
-            "name": "West Alexander SWE",
+            "name": "West Alexander",
             "team": "—",
             "points": 22
           },
           {
             "position": 20,
-            "name": "Gattuso Stefano ITA",
+            "name": "Gattuso Stefano",
             "team": "—",
             "points": 16
           },
           {
             "position": 20,
-            "name": "Levorato Giammarco ITA",
+            "name": "Levorato Giammarco",
             "team": "—",
             "points": 16
           },
           {
             "position": 20,
-            "name": "Sargeant Logan USA",
+            "name": "Sargeant Logan",
             "team": "—",
             "points": 16
           },
@@ -1738,61 +1730,61 @@
           },
           {
             "position": 21,
-            "name": "Flohr Thomas SUI",
+            "name": "Flohr Thomas",
             "team": "—",
             "points": 13
           },
           {
             "position": 21,
-            "name": "Rigon Davide ITA",
+            "name": "Rigon Davide",
             "team": "—",
             "points": 13
           },
           {
             "position": 22,
-            "name": "Powell Eric USA",
+            "name": "Powell Eric",
             "team": "—",
             "points": 13
           },
           {
             "position": 22,
-            "name": "Priaulx Sebastian GBR",
+            "name": "Priaulx Sebastian",
             "team": "—",
             "points": 13
           },
           {
             "position": 22,
-            "name": "Tuck Ben GBR",
+            "name": "Tuck Ben",
             "team": "—",
             "points": 13
           },
           {
             "position": 23,
-            "name": "Cressoni Matteo ITA",
+            "name": "Cressoni Matteo",
             "team": "—",
             "points": 10
           },
           {
             "position": 23,
-            "name": "Hodenius Lin NED",
+            "name": "Hodenius Lin",
             "team": "—",
             "points": 10
           },
           {
             "position": 23,
-            "name": "Zelger Johannes ITA",
+            "name": "Zelger Johannes",
             "team": "—",
             "points": 10
           },
           {
             "position": 24,
-            "name": "Varrone Nicolás ARG",
+            "name": "Varrone Nicolás",
             "team": "—",
             "points": 4
           },
           {
             "position": 25,
-            "name": "Masson Esteban FRA",
+            "name": "Masson Esteban",
             "team": "—",
             "points": 3
           },
@@ -1916,7 +1908,7 @@
       }
     }
   },
-  "updatedAt": "2026-10-21T20:43:58.570743+00:00",
+  "updatedAt": "2026-10-21T20:44:47.407625+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -1931,10 +1923,10 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "F1": "2026-10-21T20:43:58.570743+00:00",
-    "F2": "2026-10-21T20:43:58.570743+00:00",
-    "F3": "2026-10-21T20:43:58.570743+00:00",
-    "WEC": "2026-10-21T20:43:58.570743+00:00"
+    "F1": "2026-10-21T20:44:47.407625+00:00",
+    "F2": "2026-10-21T20:44:47.407625+00:00",
+    "F3": "2026-10-21T20:44:47.407625+00:00",
+    "WEC": "2026-10-21T20:44:47.407625+00:00"
   },
-  "newsUpdatedAt": "2026-10-21T20:43:58.864770+00:00"
+  "newsUpdatedAt": "2026-10-21T20:44:47.702954+00:00"
 }
