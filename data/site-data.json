@@ -1,0 +1,12 @@
+{
+  "news": [],
+  "calendars": {
+    "F1": [],
+    "F2": [],
+    "F3": [],
+    "WEC": []
+  },
+  "standings": {},
+  "updatedAt": null,
+  "note": "Datos vacíos deliberadamente: configurar fuentes oficiales verificadas antes de mostrar fechas o puntos."
+}
