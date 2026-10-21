@@ -186,7 +186,7 @@ def main():
     if successes:
         now = datetime.now(timezone.utc).isoformat()
         payload["updatedAt"] = now
-        payload["standingsUpdatedAt"] = {s: now for s in successes}
+        payload.setdefault("standingsUpdatedAt", {}).update({s: now for s in successes})
         DATA_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print("Standings updated: " + (", ".join(successes) if successes else "none"))
     for error in errors:
