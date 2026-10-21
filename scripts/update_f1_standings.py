@@ -22,9 +22,7 @@ def fetch(path):
 
 def first_list(payload, key):
     lists = payload.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
-    if not lists:
-        return []
-    return lists[0].get(key, [])
+    return lists[0].get(key, []) if lists else []
 
 def main():
     try:
@@ -57,7 +55,11 @@ def main():
             "points": row.get("points", "—"),
         })
     payload = json.loads(DATA_FILE.read_text(encoding="utf-8"))
-    payload.setdefault("standings", {})["F1"] = {"drivers": driver_rows, "teams": team_rows}
+    new_standings = {"drivers": driver_rows, "teams": team_rows}
+    if payload.get("standings", {}).get("F1") == new_standings:
+        print("F1 standings unchanged; no commit needed.")
+        return
+    payload.setdefault("standings", {})["F1"] = new_standings
     payload["updatedAt"] = datetime.now(timezone.utc).isoformat()
     DATA_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Updated F1 standings: {len(driver_rows)} drivers, {len(team_rows)} constructors.")
