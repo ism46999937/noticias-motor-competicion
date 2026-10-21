@@ -1,11 +1,8 @@
 name: Update Formula 1 standings
 on:
   schedule:
-    - cron: "25 7 * * 1"
+    - cron: "25 7 * * *"
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Deploy website to GitHub Pages"]
-    types: [completed]
 permissions:
   contents: write
 concurrency:
@@ -13,7 +10,6 @@ concurrency:
   cancel-in-progress: false
 jobs:
   update:
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
