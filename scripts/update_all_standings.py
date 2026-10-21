@@ -92,7 +92,9 @@ def number(value):
     return float(match.group(1)) if match else None
 
 def clean_name(value):
-    return re.sub(r"\s+", " ", re.sub(r"Image\s+(USA|GBR|BRA|ITA|FRA|NED|ESP|JPN|SUI|FIN|AUS|DEN|GER|AUT|NZL|IRL|BUL|POL|SWE|NOR|MEX|ARG|CAN|THA|KOR|SRI)\b", "", value)).strip()
+    value = re.sub(r"Image\s+(USA|GBR|BRA|ITA|FRA|NED|ESP|JPN|SUI|FIN|AUS|DEN|GER|AUT|NZL|IRL|BUL|POL|SWE|NOR|MEX|ARG|CAN|THA|KOR|SRI)\b", "", value, flags=re.I)
+    value = re.sub(r"\s+(USA|GBR|BRA|ITA|FRA|NED|ESP|JPN|SUI|FIN|AUS|DEN|GER|AUT|NZL|IRL|BUL|POL|SWE|NOR|MEX|ARG|CAN|THA|KOR|SRI)\s*$", "", value, flags=re.I)
+    return re.sub(r"\s+", " ", value).strip()
 
 def normal_rows(table, series, kind):
     rows = []
