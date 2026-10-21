@@ -141,7 +141,7 @@ def parse_fia_series(series, url):
     return {"drivers": driver_rows, "teams": team_rows}
 
 def parse_wec(url):
-    tables = tables_from(url)
+    tables = tables_from(fetch(url))
     parsed_tables = []
     for table in tables:
         rows = table.get("rows", [])
@@ -168,27 +168,18 @@ def main():
     payload.setdefault("standings", {})
     successes = []
     errors = []
-    try:
-        payload["standings"]["F1"] = {
-            "drivers": normal_rows(tables_from(fetch(SOURCES["F1"]["drivers"]))[0], "F1", "drivers"),
-            "teams": normal_rows(tables_from(fetch(SOURCES["F1"]["teams"]))[0], "F1", "teams"),
-        }
-        if len(payload["standings"]["F1"]["drivers"]) < 5 or len(payload["standings"]["F1"]["teams"]) < 5:
-            raise ValueError("F1 source did not return a full standings table")
-        payload.setdefault("standingsSources", {})["F1"] = SOURCES["F1"]["drivers"]
-        successes.append("F1")
-    except Exception as exc:
-        errors.append(f"F1: {exc}")
-    for series in ("F2", "F3"):
+    for series in ("F1", "F2", "F3"):
         try:
             payload["standings"][series] = parse_fia_series(series, SOURCES[series])
             payload.setdefault("standingsSources", {})[series] = SOURCES[series]
+            payload.setdefault("standingsUpdatedAt", {})[series] = datetime.now(timezone.utc).isoformat()
             successes.append(series)
         except Exception as exc:
             errors.append(f"{series}: {exc}")
     try:
         payload["standings"]["WEC"] = parse_wec(SOURCES["WEC"])
         payload.setdefault("standingsSources", {})["WEC"] = SOURCES["WEC"]
+        payload.setdefault("standingsUpdatedAt", {})["WEC"] = datetime.now(timezone.utc).isoformat()
         successes.append("WEC")
     except Exception as exc:
         errors.append(f"WEC: {exc}")
