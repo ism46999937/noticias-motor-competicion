@@ -3,6 +3,12 @@ on:
   schedule:
     - cron: "25 7 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_all_standings.py"
+      - "scripts/update_news.py"
+      - ".github/workflows/update-f1-standings.yml"
 permissions:
   contents: write
 concurrency:
@@ -18,8 +24,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Fetch latest available F1 standings
-        run: python scripts/update_f1_standings.py
+      - name: Fetch official F1, F2, F3 and WEC standings
+        run: python scripts/update_all_standings.py
       - name: Fetch official FIA news headlines
         run: python scripts/update_news.py
       - name: Commit changed data
