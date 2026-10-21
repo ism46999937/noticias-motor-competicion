@@ -10,10 +10,11 @@ self.addEventListener("fetch", event => {
   const request = event.request;
   if (request.method !== "GET" || new URL(request.url).origin !== self.location.origin) return;
   if (new URL(request.url).pathname.endsWith("/data/site-data.json")) {
+    const cacheKey = new Request(new URL("./data/site-data.json", self.registration.scope).toString());
     event.respondWith(fetch(request).then(response => {
-      if (response.ok) caches.open(CACHE_NAME).then(cache => cache.put(request, response.clone()));
+      if (response.ok) caches.open(CACHE_NAME).then(cache => cache.put(cacheKey, response.clone()));
       return response;
-    }).catch(() => caches.match(request)));
+    }).catch(() => caches.match(cacheKey)));
     return;
   }
   event.respondWith(caches.match(request).then(cached => cached || fetch(request).then(response => {
