@@ -13,3 +13,30 @@
   body{padding-bottom:env(safe-area-inset-bottom)}
   footer{padding-bottom:calc(25px + env(safe-area-inset-bottom))}
 }
+
+
+/* Clasificaciones sin desplazamiento horizontal en pantallas móviles */
+@media(max-width:760px){
+  .standings-table-wrap{overflow-x:visible;width:100%;max-width:100%}
+  .standings-table{width:100%;min-width:0;table-layout:fixed;border-collapse:collapse}
+  .standings-table th{font-size:9px;letter-spacing:.06em;padding:12px 5px;white-space:normal}
+  .standings-table td{font-size:11px;padding:13px 5px;overflow-wrap:anywhere;word-break:normal}
+  .standings-table th:nth-child(1),.standings-table td:nth-child(1){width:12%}
+  .standings-table th:nth-child(2),.standings-table td:nth-child(2){width:36%}
+  .standings-table th:nth-child(3),.standings-table td:nth-child(3){width:32%}
+  .standings-table th:nth-child(4),.standings-table td:nth-child(4){width:20%;text-align:right}
+  .standings-table td:first-child{font-size:20px}
+  .standings-table td:nth-child(2) strong{display:block;line-height:1.25}
+  .standings-table td:nth-child(3){line-height:1.25}
+  .standings-toolbar{gap:10px}
+  .standings-toolbar #standingsSeries,.standings-toolbar #standingsType{width:100%;margin-left:0}
+  .standings-toolbar .filter-row{display:flex;flex-wrap:wrap;gap:6px}
+  .standings-toolbar .filter{padding:9px 11px;font-size:10px}
+}
+@media(max-width:380px){
+  .standings-table th{font-size:8px;padding:10px 3px}
+  .standings-table td{font-size:10px;padding:12px 3px}
+  .standings-table th:nth-child(2),.standings-table td:nth-child(2){width:35%}
+  .standings-table th:nth-child(3),.standings-table td:nth-child(3){width:31%}
+  .standings-table th:nth-child(4),.standings-table td:nth-child(4){width:22%}
+}
