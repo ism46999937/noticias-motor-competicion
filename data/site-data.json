@@ -1,5 +1,30 @@
 {
-  "news": [],
+  "news": [
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-10-21",
+      "title": "F1 - 2026 United States GP Schedule of Press Conferences",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-united-states-gp-schedule-press-conferences"
+    },
+    {
+      "series": "WEC",
+      "source": "FIA",
+      "date": "2026-10-19",
+      "title": "Rally roadmaps and grassroots affordability focus of FIA World Motor Sport Council",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/rally-roadmaps-and-grassroots-affordability-focus-fia-world-motor-sport-council"
+    },
+    {
+      "series": "WEC",
+      "source": "FIA",
+      "date": "2026-10-18",
+      "title": "WEC: Toyota masters mixed conditions to clinch the crown in Spain",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/wec-toyota-masters-mixed-conditions-clinch-crown-spain"
+    }
+  ],
   "calendars": {
     "F1": [
       {
@@ -381,13 +406,1535 @@
       }
     ]
   },
-  "standings": {},
-  "updatedAt": null,
+  "standings": {
+    "F1": {
+      "drivers": [
+        {
+          "position": 1,
+          "name": "Andrea Kimi Antonelli",
+          "team": "Mercedes",
+          "points": 340.0
+        },
+        {
+          "position": 2,
+          "name": "George Russell",
+          "team": "Mercedes",
+          "points": 238.0
+        },
+        {
+          "position": 3,
+          "name": "Lewis Hamilton",
+          "team": "Ferrari",
+          "points": 229.0
+        },
+        {
+          "position": 4,
+          "name": "Max Verstappen",
+          "team": "Red Bull",
+          "points": 221.0
+        },
+        {
+          "position": 5,
+          "name": "Charles Leclerc",
+          "team": "Ferrari",
+          "points": 215.0
+        },
+        {
+          "position": 6,
+          "name": "Lando Norris",
+          "team": "McLaren",
+          "points": 201.0
+        },
+        {
+          "position": 7,
+          "name": "Oscar Piastri",
+          "team": "McLaren",
+          "points": 138.0
+        },
+        {
+          "position": 8,
+          "name": "Isack Hadjar",
+          "team": "Red Bull",
+          "points": 97.0
+        },
+        {
+          "position": 9,
+          "name": "Liam Lawson",
+          "team": "RB F1 Team",
+          "points": 75.0
+        },
+        {
+          "position": 10,
+          "name": "Pierre Gasly",
+          "team": "Alpine F1 Team",
+          "points": 41.0
+        },
+        {
+          "position": 11,
+          "name": "Arvid Lindblad",
+          "team": "RB F1 Team",
+          "points": 38.0
+        },
+        {
+          "position": 12,
+          "name": "Franco Colapinto",
+          "team": "Alpine F1 Team",
+          "points": 27.0
+        },
+        {
+          "position": 13,
+          "name": "Oliver Bearman",
+          "team": "Haas F1 Team",
+          "points": 23.0
+        },
+        {
+          "position": 14,
+          "name": "Nico Hülkenberg",
+          "team": "Audi",
+          "points": 13.0
+        },
+        {
+          "position": 15,
+          "name": "Gabriel Bortoleto",
+          "team": "Audi",
+          "points": 10.0
+        },
+        {
+          "position": 16,
+          "name": "Esteban Ocon",
+          "team": "Haas F1 Team",
+          "points": 7.0
+        },
+        {
+          "position": 17,
+          "name": "Fernando Alonso",
+          "team": "Aston Martin",
+          "points": 7.0
+        },
+        {
+          "position": 18,
+          "name": "Carlos Sainz",
+          "team": "Williams",
+          "points": 7.0
+        },
+        {
+          "position": 19,
+          "name": "Alexander Albon",
+          "team": "Williams",
+          "points": 5.0
+        },
+        {
+          "position": 20,
+          "name": "Yuki Tsunoda",
+          "team": "RB F1 Team",
+          "points": 1.0
+        },
+        {
+          "position": 21,
+          "name": "Lance Stroll",
+          "team": "Aston Martin",
+          "points": 0
+        },
+        {
+          "position": 22,
+          "name": "Valtteri Bottas",
+          "team": "Cadillac F1 Team",
+          "points": 0
+        },
+        {
+          "position": 23,
+          "name": "Sergio Pérez",
+          "team": "Cadillac F1 Team",
+          "points": 0
+        }
+      ],
+      "teams": [
+        {
+          "position": 1,
+          "name": "Mercedes",
+          "team": "German",
+          "points": 578.0
+        },
+        {
+          "position": 2,
+          "name": "Ferrari",
+          "team": "Italian",
+          "points": 444.0
+        },
+        {
+          "position": 3,
+          "name": "McLaren",
+          "team": "British",
+          "points": 339.0
+        },
+        {
+          "position": 4,
+          "name": "Red Bull",
+          "team": "Austrian",
+          "points": 332.0
+        },
+        {
+          "position": 5,
+          "name": "RB F1 Team",
+          "team": "Italian",
+          "points": 100.0
+        },
+        {
+          "position": 6,
+          "name": "Alpine F1 Team",
+          "team": "French",
+          "points": 68.0
+        },
+        {
+          "position": 7,
+          "name": "Haas F1 Team",
+          "team": "American",
+          "points": 30.0
+        },
+        {
+          "position": 8,
+          "name": "Audi",
+          "team": "German",
+          "points": 23.0
+        },
+        {
+          "position": 9,
+          "name": "Williams",
+          "team": "British",
+          "points": 12.0
+        },
+        {
+          "position": 10,
+          "name": "Aston Martin",
+          "team": "British",
+          "points": 7.0
+        },
+        {
+          "position": 11,
+          "name": "Cadillac F1 Team",
+          "team": "American",
+          "points": 0
+        }
+      ]
+    },
+    "F2": {
+      "drivers": [
+        {
+          "position": 1,
+          "name": "R. CAMARA BRA",
+          "team": "—",
+          "points": 207
+        },
+        {
+          "position": 2,
+          "name": "N. TSOLOV BUL",
+          "team": "—",
+          "points": 200
+        },
+        {
+          "position": 3,
+          "name": "A. DUNNE IRL",
+          "team": "—",
+          "points": 189
+        },
+        {
+          "position": 4,
+          "name": "G. MINI ITA",
+          "team": "—",
+          "points": 163
+        },
+        {
+          "position": 5,
+          "name": "D. BEGANOVIC SWE",
+          "team": "—",
+          "points": 137
+        },
+        {
+          "position": 6,
+          "name": "N. LEON MEX",
+          "team": "—",
+          "points": 133
+        },
+        {
+          "position": 7,
+          "name": "M. STENSHORNE NOR",
+          "team": "—",
+          "points": 107
+        },
+        {
+          "position": 8,
+          "name": "J. DURKSEN PAR",
+          "team": "—",
+          "points": 90
+        },
+        {
+          "position": 9,
+          "name": "K. MAINI IND",
+          "team": "—",
+          "points": 90
+        },
+        {
+          "position": 10,
+          "name": "L. VAN HOEPEN NED",
+          "team": "—",
+          "points": 90
+        },
+        {
+          "position": 11,
+          "name": "T. INTHRAPHUVASAK THA",
+          "team": "—",
+          "points": 71
+        },
+        {
+          "position": 12,
+          "name": "R. MIYATA JPN",
+          "team": "—",
+          "points": 70
+        },
+        {
+          "position": 13,
+          "name": "R. VILLAGOMEZ MEX",
+          "team": "—",
+          "points": 42
+        },
+        {
+          "position": 14,
+          "name": "J. BENNETT GBR",
+          "team": "—",
+          "points": 38
+        },
+        {
+          "position": 15,
+          "name": "O. GOETHE GER",
+          "team": "—",
+          "points": 37
+        },
+        {
+          "position": 16,
+          "name": "R. BILINSKI POL",
+          "team": "—",
+          "points": 36
+        },
+        {
+          "position": 17,
+          "name": "S. MONTOYA COL",
+          "team": "—",
+          "points": 30
+        },
+        {
+          "position": 18,
+          "name": "E. FITTIPALDI BRA",
+          "team": "—",
+          "points": 28
+        },
+        {
+          "position": 19,
+          "name": "C. HERTA USA",
+          "team": "—",
+          "points": 26
+        },
+        {
+          "position": 20,
+          "name": "M. BOYA ESP",
+          "team": "—",
+          "points": 21
+        },
+        {
+          "position": 21,
+          "name": "N. VARRONE ARG",
+          "team": "—",
+          "points": 15
+        },
+        {
+          "position": 22,
+          "name": "C. SHIELDS GBR",
+          "team": "—",
+          "points": 10
+        },
+        {
+          "position": 23,
+          "name": "H. YAMAKOSHI JPN",
+          "team": "—",
+          "points": 2
+        }
+      ],
+      "teams": [
+        {
+          "position": 1,
+          "name": "Campos Racing",
+          "team": "Campos Racing",
+          "points": 333
+        },
+        {
+          "position": 2,
+          "name": "Invicta Racing",
+          "team": "Invicta Racing",
+          "points": 297
+        },
+        {
+          "position": 3,
+          "name": "Rodin Motorsport",
+          "team": "Rodin Motorsport",
+          "points": 296
+        },
+        {
+          "position": 4,
+          "name": "MP Motorsport",
+          "team": "MP Motorsport",
+          "points": 200
+        },
+        {
+          "position": 5,
+          "name": "DAMS Lucas Oil",
+          "team": "DAMS Lucas Oil",
+          "points": 173
+        },
+        {
+          "position": 6,
+          "name": "ART Grand Prix",
+          "team": "ART Grand Prix",
+          "points": 161
+        },
+        {
+          "position": 7,
+          "name": "TRIDENT",
+          "team": "TRIDENT",
+          "points": 128
+        },
+        {
+          "position": 8,
+          "name": "Hitech",
+          "team": "Hitech",
+          "points": 96
+        },
+        {
+          "position": 9,
+          "name": "Van Amersfoort Racing",
+          "team": "Van Amersfoort Racing",
+          "points": 59
+        },
+        {
+          "position": 10,
+          "name": "PREMA Racing",
+          "team": "PREMA Racing",
+          "points": 51
+        },
+        {
+          "position": 11,
+          "name": "AIX Racing",
+          "team": "AIX Racing",
+          "points": 38
+        }
+      ]
+    },
+    "F3": {
+      "drivers": [
+        {
+          "position": 1,
+          "name": "U. UGOCHUKWU USA",
+          "team": "—",
+          "points": 159
+        },
+        {
+          "position": 2,
+          "name": "F. SLATER GBR",
+          "team": "—",
+          "points": 145
+        },
+        {
+          "position": 3,
+          "name": "T. TAPONEN FIN",
+          "team": "—",
+          "points": 109
+        },
+        {
+          "position": 4,
+          "name": "T. KATO JPN",
+          "team": "—",
+          "points": 105
+        },
+        {
+          "position": 5,
+          "name": "T. NAEL FRA",
+          "team": "—",
+          "points": 88
+        },
+        {
+          "position": 6,
+          "name": "P. CLEROT BRA",
+          "team": "—",
+          "points": 88
+        },
+        {
+          "position": 7,
+          "name": "E. RIVERA MEX",
+          "team": "—",
+          "points": 87
+        },
+        {
+          "position": 8,
+          "name": "B. BADOER ITA",
+          "team": "—",
+          "points": 71
+        },
+        {
+          "position": 9,
+          "name": "H. YAMAKOSHI JPN",
+          "team": "—",
+          "points": 71
+        },
+        {
+          "position": 10,
+          "name": "N. STROMSTED DEN",
+          "team": "—",
+          "points": 65
+        },
+        {
+          "position": 11,
+          "name": "B. DEL PINO ESP",
+          "team": "—",
+          "points": 57
+        },
+        {
+          "position": 12,
+          "name": "M. GLADYSZ POL",
+          "team": "—",
+          "points": 54
+        },
+        {
+          "position": 13,
+          "name": "M. COLNAGHI ARG",
+          "team": "—",
+          "points": 54
+        },
+        {
+          "position": 14,
+          "name": "J. NAKAMURA JPN",
+          "team": "—",
+          "points": 53
+        },
+        {
+          "position": 15,
+          "name": "A. GIUSTI FRA",
+          "team": "—",
+          "points": 45
+        },
+        {
+          "position": 16,
+          "name": "E. DELIGNY FRA",
+          "team": "—",
+          "points": 40
+        },
+        {
+          "position": 17,
+          "name": "J. WHARTON AUS",
+          "team": "—",
+          "points": 39
+        },
+        {
+          "position": 18,
+          "name": "Y. DAVID SRI",
+          "team": "—",
+          "points": 35
+        },
+        {
+          "position": 19,
+          "name": "N. LACORTE ITA",
+          "team": "—",
+          "points": 33
+        },
+        {
+          "position": 20,
+          "name": "K. LE JPN",
+          "team": "—",
+          "points": 30
+        },
+        {
+          "position": 21,
+          "name": "L. SHARP NZL",
+          "team": "—",
+          "points": 21
+        },
+        {
+          "position": 22,
+          "name": "G. XIE CHN",
+          "team": "—",
+          "points": 20
+        },
+        {
+          "position": 23,
+          "name": "A. POWELL USA",
+          "team": "—",
+          "points": 14
+        },
+        {
+          "position": 24,
+          "name": "M. DE PALO ITA",
+          "team": "—",
+          "points": 7
+        },
+        {
+          "position": 25,
+          "name": "B. BENAVIDES USA",
+          "team": "—",
+          "points": 6
+        },
+        {
+          "position": 26,
+          "name": "C. HO SGP",
+          "team": "—",
+          "points": 2
+        },
+        {
+          "position": 27,
+          "name": "F. MCLAUGHLIN IRL",
+          "team": "—",
+          "points": 2
+        },
+        {
+          "position": 28,
+          "name": "F. BARRICHELLO BRA",
+          "team": "—",
+          "points": 2
+        },
+        {
+          "position": 29,
+          "name": "J. GARFIAS MEX",
+          "team": "—",
+          "points": 1
+        },
+        {
+          "position": 30,
+          "name": "N. BHIROMBHAKDI THA",
+          "team": "—",
+          "points": 0
+        },
+        {
+          "position": 31,
+          "name": "R. ESCOTTO MEX",
+          "team": "—",
+          "points": 0
+        },
+        {
+          "position": 32,
+          "name": "P. HEUZENROEDER AUS",
+          "team": "—",
+          "points": 0
+        },
+        {
+          "position": 33,
+          "name": "W. SHIN KOR",
+          "team": "—",
+          "points": 0
+        },
+        {
+          "position": 34,
+          "name": "N. MACCAGNANI ITA",
+          "team": "—",
+          "points": 0
+        },
+        {
+          "position": 35,
+          "name": "S. HANNA COL",
+          "team": "—",
+          "points": 0
+        }
+      ],
+      "teams": [
+        {
+          "position": 1,
+          "name": "Campos Racing",
+          "team": "Campos Racing",
+          "points": 334
+        },
+        {
+          "position": 2,
+          "name": "TRIDENT",
+          "team": "TRIDENT",
+          "points": 217
+        },
+        {
+          "position": 3,
+          "name": "MP Motorsport",
+          "team": "MP Motorsport",
+          "points": 208
+        },
+        {
+          "position": 4,
+          "name": "ART Grand Prix",
+          "team": "ART Grand Prix",
+          "points": 189
+        },
+        {
+          "position": 5,
+          "name": "Van Amersfoort Racing",
+          "team": "Van Amersfoort Racing",
+          "points": 168
+        },
+        {
+          "position": 6,
+          "name": "Rodin Motorsport",
+          "team": "Rodin Motorsport",
+          "points": 161
+        },
+        {
+          "position": 7,
+          "name": "PREMA Racing",
+          "team": "PREMA Racing",
+          "points": 75
+        },
+        {
+          "position": 8,
+          "name": "Hitech",
+          "team": "Hitech",
+          "points": 55
+        },
+        {
+          "position": 9,
+          "name": "DAMS Lucas Oil",
+          "team": "DAMS Lucas Oil",
+          "points": 53
+        },
+        {
+          "position": 10,
+          "name": "AIX Racing",
+          "team": "AIX Racing",
+          "points": 43
+        }
+      ]
+    },
+    "WEC": {
+      "Hypercar": {
+        "drivers": [
+          {
+            "position": 1,
+            "name": "Buemi Sébastien SUI",
+            "team": "—",
+            "points": 114
+          },
+          {
+            "position": 1,
+            "name": "Hartley Brendon NZL",
+            "team": "—",
+            "points": 114
+          },
+          {
+            "position": 1,
+            "name": "Hirakawa Ryō JPN",
+            "team": "—",
+            "points": 114
+          },
+          {
+            "position": 2,
+            "name": "Conway Mike GBR",
+            "team": "—",
+            "points": 97
+          },
+          {
+            "position": 2,
+            "name": "De Vries Nyck NED",
+            "team": "—",
+            "points": 97
+          },
+          {
+            "position": 2,
+            "name": "Kobayashi Kamui JPN",
+            "team": "—",
+            "points": 97
+          },
+          {
+            "position": 3,
+            "name": "Magnussen Kevin DEN",
+            "team": "—",
+            "points": 75
+          },
+          {
+            "position": 3,
+            "name": "Marciello Raffaele SUI",
+            "team": "—",
+            "points": 75
+          },
+          {
+            "position": 4,
+            "name": "Frijns Robin NED",
+            "team": "—",
+            "points": 75
+          },
+          {
+            "position": 4,
+            "name": "Rast René GER",
+            "team": "—",
+            "points": 75
+          },
+          {
+            "position": 5,
+            "name": "Vanthoor Dries BEL",
+            "team": "—",
+            "points": 69
+          },
+          {
+            "position": 6,
+            "name": "Fuoco Antonio ITA",
+            "team": "—",
+            "points": 69
+          },
+          {
+            "position": 6,
+            "name": "Molina Miguel ESP",
+            "team": "—",
+            "points": 69
+          },
+          {
+            "position": 6,
+            "name": "Nielsen Nicklas DEN",
+            "team": "—",
+            "points": 69
+          },
+          {
+            "position": 7,
+            "name": "Van Der Linde Sheldon RSA",
+            "team": "—",
+            "points": 65
+          },
+          {
+            "position": 8,
+            "name": "Calado James GBR",
+            "team": "—",
+            "points": 59
+          },
+          {
+            "position": 8,
+            "name": "Giovinazzi Antonio ITA",
+            "team": "—",
+            "points": 59
+          },
+          {
+            "position": 8,
+            "name": "Pier Guidi Alessandro ITA",
+            "team": "—",
+            "points": 59
+          },
+          {
+            "position": 9,
+            "name": "Nato Norman FRA",
+            "team": "—",
+            "points": 58
+          },
+          {
+            "position": 9,
+            "name": "Stevens Will GBR",
+            "team": "—",
+            "points": 58
+          },
+          {
+            "position": 10,
+            "name": "Habsburg Ferdinand AUT",
+            "team": "—",
+            "points": 57
+          },
+          {
+            "position": 10,
+            "name": "Milesi Charles FRA",
+            "team": "—",
+            "points": 57
+          },
+          {
+            "position": 11,
+            "name": "Bamber Earl NZL",
+            "team": "—",
+            "points": 56
+          },
+          {
+            "position": 11,
+            "name": "Bourdais Sébastien FRA",
+            "team": "—",
+            "points": 56
+          },
+          {
+            "position": 12,
+            "name": "Aitken Jack GBR",
+            "team": "—",
+            "points": 52
+          },
+          {
+            "position": 13,
+            "name": "Félix Da Costa António POR",
+            "team": "—",
+            "points": 44
+          },
+          {
+            "position": 14,
+            "name": "Gamble Tom GBR",
+            "team": "—",
+            "points": 42
+          },
+          {
+            "position": 14,
+            "name": "Tincknell Harry GBR",
+            "team": "—",
+            "points": 42
+          },
+          {
+            "position": 15,
+            "name": "Hanson Philip GBR",
+            "team": "—",
+            "points": 41
+          },
+          {
+            "position": 15,
+            "name": "Kubica Robert POL",
+            "team": "—",
+            "points": 41
+          },
+          {
+            "position": 15,
+            "name": "Ye Yifei CHN",
+            "team": "—",
+            "points": 41
+          },
+          {
+            "position": 16,
+            "name": "Gounon Jules FRA",
+            "team": "—",
+            "points": 36
+          },
+          {
+            "position": 16,
+            "name": "Martins Victor FRA",
+            "team": "—",
+            "points": 36
+          },
+          {
+            "position": 17,
+            "name": "Delétraz Louis SUI",
+            "team": "—",
+            "points": 26
+          },
+          {
+            "position": 18,
+            "name": "Makowiecki Frédéric FRA",
+            "team": "—",
+            "points": 14
+          },
+          {
+            "position": 19,
+            "name": "Duval Loïc FRA",
+            "team": "—",
+            "points": 12
+          },
+          {
+            "position": 19,
+            "name": "Jakobsen Malthe DEN",
+            "team": "—",
+            "points": 12
+          },
+          {
+            "position": 19,
+            "name": "Pourchaire Théo FRA",
+            "team": "—",
+            "points": 12
+          },
+          {
+            "position": 20,
+            "name": "Derani Luis Felipe BRA",
+            "team": "—",
+            "points": 11
+          },
+          {
+            "position": 20,
+            "name": "Jaubert Mathys FRA",
+            "team": "—",
+            "points": 11
+          },
+          {
+            "position": 20,
+            "name": "Lotterer André GER",
+            "team": "—",
+            "points": 11
+          },
+          {
+            "position": 21,
+            "name": "Lynn Alex GBR",
+            "team": "—",
+            "points": 8
+          },
+          {
+            "position": 22,
+            "name": "Gunn Ross GBR",
+            "team": "—",
+            "points": 8
+          },
+          {
+            "position": 23,
+            "name": "Cassidy Nick NZL",
+            "team": "—",
+            "points": 6
+          },
+          {
+            "position": 23,
+            "name": "Di Resta Paul GBR",
+            "team": "—",
+            "points": 6
+          },
+          {
+            "position": 24,
+            "name": "Vandoorne Stoffel BEL",
+            "team": "—",
+            "points": 6
+          },
+          {
+            "position": 25,
+            "name": "Riberas Alex ESP",
+            "team": "—",
+            "points": 6
+          },
+          {
+            "position": 25,
+            "name": "Sørensen Marco DEN",
+            "team": "—",
+            "points": 6
+          },
+          {
+            "position": 26,
+            "name": "Taylor Ricky USA",
+            "team": "—",
+            "points": 2
+          }
+        ],
+        "teams": [
+          {
+            "position": 1,
+            "name": "TOYOTA",
+            "team": "TOYOTA",
+            "points": 212
+          },
+          {
+            "position": 2,
+            "name": "BMW",
+            "team": "BMW",
+            "points": 154
+          },
+          {
+            "position": 3,
+            "name": "FERRARI",
+            "team": "FERRARI",
+            "points": 130
+          },
+          {
+            "position": 4,
+            "name": "CADILLAC",
+            "team": "CADILLAC",
+            "points": 118
+          },
+          {
+            "position": 5,
+            "name": "ALPINE",
+            "team": "ALPINE",
+            "points": 104
+          },
+          {
+            "position": 6,
+            "name": "ASTON MARTIN",
+            "team": "ASTON MARTIN",
+            "points": 58
+          },
+          {
+            "position": 7,
+            "name": "PEUGEOT",
+            "team": "PEUGEOT",
+            "points": 24
+          },
+          {
+            "position": 8,
+            "name": "GENESIS",
+            "team": "GENESIS",
+            "points": 14
+          }
+        ]
+      },
+      "LMGT3": {
+        "drivers": [
+          {
+            "position": 1,
+            "name": "Edgar Jonny GBR",
+            "team": "—",
+            "points": 92
+          },
+          {
+            "position": 2,
+            "name": "Catsburg Nicky NED",
+            "team": "—",
+            "points": 88
+          },
+          {
+            "position": 3,
+            "name": "Lietz Richard AUT",
+            "team": "—",
+            "points": 74
+          },
+          {
+            "position": 3,
+            "name": "Pera Riccardo ITA",
+            "team": "—",
+            "points": 74
+          },
+          {
+            "position": 3,
+            "name": "Shahin Yasser AUS",
+            "team": "—",
+            "points": 74
+          },
+          {
+            "position": 4,
+            "name": "Dempsey Peter IRL",
+            "team": "—",
+            "points": 70
+          },
+          {
+            "position": 4,
+            "name": "Eastwood Charlie IRL",
+            "team": "—",
+            "points": 70
+          },
+          {
+            "position": 4,
+            "name": "Yoluç Salih TUR",
+            "team": "—",
+            "points": 70
+          },
+          {
+            "position": 5,
+            "name": "Keating Ben USA",
+            "team": "—",
+            "points": 70
+          },
+          {
+            "position": 6,
+            "name": "Harper Daniel GBR",
+            "team": "—",
+            "points": 66
+          },
+          {
+            "position": 6,
+            "name": "Mcintosh Anthony USA",
+            "team": "—",
+            "points": 66
+          },
+          {
+            "position": 6,
+            "name": "Thompson Parker CAN",
+            "team": "—",
+            "points": 66
+          },
+          {
+            "position": 7,
+            "name": "Hériau François FRA",
+            "team": "—",
+            "points": 64
+          },
+          {
+            "position": 7,
+            "name": "Mann Simon USA",
+            "team": "—",
+            "points": 64
+          },
+          {
+            "position": 7,
+            "name": "Rovera Alessio ITA",
+            "team": "—",
+            "points": 64
+          },
+          {
+            "position": 8,
+            "name": "Drudi Mattia ITA",
+            "team": "—",
+            "points": 62
+          },
+          {
+            "position": 8,
+            "name": "James Ian USA",
+            "team": "—",
+            "points": 62
+          },
+          {
+            "position": 8,
+            "name": "Robichon Zacharie CAN",
+            "team": "—",
+            "points": 62
+          },
+          {
+            "position": 9,
+            "name": "Au Antares HKG",
+            "team": "—",
+            "points": 57
+          },
+          {
+            "position": 9,
+            "name": "Fleming Thomas GBR",
+            "team": "—",
+            "points": 57
+          },
+          {
+            "position": 9,
+            "name": "Kirchhöfer Marvin GER",
+            "team": "—",
+            "points": 57
+          },
+          {
+            "position": 10,
+            "name": "Boguslavskiy Timur",
+            "team": "—",
+            "points": 54
+          },
+          {
+            "position": 10,
+            "name": "Cottingham James GBR",
+            "team": "—",
+            "points": 54
+          },
+          {
+            "position": 10,
+            "name": "Güven Ayhancan TUR",
+            "team": "—",
+            "points": 54
+          },
+          {
+            "position": 11,
+            "name": "Adam Jonny GBR",
+            "team": "—",
+            "points": 51
+          },
+          {
+            "position": 11,
+            "name": "Newell Gray USA",
+            "team": "—",
+            "points": 51
+          },
+          {
+            "position": 12,
+            "name": "Farfus Augusto BRA",
+            "team": "—",
+            "points": 48
+          },
+          {
+            "position": 12,
+            "name": "Gelael Sean INA",
+            "team": "—",
+            "points": 48
+          },
+          {
+            "position": 12,
+            "name": "Leung Darren GBR",
+            "team": "—",
+            "points": 48
+          },
+          {
+            "position": 13,
+            "name": "Barrichello Eduardo BRA",
+            "team": "—",
+            "points": 48
+          },
+          {
+            "position": 14,
+            "name": "David Hadrien FRA",
+            "team": "—",
+            "points": 39
+          },
+          {
+            "position": 14,
+            "name": "Van Rompuy Tom BEL",
+            "team": "—",
+            "points": 39
+          },
+          {
+            "position": 15,
+            "name": "López José María ARG",
+            "team": "—",
+            "points": 38
+          },
+          {
+            "position": 15,
+            "name": "Schmid Clemens AUT",
+            "team": "—",
+            "points": 38
+          },
+          {
+            "position": 15,
+            "name": "Umbrărescu Petru ROU",
+            "team": "—",
+            "points": 38
+          },
+          {
+            "position": 16,
+            "name": "Hawksworth Jack GBR",
+            "team": "—",
+            "points": 36
+          },
+          {
+            "position": 17,
+            "name": "Andrade Rui ANG",
+            "team": "—",
+            "points": 25
+          },
+          {
+            "position": 17,
+            "name": "Berry Martin AUS",
+            "team": "—",
+            "points": 25
+          },
+          {
+            "position": 17,
+            "name": "Martin Maxime BEL",
+            "team": "—",
+            "points": 25
+          },
+          {
+            "position": 18,
+            "name": "Mcdonald Blake USA",
+            "team": "—",
+            "points": 22
+          },
+          {
+            "position": 19,
+            "name": "Gehrsitz Finn GER",
+            "team": "—",
+            "points": 22
+          },
+          {
+            "position": 19,
+            "name": "Goethe Benjamin GER",
+            "team": "—",
+            "points": 22
+          },
+          {
+            "position": 19,
+            "name": "West Alexander SWE",
+            "team": "—",
+            "points": 22
+          },
+          {
+            "position": 20,
+            "name": "Gattuso Stefano ITA",
+            "team": "—",
+            "points": 16
+          },
+          {
+            "position": 20,
+            "name": "Levorato Giammarco ITA",
+            "team": "—",
+            "points": 16
+          },
+          {
+            "position": 20,
+            "name": "Sargeant Logan USA",
+            "team": "—",
+            "points": 16
+          },
+          {
+            "position": 21,
+            "name": "Castellacci Francesco MON",
+            "team": "—",
+            "points": 13
+          },
+          {
+            "position": 21,
+            "name": "Flohr Thomas SUI",
+            "team": "—",
+            "points": 13
+          },
+          {
+            "position": 21,
+            "name": "Rigon Davide ITA",
+            "team": "—",
+            "points": 13
+          },
+          {
+            "position": 22,
+            "name": "Powell Eric USA",
+            "team": "—",
+            "points": 13
+          },
+          {
+            "position": 22,
+            "name": "Priaulx Sebastian GBR",
+            "team": "—",
+            "points": 13
+          },
+          {
+            "position": 22,
+            "name": "Tuck Ben GBR",
+            "team": "—",
+            "points": 13
+          },
+          {
+            "position": 23,
+            "name": "Cressoni Matteo ITA",
+            "team": "—",
+            "points": 10
+          },
+          {
+            "position": 23,
+            "name": "Hodenius Lin NED",
+            "team": "—",
+            "points": 10
+          },
+          {
+            "position": 23,
+            "name": "Zelger Johannes ITA",
+            "team": "—",
+            "points": 10
+          },
+          {
+            "position": 24,
+            "name": "Varrone Nicolás ARG",
+            "team": "—",
+            "points": 4
+          },
+          {
+            "position": 25,
+            "name": "Masson Esteban FRA",
+            "team": "—",
+            "points": 3
+          },
+          {
+            "position": 26,
+            "name": "Pauwels Kobe BEL",
+            "team": "—",
+            "points": 3
+          }
+        ],
+        "teams": [
+          {
+            "position": 1,
+            "name": "33 TF SPORT",
+            "team": "33 TF SPORT",
+            "points": 92
+          },
+          {
+            "position": 2,
+            "name": "92 THE BEND MANTHEY",
+            "team": "92 THE BEND MANTHEY",
+            "points": 74
+          },
+          {
+            "position": 3,
+            "name": "34 RACING TEAM TURKEY BY TF",
+            "team": "34 RACING TEAM TURKEY BY TF",
+            "points": 70
+          },
+          {
+            "position": 4,
+            "name": "69 TEAM WRT",
+            "team": "69 TEAM WRT",
+            "points": 66
+          },
+          {
+            "position": 5,
+            "name": "21 VISTA AF CORSE",
+            "team": "21 VISTA AF CORSE",
+            "points": 64
+          },
+          {
+            "position": 6,
+            "name": "27 HEART OF RACING TEAM",
+            "team": "27 HEART OF RACING TEAM",
+            "points": 62
+          },
+          {
+            "position": 7,
+            "name": "10 GARAGE 59",
+            "team": "10 GARAGE 59",
+            "points": 57
+          },
+          {
+            "position": 8,
+            "name": "91 MANTHEY DK ENGINEERING",
+            "team": "91 MANTHEY DK ENGINEERING",
+            "points": 54
+          },
+          {
+            "position": 9,
+            "name": "23 HEART OF RACING TEAM",
+            "team": "23 HEART OF RACING TEAM",
+            "points": 51
+          },
+          {
+            "position": 10,
+            "name": "32 TEAM WRT",
+            "team": "32 TEAM WRT",
+            "points": 48
+          },
+          {
+            "position": 11,
+            "name": "78 AKKODIS ASP TEAM",
+            "team": "78 AKKODIS ASP TEAM",
+            "points": 39
+          },
+          {
+            "position": 12,
+            "name": "87 AKKODIS ASP TEAM",
+            "team": "87 AKKODIS ASP TEAM",
+            "points": 38
+          },
+          {
+            "position": 13,
+            "name": "61 IRON LYNX",
+            "team": "61 IRON LYNX",
+            "points": 25
+          },
+          {
+            "position": 14,
+            "name": "58 GARAGE 59",
+            "team": "58 GARAGE 59",
+            "points": 22
+          },
+          {
+            "position": 15,
+            "name": "88 PROTON COMPETITION",
+            "team": "88 PROTON COMPETITION",
+            "points": 16
+          },
+          {
+            "position": 16,
+            "name": "54 VISTA AF CORSE",
+            "team": "54 VISTA AF CORSE",
+            "points": 13
+          },
+          {
+            "position": 17,
+            "name": "77 PROTON COMPETITION",
+            "team": "77 PROTON COMPETITION",
+            "points": 13
+          },
+          {
+            "position": 18,
+            "name": "79 IRON LYNX",
+            "team": "79 IRON LYNX",
+            "points": 10
+          }
+        ]
+      }
+    }
+  },
+  "updatedAt": "2026-10-21T20:43:58.570743+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
     "F3": "https://api.fia.com/news/fia-formula-3-championship-2026-season-calendar-revealed",
     "WEC": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council"
   },
-  "note": "Calendarios contrastados con fuentes FIA publicadas y revisados para cambios anunciados en 2026. Los estados se calculan por fecha local. Las clasificaciones solo se actualizan si la fuente devuelve datos válidos."
+  "note": "Calendarios contrastados con fuentes FIA publicadas y revisados para cambios anunciados en 2026. Los estados se calculan por fecha local. Las clasificaciones solo se actualizan si la fuente devuelve datos válidos.",
+  "standingsSources": {
+    "F1": "https://api.jolpi.ca/ergast/f1/2026",
+    "F2": "https://api.fia.com/events/formula-2-championship/season-2026/standings",
+    "F3": "https://api.fia.com/events/fia-formula-3-championship/season-2026/2026-standings",
+    "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
+  },
+  "standingsUpdatedAt": {
+    "F1": "2026-10-21T20:43:58.570743+00:00",
+    "F2": "2026-10-21T20:43:58.570743+00:00",
+    "F3": "2026-10-21T20:43:58.570743+00:00",
+    "WEC": "2026-10-21T20:43:58.570743+00:00"
+  },
+  "newsUpdatedAt": "2026-10-21T20:43:58.864770+00:00"
 }
