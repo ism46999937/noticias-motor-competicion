@@ -1,0 +1,28 @@
+const API = "api.php";
+const sampleNews = [
+ {series:"F1",source:"FUENTE DEMO",date:"Contenido de ejemplo",title:"La actualidad de la Fórmula 1",summary:"Cuando se conecte una fuente RSS o API compatible, aquí aparecerán titulares y extractos atribuidos al medio original.",url:"https://www.soymotor.com/"},
+ {series:"WEC",source:"FUENTE DEMO",date:"Contenido de ejemplo",title:"Resistencia: estrategia y tecnología",summary:"Sigue las novedades del Mundial de Resistencia y sus categorías Hypercar y LMGT3.",url:"https://www.fiawec.com/"},
+ {series:"F2",source:"FUENTE DEMO",date:"Contenido de ejemplo",title:"La cantera del automovilismo",summary:"Noticias de Fórmula 2 y Fórmula 3. Los contenidos reales se cargarán al configurar fuentes autorizadas.",url:"https://www.fiaformula2.com/"}
+];
+// Se muestran fechas solo cuando están verificadas; no se rellenan rondas desconocidas con fechas inventadas.
+const calendars = {F1:[],F2:[],F3:[],WEC:[]};
+const sampleStandings = {
+ F1:{drivers:[["—","Datos no conectados","—","—"]],teams:[["—","Datos no conectados","—","—"]]},
+ F2:{drivers:[["—","Datos no conectados","—","—"]],teams:[["—","Datos no conectados","—","—"]]},
+ F3:{drivers:[["—","Datos no conectados","—","—"]],teams:[["—","Datos no conectados","—","—"]]},
+ WEC:{drivers:[["—","Datos no conectados","—","—"]],teams:[["—","Datos no conectados","—","—"]]}
+};
+let currentNewsSeries="Todos", currentCalendarSeries="F1", currentStandingsSeries="F1", currentStandingsType="drivers";
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function renderNews(items){const grid=$("#newsGrid");grid.innerHTML="";const filtered=items.filter(n=>currentNewsSeries==="Todos"||n.series===currentNewsSeries);$("#newsStatus").textContent=items.some(n=>n.source!=="FUENTE DEMO")?"Titulares externos · consulta el original":"Fuentes externas pendientes de conexión";if(!filtered.length){grid.innerHTML='<p>No hay noticias para este filtro.</p>';return;}filtered.forEach(n=>{const card=document.createElement("article");card.className="news-card";card.innerHTML=`<div class="card-top"><span>${esc(n.series)} · ${esc(n.source)}</span><span>${esc(n.date)}</span></div><h3>${esc(n.title)}</h3><p>${esc(n.summary)}</p><a class="card-link" href="${esc(n.url)}" target="_blank" rel="noopener">Leer en la fuente <span>↗</span></a>`;grid.append(card);});}
+function renderCalendar(){const rows=(calendars[currentCalendarSeries]||[]).filter(e=>{const status=$("#calendarStatus").value;return status==="all"||e.status===status;});$("#calendarBody").innerHTML=rows.length?rows.map((e,i)=>`<tr><td>${String(i+1).padStart(2,"0")}</td><td><strong>${esc(e.event)}</strong></td><td>${esc(e.location)}</td><td>${esc(e.date)}</td><td><span class="status-pill ${e.status==="past"?"past":""}">${e.status==="past"?"Celebrado":"Próximo"}</span></td></tr>`).join(""):`<tr><td colspan="5">Calendario oficial aún no conectado. Consulta la web oficial del campeonato antes de planificar el viaje.</td></tr>`;}
+function renderStandings(){const data=sampleStandings[currentStandingsSeries]||sampleStandings.F1;let rows=data[currentStandingsType]||[];if(currentStandingsSeries==="WEC"){$("#wecClassWrap").hidden=false;const cat=$("#wecClass").value;rows=[["—",`Clasificación ${cat} no conectada`,"—","—"]];}else $("#wecClassWrap").hidden=true;$("#standingsBody").innerHTML=rows.map(r=>`<tr>${r.map((v,i)=>`<td>${i===1?`<strong>${esc(v)}</strong>`:esc(v)}</td>`).join("")}</tr>`).join("");$("#standingsUpdated").textContent="Sin sincronización de datos";$("#standingsDisclaimer").textContent="No hay una API de resultados conectada todavía. No se muestran puntos ficticios: configura una API o feed autorizado en el servidor PHP para activar la actualización automática.";}
+async function loadData(){try{const res=await fetch(`${API}?action=all`,{headers:{Accept:"application/json"}});if(!res.ok)throw new Error("API no disponible");const data=await res.json();if(Array.isArray(data.news)&&data.news.length)renderNews(data.news);else renderNews(sampleNews);if(data.calendars)Object.assign(calendars,data.calendars);if(data.standings)Object.assign(sampleStandings,data.standings);if(data.updatedAt)$("#standingsUpdated").textContent=`Actualizado: ${new Date(data.updatedAt).toLocaleString("es-ES")}`;renderCalendar();renderStandings();}catch(e){renderNews(sampleNews);renderCalendar();renderStandings();}}
+$("#newsFilters").addEventListener("click",e=>{const b=e.target.closest("button[data-series]");if(!b)return;currentNewsSeries=b.dataset.series;$("#newsFilters").querySelectorAll("button").forEach(x=>x.classList.toggle("active",x===b));renderNews(sampleNews);});
+$("#calendarFilters").addEventListener("click",e=>{const b=e.target.closest("button[data-series]");if(!b)return;currentCalendarSeries=b.dataset.series;$("#calendarFilters").querySelectorAll("button").forEach(x=>x.classList.toggle("active",x===b));renderCalendar();});
+$("#calendarStatus").addEventListener("change",renderCalendar);
+$("#standingsSeries").addEventListener("click",e=>{const b=e.target.closest("button[data-series]");if(!b)return;currentStandingsSeries=b.dataset.series;$("#standingsSeries").querySelectorAll("button").forEach(x=>x.classList.toggle("active",x===b));renderStandings();});
+$("#standingsType").addEventListener("click",e=>{const b=e.target.closest("button[data-type]");if(!b)return;currentStandingsType=b.dataset.type;$("#standingsType").querySelectorAll("button").forEach(x=>x.classList.toggle("active",x===b));renderStandings();});
+$("#wecClass").addEventListener("change",renderStandings);$("#menuToggle").addEventListener("click",()=>$("#mainNav").classList.toggle("open"));
+loadData();
