@@ -14,3 +14,31 @@ $("#calendarStatus").addEventListener("change",renderCalendar);
 $("#standingsSeries").addEventListener("click",e=>{const b=e.target.closest("button[data-series]");if(!b)return;currentStandingsSeries=b.dataset.series;$("#standingsSeries").querySelectorAll("button").forEach(x=>x.classList.toggle("active",x===b));renderStandings();});
 $("#standingsType").addEventListener("click",e=>{const b=e.target.closest("button[data-type]");if(!b)return;currentStandingsType=b.dataset.type;$("#standingsType").querySelectorAll("button").forEach(x=>x.classList.toggle("active",x===b));renderStandings();});
 $("#wecClass").addEventListener("change",renderStandings);$("#menuToggle").addEventListener("click",()=>$("#mainNav").classList.toggle("open"));loadData();
+let deferredInstallPrompt = null;
+const installButton = $("#installApp");
+if (installButton) {
+  window.addEventListener("beforeinstallprompt", event => {
+    event.preventDefault();
+    deferredInstallPrompt = event;
+    installButton.textContent = "Instalar app";
+  });
+  installButton.addEventListener("click", async () => {
+    if (deferredInstallPrompt) {
+      deferredInstallPrompt.prompt();
+      await deferredInstallPrompt.userChoice;
+      deferredInstallPrompt = null;
+      return;
+    }
+    const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
+    if (isIOS) {
+      alert('Para instalarla en iPhone o iPad: pulsa Compartir en Safari y elige «Añadir a pantalla de inicio».');
+    } else if (window.matchMedia("(display-mode: standalone)").matches || navigator.standalone) {
+      alert("La aplicación ya está abierta en modo instalado.");
+    } else {
+      alert('Si tu navegador ofrece «Instalar aplicación» o «Añadir a pantalla de inicio» en el menú, selecciónalo para crear el icono.');
+    }
+  });
+}
+if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
+  window.addEventListener("load", () => navigator.serviceWorker.register("./sw.js").catch(error => console.warn("No se pudo activar el modo sin conexión", error)));
+}
