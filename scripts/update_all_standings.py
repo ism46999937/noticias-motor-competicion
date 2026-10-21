@@ -115,7 +115,7 @@ def normal_rows(table, series, kind):
 def parse_f1_jolpica(base):
     def fetch_json(endpoint):
         request = urllib.request.Request(
-            f"\${base}/\${endpoint}.json?limit=100",
+            f"${base}/${endpoint}.json?limit=100",
             headers={"User-Agent": "NoticiasMotorCompeticion/1.0 (+GitHub Actions)"},
         )
         with urllib.request.urlopen(request, timeout=20) as response:
