@@ -15,7 +15,7 @@ El workflow publica solo el frontend estático y el JSON de datos. No publica ni
 - Los estados de las rondas se calculan en el navegador según la fecha actual.
 - Un workflow programado consulta la API pública Jolpica (compatible con Ergast) para obtener las clasificaciones de pilotos y constructores de F1 de 2026. Si la API no responde o aún no tiene datos, conserva los datos existentes en lugar de publicar puntos inventados.
 - Las clasificaciones de F2, F3 y WEC aún requieren una API o feed autorizado específico; no se inventan posiciones ni puntos.
-- Las noticias automáticas siguen pendientes de una fuente RSS/API compatible y con condiciones de uso adecuadas. De momento se ofrecen enlaces a las fuentes.
+- Se ha añadido un importador diario del feed RSS público de noticias FIA. Solo publica titulares, fecha, atribución y enlaces originales; clasifica las noticias cuando el texto permite identificar F1/F2/F3/WEC. Si el feed no está disponible o no devuelve coincidencias, conserva los titulares anteriores. Hay que comprobar en Actions la disponibilidad efectiva del feed y la clasificación editorial.
 
 ## Fuentes oficiales de calendarios
 - Calendarios FIA 2026: https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council
@@ -36,7 +36,7 @@ php -S localhost:8001
 
 ## Limitaciones y siguientes pasos
 - Para la publicación estática, el JSON debe estar disponible públicamente; nunca pongas claves privadas en `data/site-data.json` ni en JavaScript.
-- La sincronización F1 se ejecuta semanalmente y se puede lanzar manualmente desde Actions. Para actualizar inmediatamente tras cada carrera, ajusta la frecuencia o añade un trigger de calendario de eventos.
+- La sincronización de clasificaciones F1 y titulares FIA se ejecuta diariamente y se puede lanzar manualmente desde Actions. La publicación estática también tiene un horario diario para recoger el JSON actualizado. Para actualizar inmediatamente tras cada carrera, ajusta la frecuencia o añade un trigger de calendario de eventos.
 - Hay que confirmar la cobertura real de la API Jolpica para la temporada 2026 una vez que el proveedor publique sus datos.
 - Antes de mostrar resultados de F2/F3/WEC, conectar una API autorizada y validar esquema, cobertura y condiciones de licencia.
 - La actualización automática de noticias requiere integrar feeds permitidos, conservar atribución y enlazar a los artículos originales; no se reproducen artículos completos.
