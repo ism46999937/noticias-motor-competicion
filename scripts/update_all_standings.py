@@ -97,7 +97,7 @@ def clean_name(value):
 def normal_rows(table, series, kind):
     rows = []
     for cells in table["rows"]:
-        if len(cells) < 3 or not re.fullmatch(r"\\d{1,2}", cells[0].strip()):
+        if len(cells) < 3 or not re.fullmatch(r"\d{1,2}", cells[0].strip()):
             continue
         position = int(cells[0])
         points = number(cells[-1])
