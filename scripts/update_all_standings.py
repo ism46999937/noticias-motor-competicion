@@ -15,13 +15,10 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "site-data.json"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NoticiasMotorCompeticion/1.0; +https://github.com/ism46999937/noticias-motor-competicion)"}
 SOURCES = {
-    "F1": {
-        "drivers": "https://www.formula1.com/en/results/2026/drivers",
-        "teams": "https://www.formula1.com/en/results/2026/team",
-    },
+    "F1": "https://www.fia.com/events/fia-formula-one-world-championship/season-2026/2026-classifications",
     "F2": "https://www.fia.com/events/formula-2-championship/season-2026/standings",
     "F3": "https://www.fia.com/events/fia-formula-3-championship/season-2026/2026-standings",
-    "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings",
+    "WEC": "https://www.fiawec.com/en/page/manufacturers-classification",
 }
 
 def fetch(url):
@@ -100,24 +97,26 @@ def clean_name(value):
 def normal_rows(table, series, kind):
     rows = []
     for cells in table["rows"]:
-        if len(cells) < 3 or not re.fullmatch(r"\d{1,2}", cells[0].strip()):
+        if len(cells) < 3 or not re.fullmatch(r"\\d{1,2}", cells[0].strip()):
             continue
         position = int(cells[0])
-        name = clean_name(cells[1])
-        pts = number(cells[-1])
-        if not name or pts is None or len(name) > 100:
+        points = number(cells[-1])
+        if points is None:
             continue
-        team = "—"
-        if series == "F1":
-            team = cells[3] if len(cells) > 4 else "—"
-        elif series == "WEC":
-            # WEC tables expose Manufacturer, car number, Drivers/Team, then points.
-            if kind == "teams":
-                team = name
-            elif len(cells) >= 5:
-                team = cells[1]
-                name = cells[3] if len(cells) > 4 else cells[1]
-        rows.append({"position": position, "name": name, "team": team, "points": int(pts) if pts.is_integer() else pts})
+        # Official FIA tables have driver/team names in column 2; WEC has
+        # manufacturer, car number, team/driver, race points and total points.
+        if kind == "teams":
+            name = clean_name(cells[3]) if series == "WEC" and len(cells) >= 6 else clean_name(cells[1])
+            team = name
+        elif series == "WEC" and len(cells) >= 6:
+            name = clean_name(cells[3])
+            team = " ".join(x for x in (clean_name(cells[1]), clean_name(cells[2])) if x)
+        else:
+            name = clean_name(cells[1])
+            team = "—"
+        if not name:
+            continue
+        rows.append({"position": position, "name": name, "team": team or "—", "points": int(points) if float(points).is_integer() else points})
     return rows
 
 def parse_fia_series(series, url):
@@ -142,34 +141,27 @@ def parse_fia_series(series, url):
     return {"drivers": driver_rows, "teams": team_rows}
 
 def parse_wec(url):
-    tables = tables_from(fetch(url))
-    result = {"Hypercar": {}, "LMGT3": {}}
+    tables = tables_from(url)
+    parsed_tables = []
     for table in tables:
-        heading = (table.get("heading") or "").lower()
-        first = " ".join(table["rows"][0]).lower() if table["rows"] else ""
-        context = heading + " " + first
-        if "hypercar" in context:
-            cat = "Hypercar"
-        elif "lmgt3" in context:
-            cat = "LMGT3"
-        else:
+        rows = table.get("rows", [])
+        if len(rows) < 4:
             continue
-        if "manufacturer" in context or "manufacturers" in context or "teams" in context or "team" in context:
-            kind = "teams"
-        elif "driver" in context:
-            kind = "drivers"
-        else:
+        header = " ".join(rows[0]).lower()
+        kind = "drivers" if "drivers" in header else ("teams" if "team" in header else ("manufacturers" if "manufacturer" in header else None))
+        if not kind:
             continue
-        rows = normal_rows(table, "WEC", kind)
-        if len(rows) >= 3:
-            result[cat][kind] = rows
-    for cat in ("Hypercar", "LMGT3"):
-        if len(result[cat].get("drivers", [])) < 3:
-            raise ValueError(f"WEC {cat}: official drivers table missing")
-        if len(result[cat].get("teams", [])) < 3:
-            # Some official pages label these standings as manufacturer or entrant tables.
-            result[cat]["teams"] = result[cat].get("manufacturers", [])
-    return result
+        parsed = normal_rows(table, "WEC", "teams" if kind in ("teams", "manufacturers") else "drivers")
+        if len(parsed) >= 3:
+            parsed_tables.append((kind, parsed))
+    # The official page orders the tables as Hypercar manufacturers, Hypercar
+    # drivers, LMGT3 teams, LMGT3 drivers. Validate table sizes before publishing.
+    if len(parsed_tables) < 4:
+        raise ValueError(f"WEC: expected four official classification tables; found {len(parsed_tables)}")
+    return {
+        "Hypercar": {"drivers": parsed_tables[1][1], "teams": parsed_tables[0][1]},
+        "LMGT3": {"drivers": parsed_tables[3][1], "teams": parsed_tables[2][1]},
+    }
 
 def main():
     payload = json.loads(DATA_FILE.read_text(encoding="utf-8"))
