@@ -1,6 +1,6 @@
 # Noticias de Motor Competición
 
-Web en español para F1, F2, F3 y WEC, construida con HTML, CSS y JavaScript. El repositorio incluye PHP como base opcional para un alojamiento con servidor; **GitHub Pages no ejecuta PHP**.
+Web en español para F1, F2, F3, WEC, MotoGP, Moto2, Moto3 y WorldSBK (Superbikes), construida con HTML, CSS y JavaScript. El repositorio incluye PHP como base opcional para un alojamiento con servidor; **GitHub Pages no ejecuta PHP**.
 
 ## Publicación en GitHub Pages
 1. Abre **Settings → Pages** en el repositorio.
@@ -11,7 +11,8 @@ Web en español para F1, F2, F3 y WEC, construida con HTML, CSS y JavaScript. El
 El workflow publica solo el frontend estático y el JSON de datos. No publica ni ejecuta `api.php`. Cada cambio en `main` dispara un nuevo despliegue.
 
 ## Datos conectados
-- Calendarios de F1, F2, F3 y WEC transcritos de publicaciones oficiales FIA de 2026, incluidos los cambios anunciados para F2 en Miami y Montreal.
+- Calendarios de F1, F2, F3 y WEC transcritos de publicaciones oficiales FIA de 2026, incluidos los cambios anunciados para F2 en Miami y Montreal. La aplicación también muestra los calendarios 2026 de MotoGP/Moto2/Moto3 y WorldSBK desde sus publicaciones oficiales.
+- La alineación de 2027 incluye pilotos anunciados oficialmente de MotoGP, Moto2, Moto3 y WorldSBK; deja las plazas sin confirmar visibles como pendientes.
 - Los estados de las rondas se calculan en el navegador según la fecha actual.
 - Un workflow programado actualiza las clasificaciones de F1 con la API pública Jolpica (compatible con Ergast) y F2, F3 y WEC con páginas oficiales FIA. Cada campeonato solo sustituye sus datos si la fuente devuelve una tabla plausible; si falla, conserva la última tabla válida.
 - Las clasificaciones de F2, F3 y WEC aún requieren una API o feed autorizado específico; no se inventan posiciones ni puntos.

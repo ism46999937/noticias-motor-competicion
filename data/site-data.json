@@ -399,6 +399,43 @@
     ]
   },
   "standings": {
+    "MotoGP": {
+      "drivers": [
+        {"position":1,"name":"Jorge Martin","team":"Aprilia Racing","points":355},{"position":2,"name":"Marc Marquez","team":"Ducati Lenovo Team","points":353},{"position":3,"name":"Marco Bezzecchi","team":"Aprilia Racing","points":309},{"position":4,"name":"Ai Ogura","team":"SuperFile Trackhouse MotoGP Team","points":259},{"position":5,"name":"Pedro Acosta","team":"Red Bull KTM Factory Racing","points":258},{"position":6,"name":"Fabio Di Giannantonio","team":"Pertamina Enduro VR46 Racing Team","points":245},{"position":7,"name":"Raul Fernandez","team":"SuperFile Trackhouse MotoGP Team","points":236},{"position":8,"name":"Alex Marquez","team":"BK8 Gresini Racing MotoGP","points":172},{"position":9,"name":"Francesco Bagnaia","team":"Ducati Lenovo Team","points":166},{"position":10,"name":"Fermin Aldeguer","team":"BK8 Gresini Racing MotoGP","points":125}
+      ],
+      "teams": [
+        {"position":1,"name":"Aprilia Racing","team":"Aprilia","points":664},{"position":2,"name":"Ducati Lenovo Team","team":"Ducati","points":519},{"position":3,"name":"SuperFile Trackhouse MotoGP Team","team":"Aprilia","points":495},{"position":4,"name":"Red Bull KTM Factory Racing","team":"KTM","points":362},{"position":5,"name":"BK8 Gresini Racing MotoGP","team":"Ducati","points":306},{"position":6,"name":"Pertamina Enduro VR46 Racing Team","team":"Ducati","points":304},{"position":7,"name":"Honda HRC","team":"Honda","points":147},{"position":8,"name":"Red Bull KTM Tech3","team":"KTM","points":139},{"position":9,"name":"LCR Honda","team":"Honda","points":125},{"position":10,"name":"Monster Energy Yamaha MotoGP Team","team":"Yamaha","points":99},{"position":11,"name":"Prima Pramac Yamaha MotoGP","team":"Yamaha","points":46}
+      ]
+    },
+    "Moto2": {
+      "drivers": [
+        {"position":1,"name":"Manuel Gonzalez","team":"LIQUI MOLY Dynavolt Intact GP","points":265.5},{"position":2,"name":"Izan Guevara","team":"BLU CRU Pramac Yamaha Moto2","points":260},{"position":3,"name":"Ivan Ortola","team":"QJMOTOR - JP Financial - MSI","points":191.5},{"position":4,"name":"Daniel Holgado","team":"CFMOTO Power Electronics Aspar Team","points":170},{"position":5,"name":"David Alonso","team":"CFMOTO Power Electronics Aspar Team","points":166},{"position":6,"name":"Senna Agius","team":"LIQUI MOLY Dynavolt Intact GP","points":165},{"position":7,"name":"Filip Salac","team":"OnlyFans American Racing Team","points":153},{"position":8,"name":"Celestino Vietti","team":"BETA Tools SpeedRS Team","points":133},{"position":9,"name":"Alonso Lopez","team":"ITALJET Gresini Moto2","points":125.5},{"position":10,"name":"Daniel Muñoz","team":"Italtrans Racing Team","points":83}
+      ],
+      "teams": [
+        {"position":1,"name":"LIQUI MOLY Dynavolt Intact GP","team":"LIQUI MOLY Dynavolt Intact GP","points":356.5},{"position":2,"name":"CFMOTO Aspar Team","team":"CFMOTO Aspar Team","points":269},{"position":3,"name":"BLU CRU Pramac Yamaha Moto2","team":"BLU CRU Pramac Yamaha Moto2","points":190.5},{"position":4,"name":"QJMOTOR - Reverte - MSI","team":"QJMOTOR - Reverte - MSI","points":148.5},{"position":5,"name":"OnlyFans American Racing Team","team":"OnlyFans American Racing Team","points":148},{"position":6,"name":"Folladore SpeedRS Team","team":"Folladore SpeedRS Team","points":131},{"position":7,"name":"ITALJET Gresini Moto2","team":"ITALJET Gresini Moto2","points":103.5},{"position":8,"name":"Italtrans Racing Team","team":"Italtrans Racing Team","points":91},{"position":9,"name":"Red Bull KTM Ajo","team":"Red Bull KTM Ajo","points":82.5},{"position":10,"name":"REDS Fantic Racing","team":"REDS Fantic Racing","points":78.5},{"position":11,"name":"KLINT Racing Team","team":"KLINT Racing Team","points":57},{"position":12,"name":"ELF Marc VDS Racing Team","team":"ELF Marc VDS Racing Team","points":45},{"position":13,"name":"Momoven Idrofoglia RW Racing Team","team":"Momoven Idrofoglia RW Racing Team","points":31},{"position":14,"name":"Idemitsu Honda Team Asia","team":"Idemitsu Honda Team Asia","points":18}
+      ]
+    },
+    "Moto3": {
+      "drivers": [
+        {"position":1,"name":"Maximo Quiles","team":"CFMOTO Gaviota Aspar Team","points":351},{"position":2,"name":"David Almansa","team":"Liqui Moly Dynavolt Intact GP","points":217},{"position":3,"name":"Brian Uriarte","team":"Red Bull KTM Ajo","points":198},{"position":4,"name":"Alvaro Carpe","team":"Red Bull KTM Ajo","points":189},{"position":5,"name":"Adrian Fernandez","team":"Leopard Racing","points":148},{"position":6,"name":"Marco Morelli","team":"CFMOTO Gaviota Aspar Team","points":140},{"position":7,"name":"Valentin Perrone","team":"Red Bull KTM Tech3","points":120},{"position":8,"name":"Veda Pratama","team":"Honda Team Asia","points":111},{"position":9,"name":"Hakim Danish","team":"AEON Credit - MT Helmets - MSI","points":103},{"position":10,"name":"Matteo Bertelle","team":"LEVEL UP - MTA","points":103}
+      ],
+      "teams": [
+        {"position":1,"name":"CFMOTO Viel Aspar Team","team":"CFMOTO Viel Aspar Team","points":387},{"position":2,"name":"Red Bull KTM Ajo","team":"Red Bull KTM Ajo","points":297},{"position":3,"name":"Liqui Moly Dynavolt Intact GP","team":"Liqui Moly Dynavolt Intact GP","points":214},{"position":4,"name":"Red Bull KTM Tech3","team":"Red Bull KTM Tech3","points":163},{"position":5,"name":"LEVEL UP - MTA","team":"LEVEL UP - MTA","points":130},{"position":6,"name":"Leopard Racing","team":"Leopard Racing","points":116},{"position":7,"name":"AEON Credit - MT Helmets - MSI","team":"AEON Credit - MT Helmets - MSI","points":112},{"position":8,"name":"GRYD Racing","team":"GRYD Racing","points":105},{"position":9,"name":"Honda Team Asia","team":"Honda Team Asia","points":100},{"position":10,"name":"CIP Green Power","team":"CIP Green Power","points":84},{"position":11,"name":"SIC58 Squadra Corse","team":"SIC58 Squadra Corse","points":57},{"position":12,"name":"Rivacold Snipers Team","team":"Rivacold Snipers Team","points":49},{"position":13,"name":"CODE Motorsports","team":"CODE Motorsports","points":6}
+      ]
+    },
+    "Superbikes": {
+      "drivers": [
+        {"position":1,"name":"Nicolo Bulega","team":"Aruba.it Racing - Ducati","points":726},{"position":2,"name":"Iker Lecuona","team":"Aruba.it Racing - Ducati","points":563},{"position":3,"name":"Yari Montella","team":"Barni Spark Racing Team","points":318},{"position":4,"name":"Sam Lowes","team":"ELF Marc VDS Racing Team","points":268},{"position":5,"name":"Alex Lowes","team":"bimota by Kawasaki Racing Team","points":259},{"position":6,"name":"Lorenzo Baldassarri","team":"Team GoEleven","points":236},{"position":7,"name":"Axel Bassani","team":"bimota by Kawasaki Racing Team","points":222},{"position":8,"name":"Alberto Surra","team":"Motocorsa Racing","points":198},{"position":9,"name":"Alvaro Bautista","team":"Barni Spark Racing Team","points":167},{"position":10,"name":"Garrett Gerloff","team":"Kawasaki WorldSBK Team","points":165}
+      ],
+      "teams": [
+        {"position":1,"name":"Ducati","points":744},
+        {"position":2,"name":"Bimota","points":316},
+        {"position":3,"name":"BMW","points":184},
+        {"position":4,"name":"Yamaha","points":183},
+        {"position":5,"name":"Kawasaki","points":165},
+        {"position":6,"name":"Honda","points":64}
+      ]
+    },
     "F1": {
       "drivers": [
         {
@@ -1917,12 +1954,20 @@
   },
   "note": "Calendarios contrastados con fuentes FIA publicadas y revisados para cambios anunciados en 2026. Los estados se calculan por fecha local. Las clasificaciones solo se actualizan si la fuente devuelve datos válidos.",
   "standingsSources": {
+    "MotoGP": "https://stats.motogp.com/en/world-standing/2026/MotoGP/RidersChampionship",
+    "Moto2": "https://stats.motogp.com/en/world-standing/2026/Moto2/RidersChampionship",
+    "Moto3": "https://stats.motogp.com/en/world-standing/2026/Moto3/RidersChampionship",
+    "Superbikes": "https://prod.worldsbk.com/es/news/2026/10/18/2026-worldsbk-championship-standings/1014570",
     "F1": "https://api.jolpi.ca/ergast/f1/2026",
     "F2": "https://api.fia.com/events/formula-2-championship/season-2026/standings",
     "F3": "https://api.fia.com/events/fia-formula-3-championship/season-2026/2026-standings",
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
+    "MotoGP": "2026-10-11T00:00:00+00:00",
+    "Moto2": "2026-10-11T00:00:00+00:00",
+    "Moto3": "2026-10-11T00:00:00+00:00",
+    "Superbikes": "2026-10-18T00:00:00+00:00",
     "F1": "2026-10-21T20:46:35.955510+00:00",
     "F2": "2026-10-21T20:46:35.955510+00:00",
     "F3": "2026-10-21T20:46:35.955510+00:00",
