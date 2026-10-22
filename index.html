@@ -20,7 +20,7 @@
 <header class="site-header">
   <a class="brand" href="#"><span class="brand-mark">MC</span><span>MOTOR <b>COMPETICIÓN</b><small>La actualidad, a fondo.</small></span></a>
   <button class="menu-toggle" id="menuToggle" aria-label="Abrir menú">☰</button>
-  <nav id="mainNav"><a href="#noticias">Noticias</a><a href="#calendario">Calendario 2026</a><a href="#clasificaciones">Clasificaciones</a><a href="#fuentes">Fuentes</a><button class="install-app" id="installApp" type="button">Instalar app</button></nav>
+  <nav id="mainNav"><a href="#noticias">Noticias</a><a href="#calendario">Calendario 2026</a><a href="#clasificaciones">Clasificaciones</a><a href="#alineacion">Alineación 2027</a><a href="#fuentes">Fuentes</a><button class="install-app" id="installApp" type="button">Instalar app</button></nav>
 </header>
 <main>
   <section class="hero">
@@ -54,6 +54,13 @@
     <div class="table-wrap standings-table-wrap"><table class="standings-table"><thead><tr><th>POS.</th><th>NOMBRE</th><th>EQUIPO</th><th>PTS.</th></tr></thead><tbody id="standingsBody"></tbody></table></div>
     <div class="notice"><strong>Transparencia de datos</strong><p id="standingsDisclaimer">Las filas de muestra no son una clasificación oficial. Para automatizar resultados es necesario configurar una API o fuente autorizada.</p></div>
   </section>
+  <section class="section lineup-section" id="alineacion">
+    <div class="section-heading"><div><p class="eyebrow">PRÓXIMA TEMPORADA</p><h2>Alineación <em>2027</em></h2></div><span class="section-note">Solo anuncios confirmados oficialmente</span></div>
+    <div class="filter-row" id="lineupFilters"><button class="filter active" data-series="F1">F1</button><button class="filter" data-series="F2">F2</button><button class="filter" data-series="F3">F3</button><button class="filter" data-series="WEC">WEC</button></div>
+    <p class="lineup-status" id="lineupStatus" aria-live="polite"></p>
+    <div class="lineup-grid" id="lineupGrid"></div>
+    <p class="fine-print">Los asientos sin nombre siguen pendientes de anuncio. Consulta la fuente enlazada en cada fila; la parrilla se irá completando conforme se publiquen nuevas confirmaciones.</p>
+  </section>
   <section class="section source-section" id="fuentes">
     <div class="section-heading"><div><p class="eyebrow">PERIODISMO Y DATOS</p><h2>Fuentes <em>de referencia</em></h2></div></div>
     <div class="source-grid">
@@ -68,5 +75,5 @@
   </section>
 </main>
 <footer><a class="brand" href="#"><span class="brand-mark">MC</span><span>MOTOR <b>COMPETICIÓN</b><small>La actualidad, a fondo.</small></span></a><span>Proyecto independiente · Temporada 2026</span><a href="#fuentes">Fuentes y transparencia ↑</a></footer>
-<script src="app.js"></script>
+<script src="app.js?v=wec-lineup-2027"></script>
 </body></html>

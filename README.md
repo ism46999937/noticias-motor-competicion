@@ -27,6 +27,11 @@ El workflow publica solo el frontend estático y el JSON de datos. No publica ni
 - Clasificación oficial WEC FIA: https://api.fia.com/events/world-endurance-championship/season-2026/standings
 
 ## Desarrollo local
+Los estilos se mantienen en `styles.scss`; antes de publicar cambios de estilo, regenera `styles.css`:
+```bash
+sass --no-source-map styles.scss styles.css
+```
+
 Para probar el frontend estático:
 ```bash
 python3 -m http.server 8000
@@ -35,6 +40,8 @@ Abre http://localhost:8000. Para comprobar el endpoint PHP opcional, desde la ca
 ```bash
 php -S localhost:8001
 ```
+
+La página de horarios del Gran Premio convierte las sesiones de F1 a las zonas horarias de Madrid y Londres. Usa el feed de sesiones de When’s the Race (CC BY 4.0; atribución visible en la página). F2, F3 y WEC enlazan a sus programas oficiales porque el JSON local aún no contiene horarios de sesión para esos campeonatos.
 
 ## Limitaciones y siguientes pasos
 - Para la publicación estática, el JSON debe estar disponible públicamente; nunca pongas claves privadas en `data/site-data.json` ni en JavaScript.

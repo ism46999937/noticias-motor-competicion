@@ -22,9 +22,10 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Prepare static website (PHP is not executed by GitHub Pages)
         run: |
-          mkdir -p _site/data
-          cp index.html styles.css app.js _site/
+          mkdir -p _site/data _site/icons
+          cp index.html styles.css app.js race-schedule.html race-schedule.js _site/
           cp data/site-data.json _site/data/
+          cp icons/* _site/icons/
           touch _site/.nojekyll
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
