@@ -14,9 +14,9 @@ El workflow publica solo el frontend estático y el JSON de datos. No publica ni
 - Calendarios de F1, F2, F3 y WEC transcritos de publicaciones oficiales FIA de 2026, incluidos los cambios anunciados para F2 en Miami y Montreal. La aplicación también muestra los calendarios 2026 de MotoGP/Moto2/Moto3 y WorldSBK desde sus publicaciones oficiales.
 - La alineación de 2027 incluye pilotos anunciados oficialmente de MotoGP, Moto2, Moto3 y WorldSBK; deja las plazas sin confirmar visibles como pendientes.
 - Los estados de las rondas se calculan en el navegador según la fecha actual.
-- Un workflow programado actualiza las clasificaciones de F1 con la API pública Jolpica (compatible con Ergast) y F2, F3 y WEC con páginas oficiales FIA. Cada campeonato solo sustituye sus datos si la fuente devuelve una tabla plausible; si falla, conserva la última tabla válida.
-- Las clasificaciones de F2, F3 y WEC aún requieren una API o feed autorizado específico; no se inventan posiciones ni puntos.
-- El importador diario del RSS público de noticias FIA está probado y publica titulares, fecha, atribución y enlace original. La clasificación por campeonato se hace a partir del titular para evitar etiquetas erróneas; si el feed no está disponible o no hay titulares identificables, conserva los anteriores.
+- Un workflow diario actualiza clasificaciones de F1 con la API pública Jolpica (compatible con Ergast), F2/F3/WEC con las fuentes FIA disponibles y MotoGP/Moto2/Moto3 con las tablas oficiales de MotoGP Stats. Cada campeonato solo sustituye sus datos si la fuente devuelve una tabla plausible; si falla, conserva la última tabla válida. WorldSBK conserva la última clasificación oficial verificada mientras no haya un endpoint de clasificación legible para la sincronización automática.
+- Las tablas se refrescan desde fuentes oficiales cuando están disponibles; las clasificaciones guardadas se conservan si una fuente falla o cambia de formato.
+- El importador diario recoge titulares y extractos breves del RSS público de la FIA y de las secciones oficiales de noticias de MotoGP.com. MotoGP se toma de su sección dedicada; las noticias del carril conjunto Moto2/Moto3 se asignan cuando el titular identifica la categoría o menciona pilotos de su clasificación. Publica fecha, atribución y enlace original; si una fuente falla o no hay artículos clasificables, conserva las noticias anteriores de esas categorías.
 
 ## Fuentes oficiales de calendarios
 - Calendarios FIA 2026: https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council
@@ -48,5 +48,5 @@ La página de horarios del Gran Premio convierte las sesiones de F1 a las zonas 
 - Para la publicación estática, el JSON debe estar disponible públicamente; nunca pongas claves privadas en `data/site-data.json` ni en JavaScript.
 - La sincronización de clasificaciones F1 y titulares FIA se ejecuta diariamente y se puede lanzar manualmente desde Actions. La publicación estática también tiene un horario diario para recoger el JSON actualizado. Para actualizar inmediatamente tras cada carrera, ajusta la frecuencia o añade un trigger de calendario de eventos.
 - Hay que confirmar la cobertura real de la API Jolpica para la temporada 2026 una vez que el proveedor publique sus datos.
-- Antes de mostrar resultados de F2/F3/WEC, conectar una API autorizada y validar esquema, cobertura y condiciones de licencia.
+- Revisar periódicamente cobertura y cambios de formato de las fuentes oficiales, especialmente en categorías con tablas de resultados dinámicas.
 - La actualización automática de noticias requiere integrar feeds permitidos, conservar atribución y enlazar a los artículos originales; no se reproducen artículos completos.

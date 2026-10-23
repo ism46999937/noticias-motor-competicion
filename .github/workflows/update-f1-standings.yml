@@ -24,10 +24,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Fetch official F1, F2, F3 and WEC standings
+      - name: Fetch official championship standings
         continue-on-error: true
         run: python scripts/update_all_standings.py
-      - name: Fetch official FIA news headlines
+      - name: Fetch official FIA and MotoGP.com news headlines
         run: python scripts/update_news.py
       - name: Commit changed data
         run: |

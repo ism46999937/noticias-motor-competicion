@@ -20,6 +20,13 @@ SOURCES = {
     "F3": "https://api.fia.com/events/fia-formula-3-championship/season-2026/2026-standings",
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings",
 }
+MOTOGP_SOURCES = {
+    series: {
+        "drivers": f"https://stats.motogp.com/en/world-standing/2026/{series}/RidersChampionship",
+        "teams": f"https://stats.motogp.com/en/world-standing/2026/{series}/TeamsChampionship",
+    }
+    for series in ("MotoGP", "Moto2", "Moto3")
+}
 
 def fetch(url):
     req = urllib.request.Request(url, headers=HEADERS)
@@ -103,18 +110,43 @@ def normal_rows(table, series, kind):
             continue
         position = int(cells[0])
         name = clean_name(cells[1])
+        if series in ("MotoGP", "Moto2", "Moto3") and kind == "drivers":
+            name = re.sub(r"^#?\d{1,3}\s*(?=[A-ZÁÉÍÓÚÑ])", "", name)
         if series == "WEC" and kind == "teams":
             name = re.sub(r"^#?\d{1,3}\s+", "", name)
-        points = number(cells[-1])
+        if series in ("MotoGP", "Moto2", "Moto3") and kind == "drivers" and len(cells) > 5:
+            points = number(cells[5])
+        else:
+            points = number(cells[-1])
         if not name or points is None or len(name) > 140:
             continue
+        rider_team = cells[3] if series in ("MotoGP", "Moto2", "Moto3") and kind == "drivers" and len(cells) > 3 else "—"
         rows.append({
             "position": position,
             "name": name,
-            "team": name if kind == "teams" else "—",
+            "team": name if kind == "teams" else clean_name(rider_team),
             "points": int(points) if float(points).is_integer() else points,
         })
     return rows
+
+def parse_motogp_series(series):
+    parsed = {}
+    for kind, url in MOTOGP_SOURCES[series].items():
+        tables = tables_from(fetch(url))
+        candidates = []
+        for table in tables:
+            heading = (table.get("heading") or "").lower()
+            header = " ".join(table["rows"][0]).lower() if table["rows"] else ""
+            if kind == "drivers" and not any(word in heading + " " + header for word in ("rider", "driver")):
+                continue
+            if kind == "teams" and not any(word in heading + " " + header for word in ("team", "constructor")):
+                continue
+            candidates.append(normal_rows(table, series, kind))
+        rows = next((candidate for candidate in candidates if len(candidate) >= 5), [])
+        if not rows:
+            raise ValueError(f"{series} {kind}: official MotoGP standings table missing or implausible")
+        parsed[kind] = rows
+    return parsed
 
 def parse_f1_jolpica(base):
     def fetch_json(endpoint):
@@ -219,6 +251,14 @@ def main():
         successes.append("WEC")
     except Exception as exc:
         errors.append(f"WEC: {exc}")
+    for series in ("MotoGP", "Moto2", "Moto3"):
+        try:
+            payload["standings"][series] = parse_motogp_series(series)
+            payload.setdefault("standingsSources", {})[series] = MOTOGP_SOURCES[series]["drivers"]
+            payload.setdefault("standingsUpdatedAt", {})[series] = datetime.now(timezone.utc).isoformat()
+            successes.append(series)
+        except Exception as exc:
+            errors.append(f"{series}: {exc}")
     if successes:
         now = datetime.now(timezone.utc).isoformat()
         payload["updatedAt"] = now
