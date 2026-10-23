@@ -154,14 +154,6 @@
     },
     {
       "date": "2026-10-11",
-      "title": "Hat-trick hero: Guevara wins dramatic Mandalika battle as gap tightens to Gonzalez",
-      "summary": "The #28 capitalises on late heartbreak for race leader Escrig to make it three victories on the spin, but the #18 produces a fine comeback to lose just five points in Indonesia",
-      "url": "https://www.motogp.com/en/news/2026/10/11/hat-trick-hero-guevara-wins-dramatic-mandalika-battle-as-gap-tightens-to-gonzalez/1174845",
-      "series": "Moto2",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-11",
       "title": "Maximo Quiles: meet the 2026 Moto3 World Champion!",
       "summary": "The #28 seals the deal with a win – get to know the newest Moto3 World Champion and future Moto2 star after a landmark season",
       "url": "https://www.motogp.com/en/news/2026/10/11/maximo-quiles-meet-the-2026-moto3-world-champion/1176377",
@@ -194,14 +186,6 @@
     },
     {
       "date": "2026-10-09",
-      "title": "On song Guevara soars to lap record Friday top spot in Indonesia",
-      "summary": "The recent back-to-back winner turns up the wick again to lay down the gauntlet to title rival Gonzalez heading into the weekend",
-      "url": "https://www.motogp.com/en/news/2026/10/09/on-song-guevara-soars-to-lap-record-friday-top-spot-in-indonesia/1174843",
-      "series": "Moto2",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-09",
       "title": "Almansa perfect to kickstart Moto3 at Mandalika",
       "summary": "FP1 and Practice on top, the #22 had a flying start to action in Indonesia",
       "url": "https://www.motogp.com/en/news/2026/10/09/almansa-perfect-to-kickstart-moto3-at-mandalika/1174840",
@@ -218,26 +202,10 @@
     },
     {
       "date": "2026-10-04",
-      "title": "Flawless Guevara clinches seismic Japan win as drama unfolds for Gonzalez",
-      "summary": "The championship gap goes from 35.5 points to 10.5 points as pre-race problems for Gonzalez sees him notch up zero points, while Arbolino and Salač earn rostrums",
-      "url": "https://www.motogp.com/en/news/2026/10/04/flawless-guevara-clinches-siesmic-japan-win-as-drama-unfolds-for-gonzalez/1145014",
-      "series": "Moto2",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-04",
       "title": "Almansa makes stunning last stand to deny Quiles at Motegi",
       "summary": "They duked it out again but unlike at Misano, it went the way of the #22 who moves back into P2 overall whilst Quiles’ title celebrations are put off for at least a week",
       "url": "https://www.motogp.com/en/news/2026/10/04/almansa-makes-stunning-last-stand-to-deny-quiles-at-motegi/1145011",
       "series": "Moto3",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Guevara grabs crucial Motegi pole, Gonzalez third",
-      "summary": "The title-chasing top two are joined on the front row by Czech star Salač at the Japanese Grand Prix",
-      "url": "https://www.motogp.com/en/news/2026/10/03/guevara-grabs-crucial-motegi-pole-gonzalez-third/1145012",
-      "series": "Moto2",
       "source": "MotoGP.com"
     },
     {
@@ -2962,7 +2930,7 @@
       }
     }
   },
-  "updatedAt": "2026-10-23T08:55:20.552161+00:00",
+  "updatedAt": "2026-10-23T08:55:51.265518+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -2981,15 +2949,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-10-23T08:55:20.552161+00:00",
-    "Moto2": "2026-10-23T08:55:20.552161+00:00",
-    "Moto3": "2026-10-23T08:55:20.552161+00:00",
+    "MotoGP": "2026-10-23T08:55:51.265518+00:00",
+    "Moto2": "2026-10-23T08:55:51.265518+00:00",
+    "Moto3": "2026-10-23T08:55:51.265518+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-10-23T08:55:20.552161+00:00",
-    "F2": "2026-10-23T08:55:20.552161+00:00",
-    "F3": "2026-10-23T08:55:20.552161+00:00",
-    "WEC": "2026-10-23T08:55:20.552161+00:00"
+    "F1": "2026-10-23T08:55:51.265518+00:00",
+    "F2": "2026-10-23T08:55:51.265518+00:00",
+    "F3": "2026-10-23T08:55:51.265518+00:00",
+    "WEC": "2026-10-23T08:55:51.265518+00:00"
   },
-  "newsUpdatedAt": "2026-10-23T08:55:08.700463+00:00",
-  "newsCheckedAt": "2026-10-23T08:55:08.700463+00:00"
+  "newsUpdatedAt": "2026-10-23T08:55:52.646707+00:00",
+  "newsCheckedAt": "2026-10-23T08:55:52.646707+00:00"
 }
