@@ -1,6 +1,54 @@
 {
   "news": [
     {
+      "date": "2026-10-23",
+      "title": "Bezzecchi fastest on Friday at Phillip Island, Aprilias gang-up on Marc Marquez",
+      "summary": "Two Aprilias in front of him and behind him, P3 for the reigning World Champion sees his nearest rivals all around",
+      "url": "https://www.motogp.com/en/news/2026/10/23/bezzecchi-fastest-on-friday-at-phillip-island-aprilias-gang-up-on-marc-marquez/1179519",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Marc Marquez pips Fernandez and home hero Miller to FP1 top spot",
+      "summary": "The reigning World Champion leads the 2025 Phillip Island winner and the Aussie after the opening stint of the weekend in Australia",
+      "url": "https://www.motogp.com/en/news/2026/10/23/marc-marquez-pips-fernandez-and-home-hero-miller-to-fp1-top-spot/1179518",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Title-hunting Guevara edges out Australia's Agius by 0.018s on Day 1",
+      "summary": "The current hat-trick hero and last year’s Moto2 Australian GP winner set the pace on Friday afternoon, with title race leader Gonzalez P8",
+      "url": "https://www.motogp.com/en/news/2026/10/23/title-hunting-guevara-edges-out-australias-agius-by-0018s-on-day-1/1179531",
+      "series": "Moto2",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Carpe leads home-hero Kelso at Phillip Island",
+      "summary": "The #83 was able to spoil the ideal opening day homecoming for the Australian as action ignites Down Under",
+      "url": "https://www.motogp.com/en/news/2026/10/23/carpe-leads-home-hero-kelso-at-phillip-island/1179526",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-10-22",
+      "title": "F1 - 2026 United States Grand Prix - Thursday Press Conference Transcript",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-united-states-grand-prix-thursday-press-conference-transcript"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "MEDIA DAY DISPATCH: Phillip Island’s final roar sets us up for a rippa",
+      "summary": "Our last visit to ‘The Island’ brings the stories, the headlines and possible strategies as the title fight rumbles on",
+      "url": "https://www.motogp.com/en/news/2026/10/22/media-day-dispatch-phillip-islands-final-roar-sets-us-up-for-a-rippa/1179516",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "series": "F1",
       "source": "FIA",
       "date": "2026-10-21",
@@ -9,12 +57,196 @@
       "url": "https://www.fia.com/news/f1-2026-united-states-gp-schedule-press-conferences"
     },
     {
+      "date": "2026-10-21",
+      "title": "Introducing: MotoGP™ Academy",
+      "summary": "A new program launches on the Road to MotoGP, promoting the sport around the world and further increasing accessibility to motorcycle racing",
+      "url": "https://www.motogp.com/en/news/2026/10/21/introducing-motogp-academy/1179384",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Mir to miss the Australian Grand Prix",
+      "summary": "The #36 will remain on the sidelines at this weekend's Australian GP, with no replacement planned",
+      "url": "https://www.motogp.com/en/news/2026/10/21/mir-to-miss-the-australian-grand-prix/1179433",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "MotoGP set for high-speed showcase at the Formula 1 United States Grand Prix 2026",
+      "summary": "Two wheels meet four at one of the world’s greatest racetracks in Austin, Texas",
+      "url": "https://www.motogp.com/en/news/2026/10/20/motogp-set-for-high-speed-showcase-at-the-formula-1-united-states-grand-prix-2026/1179297",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Razgatlioglu to miss remainder of the 2026 season",
+      "summary": "The Prima Pramac rider will undergo surgery and be replaced by test rider Augusto Fernandez",
+      "url": "https://www.motogp.com/en/news/2026/10/20/toprak-razgatloglu-to-miss-phillip-island-and-remainder-of-the-2026-season/1179262",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "MotoGP 2027 rider line-up: the grid is set!",
+      "summary": "Signed and sealed, the 2027 grid is confirmed! Find out who’s moving where ahead of MotoGP’s new era",
+      "url": "https://www.motogp.com/en/news/2026/10/20/motogp-2027-rider-line-up-the-official-announcements-so-far/1075037",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Alonso confirmed to race with Pro Honda LCR for 2027",
+      "summary": "The Colombian will move up to LCR from Moto2, racing alongside Zarco",
+      "url": "https://www.motogp.com/en/news/2026/10/20/alonso-confirmed-to-race-with-pro-honda-lcr-for-2027/1179259",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Honda HRC Castrol confirm Moreira alongside Quartararo for 2027",
+      "summary": "The #11 will race in the factory squad alongside the 2021 World Champion",
+      "url": "https://www.motogp.com/en/news/2026/10/20/honda-hrc-castrol-confirm-moreira-alongside-quartararo-for-2027/1179258",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Phillip Island classics: the best of the Australian GP",
+      "summary": "Sit back and witness five incredible battles we’ve seen at the magical Phillip Island over the years – proving anything can happen Down Under",
+      "url": "https://www.motogp.com/en/news/2026/10/20/phillip-island-classics-the-best-of-the-australian-gp/760761",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "HOT HEADLINES: the final Phillip Island battle beckons for tight 2026 title fight",
+      "summary": "A last chapter of history will be written as Phillip Island brings the end of the title showdown ever closer",
+      "url": "https://www.motogp.com/en/news/2026/10/19/hot-headlines-the-final-phillip-island-battle-beckons-for-tight-2026-title-fight/1177973",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "2027 Moto3™ grid announcements - what we know so far",
+      "summary": "Check out the latest signings, deals and announcements as the 2027 Moto3 grid begins to become clear!",
+      "url": "https://www.motogp.com/en/news/2026/10/19/2026-moto3-grid-announcements-what-we-know-so-far/1091615",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
       "series": "WEC",
       "source": "FIA",
       "date": "2026-10-18",
       "title": "WEC: Toyota masters mixed conditions to clinch the crown in Spain",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
       "url": "https://www.fia.com/news/wec-toyota-masters-mixed-conditions-clinch-crown-spain"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Fernandez reinstated after appeal verdict",
+      "summary": "Results to be updated for the first six races of the season",
+      "url": "https://www.motogp.com/en/news/2026/10/16/fernandez-reinstated-after-appeal-verdict/1178131",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Hat-trick hero: Guevara wins dramatic Mandalika battle as gap tightens to Gonzalez",
+      "summary": "The #28 capitalises on late heartbreak for race leader Escrig to make it three victories on the spin, but the #18 produces a fine comeback to lose just five points in Indonesia",
+      "url": "https://www.motogp.com/en/news/2026/10/11/hat-trick-hero-guevara-wins-dramatic-mandalika-battle-as-gap-tightens-to-gonzalez/1174845",
+      "series": "Moto2",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Maximo Quiles: meet the 2026 Moto3 World Champion!",
+      "summary": "The #28 seals the deal with a win – get to know the newest Moto3 World Champion and future Moto2 star after a landmark season",
+      "url": "https://www.motogp.com/en/news/2026/10/11/maximo-quiles-meet-the-2026-moto3-world-champion/1176377",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Quiles crowned Moto3 World Champion with Mandalika victory",
+      "summary": "The sensational 18-year-old is the latest young talent to life the World Championship with a stunning five rounds to spare",
+      "url": "https://www.motogp.com/en/news/2026/10/11/quiles-crowned-moto3-world-champion-with-mandalika-victory/1174842",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Guevara soars to incredible Indonesia pole, title rival Gonzalez P10",
+      "summary": "The first-ever 1:31 Moto2 lap time was slammed home in a Mandalika qualifying stunner that has big championship implications",
+      "url": "https://www.motogp.com/en/news/2026/10/10/guevara-soars-to-incredible-indonesia-pole-title-rival-gonzalez-p10/1174844",
+      "series": "Moto2",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Uriarte turns up the magic in Mandalika as title rivals lock out the front row",
+      "summary": "The Red Bull KTM Ajo rookie claims a season third pole ahead of Almansa and Carpe, leaving match-point man Quiles sixth",
+      "url": "https://www.motogp.com/en/news/2026/10/10/uriarte-turns-up-the-magic-in-mandalika-as-title-rivals-lock-out-the-front-row/1174841",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "On song Guevara soars to lap record Friday top spot in Indonesia",
+      "summary": "The recent back-to-back winner turns up the wick again to lay down the gauntlet to title rival Gonzalez heading into the weekend",
+      "url": "https://www.motogp.com/en/news/2026/10/09/on-song-guevara-soars-to-lap-record-friday-top-spot-in-indonesia/1174843",
+      "series": "Moto2",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Almansa perfect to kickstart Moto3 at Mandalika",
+      "summary": "FP1 and Practice on top, the #22 had a flying start to action in Indonesia",
+      "url": "https://www.motogp.com/en/news/2026/10/09/almansa-perfect-to-kickstart-moto3-at-mandalika/1174840",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Quiles will become Moto3 World Champion if...",
+      "summary": "Quiles heads to Indonesia for his next chance at match point, but what does the #28 need to do to clinch the title?",
+      "url": "https://www.motogp.com/en/news/2026/10/07/quiles-will-become-moto3-world-champion-if/1098686",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Flawless Guevara clinches seismic Japan win as drama unfolds for Gonzalez",
+      "summary": "The championship gap goes from 35.5 points to 10.5 points as pre-race problems for Gonzalez sees him notch up zero points, while Arbolino and Salač earn rostrums",
+      "url": "https://www.motogp.com/en/news/2026/10/04/flawless-guevara-clinches-siesmic-japan-win-as-drama-unfolds-for-gonzalez/1145014",
+      "series": "Moto2",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Almansa makes stunning last stand to deny Quiles at Motegi",
+      "summary": "They duked it out again but unlike at Misano, it went the way of the #22 who moves back into P2 overall whilst Quiles’ title celebrations are put off for at least a week",
+      "url": "https://www.motogp.com/en/news/2026/10/04/almansa-makes-stunning-last-stand-to-deny-quiles-at-motegi/1145011",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Guevara grabs crucial Motegi pole, Gonzalez third",
+      "summary": "The title-chasing top two are joined on the front row by Czech star Salač at the Japanese Grand Prix",
+      "url": "https://www.motogp.com/en/news/2026/10/03/guevara-grabs-crucial-motegi-pole-gonzalez-third/1145012",
+      "series": "Moto2",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Seventh heaven for Almansa in the Land of the Rising Sun",
+      "summary": "The Liqui Moly Dynavolt Intact GP rider takes a season seventh pole ahead of Red Bull KTM Ajo duo Uriarte and Carpe",
+      "url": "https://www.motogp.com/en/news/2026/10/03/seventh-heaven-for-almansa-in-the-land-of-the-rising-sun/1145010",
+      "series": "Moto3",
+      "source": "MotoGP.com"
     }
   ],
   "calendars": {
@@ -460,73 +692,175 @@
           "name": "Fermin Aldeguer",
           "team": "BK8 Gresini Racing MotoGP",
           "points": 125
+        },
+        {
+          "position": 11,
+          "name": "Enea Bastianini",
+          "team": "Red Bull KTM Tech3",
+          "points": 122
+        },
+        {
+          "position": 12,
+          "name": "Luca Marini",
+          "team": "Honda HRC Castrol",
+          "points": 108
+        },
+        {
+          "position": 13,
+          "name": "Brad Binder",
+          "team": "Red Bull KTM Factory Racing",
+          "points": 104
+        },
+        {
+          "position": 14,
+          "name": "Fabio Quartararo",
+          "team": "Monster Energy Yamaha MotoGP Team",
+          "points": 74
+        },
+        {
+          "position": 15,
+          "name": "Diogo Moreira",
+          "team": "Pro Honda LCR",
+          "points": 74
+        },
+        {
+          "position": 16,
+          "name": "Franco Morbidelli",
+          "team": "Pertamina Enduro VR46 Racing Team",
+          "points": 59
+        },
+        {
+          "position": 17,
+          "name": "Johann Zarco",
+          "team": "Castrol Honda LCR",
+          "points": 51
+        },
+        {
+          "position": 18,
+          "name": "Joan Mir",
+          "team": "Honda HRC Castrol",
+          "points": 33
+        },
+        {
+          "position": 19,
+          "name": "Jack Miller",
+          "team": "Prima Pramac Yamaha MotoGP",
+          "points": 28
+        },
+        {
+          "position": 20,
+          "name": "Alex Rins",
+          "team": "Monster Energy Yamaha MotoGP Team",
+          "points": 25
+        },
+        {
+          "position": 21,
+          "name": "Toprak Razgatlioglu",
+          "team": "Prima Pramac Yamaha MotoGP",
+          "points": 18
+        },
+        {
+          "position": 22,
+          "name": "Maverick Viñales",
+          "team": "Red Bull KTM Tech3",
+          "points": 12
+        },
+        {
+          "position": 23,
+          "name": "Iker Lecuona",
+          "team": "BK8 Gresini Racing MotoGP",
+          "points": 9
+        },
+        {
+          "position": 24,
+          "name": "Augusto Fernandez",
+          "team": "Yamaha Factory Racing",
+          "points": 6
+        },
+        {
+          "position": 25,
+          "name": "Pol Espargaro",
+          "team": "Red Bull KTM Tech3",
+          "points": 5
+        },
+        {
+          "position": 26,
+          "name": "Somkiat Chantra",
+          "team": "Honda HRC Castrol",
+          "points": 3
+        },
+        {
+          "position": 27,
+          "name": "Takaaki Nakagami",
+          "team": "Honda HRC Castrol",
+          "points": 3
         }
       ],
       "teams": [
         {
           "position": 1,
           "name": "Aprilia Racing",
-          "team": "Aprilia",
+          "team": "Aprilia Racing",
           "points": 664
         },
         {
           "position": 2,
           "name": "Ducati Lenovo Team",
-          "team": "Ducati",
+          "team": "Ducati Lenovo Team",
           "points": 519
         },
         {
           "position": 3,
           "name": "SuperFile Trackhouse MotoGP Team",
-          "team": "Aprilia",
+          "team": "SuperFile Trackhouse MotoGP Team",
           "points": 495
         },
         {
           "position": 4,
           "name": "Red Bull KTM Factory Racing",
-          "team": "KTM",
+          "team": "Red Bull KTM Factory Racing",
           "points": 362
         },
         {
           "position": 5,
           "name": "BK8 Gresini Racing MotoGP",
-          "team": "Ducati",
+          "team": "BK8 Gresini Racing MotoGP",
           "points": 306
         },
         {
           "position": 6,
           "name": "Pertamina Enduro VR46 Racing Team",
-          "team": "Ducati",
+          "team": "Pertamina Enduro VR46 Racing Team",
           "points": 304
         },
         {
           "position": 7,
           "name": "Honda HRC",
-          "team": "Honda",
+          "team": "Honda HRC",
           "points": 147
         },
         {
           "position": 8,
           "name": "Red Bull KTM Tech3",
-          "team": "KTM",
+          "team": "Red Bull KTM Tech3",
           "points": 139
         },
         {
           "position": 9,
           "name": "LCR Honda",
-          "team": "Honda",
+          "team": "LCR Honda",
           "points": 125
         },
         {
           "position": 10,
           "name": "Monster Energy Yamaha MotoGP Team",
-          "team": "Yamaha",
+          "team": "Monster Energy Yamaha MotoGP Team",
           "points": 99
         },
         {
           "position": 11,
           "name": "Prima Pramac Yamaha MotoGP",
-          "team": "Yamaha",
+          "team": "Prima Pramac Yamaha MotoGP",
           "points": 46
         }
       ]
@@ -592,6 +926,108 @@
           "name": "Daniel Muñoz",
           "team": "Italtrans Racing Team",
           "points": 83
+        },
+        {
+          "position": 11,
+          "name": "Tony Arbolino",
+          "team": "REDS Fantic Racing",
+          "points": 82.5
+        },
+        {
+          "position": 12,
+          "name": "Collin Veijer",
+          "team": "Red Bull KTM Ajo",
+          "points": 80.5
+        },
+        {
+          "position": 13,
+          "name": "Alex Escrig",
+          "team": "KLINT Racing Team",
+          "points": 63
+        },
+        {
+          "position": 14,
+          "name": "Barry Baltus",
+          "team": "REDS Fantic Racing",
+          "points": 60
+        },
+        {
+          "position": 15,
+          "name": "Deniz öncü",
+          "team": "ELF Marc VDS Racing Team",
+          "points": 47.5
+        },
+        {
+          "position": 16,
+          "name": "Joe Roberts",
+          "team": "OnlyFans American Racing Team",
+          "points": 44
+        },
+        {
+          "position": 17,
+          "name": "Jose Antonio Rueda",
+          "team": "Red Bull KTM Ajo",
+          "points": 43
+        },
+        {
+          "position": 18,
+          "name": "Adrian Huertas",
+          "team": "Italtrans Racing Team",
+          "points": 42
+        },
+        {
+          "position": 19,
+          "name": "Luca Lunetta",
+          "team": "BETA Tools SpeedRS Team",
+          "points": 27
+        },
+        {
+          "position": 20,
+          "name": "Ayumu Sasaki",
+          "team": "Momoven Idrofoglia RW Racing Team",
+          "points": 24
+        },
+        {
+          "position": 21,
+          "name": "Alberto Ferrandez",
+          "team": "BLU CRU Pramac Yamaha Moto2",
+          "points": 17.5
+        },
+        {
+          "position": 22,
+          "name": "Aron Canet",
+          "team": "ELF Marc VDS Racing Team",
+          "points": 17.5
+        },
+        {
+          "position": 23,
+          "name": "Taiyo Furusato",
+          "team": "Idemitsu Honda Team Asia",
+          "points": 17
+        },
+        {
+          "position": 24,
+          "name": "Zonta Vd Goorbergh",
+          "team": "Momoven Idrofoglia RW Racing Team",
+          "points": 14
+        },
+        {
+          "position": 25,
+          "name": "Sergio Garcia",
+          "team": "ITALJET Gresini Moto2",
+          "points": 11
+        },
+        {
+          "position": 26,
+          "name": "Angel Piqueras",
+          "team": "QJMOTOR - JP Financial - MSI",
+          "points": 4
+        },
+        {
+          "position": 27,
+          "name": "Mario Aji",
+          "team": "Idemitsu Honda Team Asia",
+          "points": 3
         }
       ],
       "teams": [
@@ -599,85 +1035,85 @@
           "position": 1,
           "name": "LIQUI MOLY Dynavolt Intact GP",
           "team": "LIQUI MOLY Dynavolt Intact GP",
-          "points": 356.5
+          "points": 430.5
         },
         {
           "position": 2,
-          "name": "CFMOTO Aspar Team",
-          "team": "CFMOTO Aspar Team",
-          "points": 269
+          "name": "CFMOTO Power Electronics Aspar Team",
+          "team": "CFMOTO Power Electronics Aspar Team",
+          "points": 336
         },
         {
           "position": 3,
           "name": "BLU CRU Pramac Yamaha Moto2",
           "team": "BLU CRU Pramac Yamaha Moto2",
-          "points": 190.5
+          "points": 277.5
         },
         {
           "position": 4,
-          "name": "QJMOTOR - Reverte - MSI",
-          "team": "QJMOTOR - Reverte - MSI",
-          "points": 148.5
+          "name": "OnlyFans American Racing Team",
+          "team": "OnlyFans American Racing Team",
+          "points": 197
         },
         {
           "position": 5,
-          "name": "OnlyFans American Racing Team",
-          "team": "OnlyFans American Racing Team",
-          "points": 148
+          "name": "QJMOTOR - JP Financial - MSI",
+          "team": "QJMOTOR - JP Financial - MSI",
+          "points": 195.5
         },
         {
           "position": 6,
-          "name": "Folladore SpeedRS Team",
-          "team": "Folladore SpeedRS Team",
-          "points": 131
+          "name": "BETA Tools SpeedRS Team",
+          "team": "BETA Tools SpeedRS Team",
+          "points": 160
         },
         {
           "position": 7,
-          "name": "ITALJET Gresini Moto2",
-          "team": "ITALJET Gresini Moto2",
-          "points": 103.5
+          "name": "REDS Fantic Racing",
+          "team": "REDS Fantic Racing",
+          "points": 142.5
         },
         {
           "position": 8,
-          "name": "Italtrans Racing Team",
-          "team": "Italtrans Racing Team",
-          "points": 91
+          "name": "ITALJET Gresini Moto2",
+          "team": "ITALJET Gresini Moto2",
+          "points": 136.5
         },
         {
           "position": 9,
-          "name": "Red Bull KTM Ajo",
-          "team": "Red Bull KTM Ajo",
-          "points": 82.5
+          "name": "Italtrans Racing Team",
+          "team": "Italtrans Racing Team",
+          "points": 125
         },
         {
           "position": 10,
-          "name": "REDS Fantic Racing",
-          "team": "REDS Fantic Racing",
-          "points": 78.5
+          "name": "Red Bull KTM Ajo",
+          "team": "Red Bull KTM Ajo",
+          "points": 123.5
         },
         {
           "position": 11,
-          "name": "KLINT Racing Team",
-          "team": "KLINT Racing Team",
-          "points": 57
+          "name": "ELF Marc VDS Racing Team",
+          "team": "ELF Marc VDS Racing Team",
+          "points": 65
         },
         {
           "position": 12,
-          "name": "ELF Marc VDS Racing Team",
-          "team": "ELF Marc VDS Racing Team",
-          "points": 45
+          "name": "KLINT Racing Team",
+          "team": "KLINT Racing Team",
+          "points": 63
         },
         {
           "position": 13,
           "name": "Momoven Idrofoglia RW Racing Team",
           "team": "Momoven Idrofoglia RW Racing Team",
-          "points": 31
+          "points": 38
         },
         {
           "position": 14,
           "name": "Idemitsu Honda Team Asia",
           "team": "Idemitsu Honda Team Asia",
-          "points": 18
+          "points": 20
         }
       ]
     },
@@ -742,86 +1178,182 @@
           "name": "Matteo Bertelle",
           "team": "LEVEL UP - MTA",
           "points": 103
+        },
+        {
+          "position": 11,
+          "name": "Rico Salmela",
+          "team": "Red Bull KTM Tech3",
+          "points": 89
+        },
+        {
+          "position": 12,
+          "name": "Adrian Cruces",
+          "team": "CIP Green Power",
+          "points": 78
+        },
+        {
+          "position": 13,
+          "name": "Guido Pini",
+          "team": "Leopard Racing",
+          "points": 77
+        },
+        {
+          "position": 14,
+          "name": "Joel Esteban",
+          "team": "LEVEL UP - MTA",
+          "points": 68
+        },
+        {
+          "position": 15,
+          "name": "Casey O'gorman",
+          "team": "SIC58 Squadra Corse",
+          "points": 66
+        },
+        {
+          "position": 16,
+          "name": "Joel Kelso",
+          "team": "GRYD Racing",
+          "points": 64
+        },
+        {
+          "position": 17,
+          "name": "Eddie O'shea",
+          "team": "GRYD Racing",
+          "points": 60
+        },
+        {
+          "position": 18,
+          "name": "David Muñoz",
+          "team": "Liqui Moly Dynavolt Intact GP",
+          "points": 56
+        },
+        {
+          "position": 19,
+          "name": "Jesus Rios",
+          "team": "Rivacold Snipers Team",
+          "points": 48
+        },
+        {
+          "position": 20,
+          "name": "Ryusei Yamanaka",
+          "team": "AEON Credit - MT Helmets - MSI",
+          "points": 41
+        },
+        {
+          "position": 21,
+          "name": "Scott Ogden",
+          "team": "CIP Green Power",
+          "points": 33
+        },
+        {
+          "position": 22,
+          "name": "David Gonzalez",
+          "team": "Liqui Moly Dynavolt Intact GP",
+          "points": 7
+        },
+        {
+          "position": 23,
+          "name": "Marcos Uriarte",
+          "team": "CODE Motorsports",
+          "points": 5
+        },
+        {
+          "position": 24,
+          "name": "Cormac Buchanan",
+          "team": "CODE Motorsports",
+          "points": 5
+        },
+        {
+          "position": 25,
+          "name": "Leo Rammerstorfer",
+          "team": "SIC58 Squadra Corse",
+          "points": 2
+        },
+        {
+          "position": 26,
+          "name": "Kiattisak Singhapong",
+          "team": "Rivacold Snipers Team",
+          "points": 1
         }
       ],
       "teams": [
         {
           "position": 1,
-          "name": "CFMOTO Viel Aspar Team",
-          "team": "CFMOTO Viel Aspar Team",
-          "points": 387
+          "name": "CFMOTO Gaviota Aspar Team",
+          "team": "CFMOTO Gaviota Aspar Team",
+          "points": 491
         },
         {
           "position": 2,
           "name": "Red Bull KTM Ajo",
           "team": "Red Bull KTM Ajo",
-          "points": 297
+          "points": 387
         },
         {
           "position": 3,
           "name": "Liqui Moly Dynavolt Intact GP",
           "team": "Liqui Moly Dynavolt Intact GP",
-          "points": 214
+          "points": 285
         },
         {
           "position": 4,
-          "name": "Red Bull KTM Tech3",
-          "team": "Red Bull KTM Tech3",
-          "points": 163
+          "name": "Leopard Racing",
+          "team": "Leopard Racing",
+          "points": 225
         },
         {
           "position": 5,
-          "name": "LEVEL UP - MTA",
-          "team": "LEVEL UP - MTA",
-          "points": 130
+          "name": "Red Bull KTM Tech3",
+          "team": "Red Bull KTM Tech3",
+          "points": 209
         },
         {
           "position": 6,
-          "name": "Leopard Racing",
-          "team": "Leopard Racing",
-          "points": 116
+          "name": "LEVEL UP - MTA",
+          "team": "LEVEL UP - MTA",
+          "points": 171
         },
         {
           "position": 7,
           "name": "AEON Credit - MT Helmets - MSI",
           "team": "AEON Credit - MT Helmets - MSI",
-          "points": 112
+          "points": 144
         },
         {
           "position": 8,
           "name": "GRYD Racing",
           "team": "GRYD Racing",
-          "points": 105
+          "points": 124
         },
         {
           "position": 9,
           "name": "Honda Team Asia",
           "team": "Honda Team Asia",
-          "points": 100
+          "points": 112
         },
         {
           "position": 10,
           "name": "CIP Green Power",
           "team": "CIP Green Power",
-          "points": 84
+          "points": 111
         },
         {
           "position": 11,
           "name": "SIC58 Squadra Corse",
           "team": "SIC58 Squadra Corse",
-          "points": 57
+          "points": 68
         },
         {
           "position": 12,
           "name": "Rivacold Snipers Team",
           "team": "Rivacold Snipers Team",
-          "points": 49
+          "points": 48
         },
         {
           "position": 13,
           "name": "CODE Motorsports",
           "team": "CODE Motorsports",
-          "points": 6
+          "points": 5
         }
       ]
     },
@@ -2430,7 +2962,7 @@
       }
     }
   },
-  "updatedAt": "2026-10-22T13:03:50.797367+00:00",
+  "updatedAt": "2026-10-23T08:55:20.552161+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -2449,15 +2981,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-10-11T00:00:00+00:00",
-    "Moto2": "2026-10-11T00:00:00+00:00",
-    "Moto3": "2026-10-11T00:00:00+00:00",
+    "MotoGP": "2026-10-23T08:55:20.552161+00:00",
+    "Moto2": "2026-10-23T08:55:20.552161+00:00",
+    "Moto3": "2026-10-23T08:55:20.552161+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-10-22T13:03:50.797367+00:00",
-    "F2": "2026-10-22T13:03:50.797367+00:00",
-    "F3": "2026-10-22T13:03:50.797367+00:00",
-    "WEC": "2026-10-22T13:03:50.797367+00:00"
+    "F1": "2026-10-23T08:55:20.552161+00:00",
+    "F2": "2026-10-23T08:55:20.552161+00:00",
+    "F3": "2026-10-23T08:55:20.552161+00:00",
+    "WEC": "2026-10-23T08:55:20.552161+00:00"
   },
-  "newsUpdatedAt": "2026-10-21T20:44:47.702954+00:00",
-  "newsCheckedAt": "2026-10-22T13:03:51.076854+00:00"
+  "newsUpdatedAt": "2026-10-23T08:55:08.700463+00:00",
+  "newsCheckedAt": "2026-10-23T08:55:08.700463+00:00"
 }
