@@ -1,5 +1,5 @@
-const CACHE_NAME = "motor-competicion-v6";
-const APP_SHELL = ["./", "./index.html", "./styles.css", "./app.js", "./race-schedule.html", "./race-schedule.js", "./manifest.webmanifest", "./icons/icon-192.svg", "./icons/icon-512.svg"];
+const CACHE_NAME = "motor-competicion-v7";
+const APP_SHELL = ["./", "./index.html", "./styles.css", "./app.js", "./live-events.html", "./live-events.js", "./live-dashboard.html", "./live-dashboard.js", "./race-schedule.html", "./race-schedule.js", "./manifest.webmanifest", "./icons/icon-192.svg", "./icons/icon-512.svg"];
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_SHELL)).then(() => self.skipWaiting()));
 });

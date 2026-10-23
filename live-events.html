@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#e10600">
+  <title>Eventos en directo | Motor Competición</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="live-page">
+<header class="site-header">
+  <a class="brand" href="index.html"><span class="brand-mark">MC</span><span>MOTOR <b>COMPETICIÓN</b><small>La actualidad, a fondo.</small></span></a>
+  <button class="menu-toggle" id="menuToggle" aria-label="Abrir menú" aria-expanded="false">☰</button>
+  <nav id="mainNav"><a href="index.html#noticias">Noticias</a><a href="index.html#calendario">Calendario 2026</a><a href="live-events.html" aria-current="page">Eventos en directo</a><a href="index.html#clasificaciones">Clasificaciones</a><a href="index.html#alineacion">Alineación 2027</a></nav>
+</header>
+<main>
+  <section class="live-hero">
+    <p class="eyebrow"><span class="live-dot"></span> EN PISTA · TEMPORADA 2026</p>
+    <h1>EVENTOS <em>EN DIRECTO</em></h1>
+    <p>Sigue las próximas citas de cada campeonato y abre su panel de seguimiento.</p>
+  </section>
+  <section class="live-list section">
+    <div class="section-heading"><div><p class="eyebrow">SELECCIONA UNA CATEGORÍA</p><h2>Próximas <em>carreras</em></h2></div><span class="section-note" id="liveUpdated">Consultando calendarios…</span></div>
+    <div class="live-grid" id="liveEvents" aria-live="polite"><p class="live-loading">Cargando eventos…</p></div>
+    <p class="fine-print">Las fechas indican el fin de semana de competición. Los paneles y cronometrajes pueden depender de servicios externos.</p>
+  </section>
+</main>
+<footer><a class="brand" href="index.html"><span class="brand-mark">MC</span><span>MOTOR <b>COMPETICIÓN</b><small>La actualidad, a fondo.</small></span></a><span>Proyecto independiente · Temporada 2026</span><a href="index.html">Volver a la portada ↑</a></footer>
+<script src="live-events.js"></script>
+</body>
+</html>
