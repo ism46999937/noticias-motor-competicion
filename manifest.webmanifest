@@ -11,7 +11,7 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "icons/icon-192.svg",
+      "src": "/noticias-motor-competicion/logo/mc-motor-competicion.svg?v=2",
       "sizes": "192x192",
       "type": "image/svg+xml",
       "purpose": "any"
