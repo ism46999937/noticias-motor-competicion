@@ -67,9 +67,16 @@ a {
 
 .brand-logo {
   display: block;
-  width: 170px;
+  width: clamp(132px, 24vw, 170px);
   height: 50px;
   object-fit: contain;
+  flex: 0 0 auto;
+}
+
+@media (max-width: 520px) {
+  .site-header { padding-left: 4%; padding-right: 4%; }
+  .brand { min-width: 0; gap: 0; }
+  .brand-logo { width: 145px; height: 44px; }
 }
 
 .brand-tagline {
