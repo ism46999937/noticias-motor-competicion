@@ -127,7 +127,6 @@
     ["Aún no hay pilotos confirmados para 2027 en esta categoría.", "No drivers have been confirmed for this category in 2027 yet."],
     ["piloto confirmado", "confirmed driver"],
     ["pilotos confirmados", "confirmed drivers"],
-    [" en ", " in "],
     [" equipo", " team"],
     [" temporada 2027", " 2027 season"],
     ["Piloto 1", "Driver 1"],
