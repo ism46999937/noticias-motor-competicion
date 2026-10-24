@@ -156,8 +156,7 @@
     wrap.className = "language-switch";
     wrap.innerHTML = '<label class="language-label" for="languagePicker">Idioma / Language</label><select id="languagePicker" aria-label="Select language"><option value="es">🇪🇸 Español</option><option value="en">🇬🇧 English</option></select>';
     const nav = header.querySelector("nav");
-    if (nav) header.insertBefore(wrap, nav);
-    else header.appendChild(wrap);
+    header.appendChild(wrap);
     wrap.querySelector("select").addEventListener("change", event => setLanguage(event.target.value));
   }
   function init() {
