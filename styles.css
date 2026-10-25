@@ -1452,7 +1452,7 @@ footer .brand small {
  .brand-mark { width:35px; height:32px; flex-basis:35px; font-size:18px; }
  .brand-wordmark { font-size:14px; }
  .brand-wordmark small { font-size:7px; }
- .language-switch { position:absolute; right:58px; top:50%; transform:translateY(-50%); margin:0; }
+ .language-switch { position:absolute; right:8px; top:5px; margin:0; }
  .language-button { padding:7px 7px; font-size:9px; }
 }
 @media (max-width:380px) { .brand-wordmark { font-size:12px; } .language-button { padding:6px 5px; } }
