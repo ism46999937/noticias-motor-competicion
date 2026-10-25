@@ -1431,3 +1431,28 @@ footer .brand small {
     font-size: 10px;
   }
 }
+
+/* Logotipo en HTML: no depende de que el navegador cargue un SVG externo. */
+.site-header { position: relative; }
+.brand { gap: 9px; min-width: 0; }
+.brand-mark { display:inline-flex; align-items:center; justify-content:center; position:relative; width:43px; height:38px; flex:0 0 43px; background:#171817; color:#fff; font:900 22px/1 "Barlow Condensed",sans-serif; letter-spacing:-.08em; transform:skew(-7deg); }
+.brand-mark span { color:#e52b2b; font-size:15px; margin-left:1px; }
+.brand-wordmark { display:block; font:800 17px/.9 "Barlow Condensed",sans-serif; letter-spacing:.04em; white-space:nowrap; }
+.brand-wordmark b { color:#e52b2b; }
+.brand-wordmark small { display:block; margin-top:6px; font:700 8px/1 "Inter",sans-serif; letter-spacing:.13em; color:#777a77; text-transform:uppercase; }
+.language-switch { display:flex; align-items:center; gap:4px; flex:0 0 auto; margin-left:8px; z-index:20; }
+.language-button { border:1px solid #d9d9d3; border-radius:999px; background:#f2f1ed; color:#171817; padding:8px 9px; font:800 10px "Inter",sans-serif; cursor:pointer; white-space:nowrap; }
+.language-button.active { background:#171817; color:#fff; border-color:#171817; }
+.news-language-row { display:flex; flex-wrap:wrap; gap:8px; margin:0 0 16px; }
+.news-language { border:1px solid #d9d9d3; border-radius:999px; padding:9px 13px; background:transparent; color:#171817; font:700 11px "Inter",sans-serif; cursor:pointer; }
+.news-language.active { background:#e52b2b; color:white; border-color:#e52b2b; }
+@media (max-width:800px) {
+ .site-header { gap:8px; }
+ .brand { gap:6px; }
+ .brand-mark { width:35px; height:32px; flex-basis:35px; font-size:18px; }
+ .brand-wordmark { font-size:14px; }
+ .brand-wordmark small { font-size:7px; }
+ .language-switch { position:absolute; right:58px; top:50%; transform:translateY(-50%); margin:0; }
+ .language-button { padding:7px 7px; font-size:9px; }
+}
+@media (max-width:380px) { .brand-wordmark { font-size:12px; } .language-button { padding:6px 5px; } }
