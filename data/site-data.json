@@ -1,6 +1,70 @@
 {
   "news": [
     {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-10-25",
+      "title": "F1 – Antonelli takes pole for US Grand Prix ahead of Verstappen and Hadjar",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-antonelli-takes-pole-us-grand-prix-ahead-verstappen-and-hadjar"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Farewell Phillip Island, from MotoGP CEO Carmelo Ezpeleta",
+      "summary": "Poor visibility forced the cancellation of the sport’s final roar on the Island. MotoGP CEO Carmelo Ezpeleta signs off from the iconic venue with a thank you to fans",
+      "url": "https://www.motogp.com/en/news/2026/10/25/farewell-phillip-island-from-motogp-ceo-carmelo-ezpeleta/1180981",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-10-24",
+      "title": "F1 - 2026 United States Grand Prix Post-Qualifying Press Conference Transcript",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-united-states-grand-prix-post-qualifying-press-conference-transcript"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-10-24",
+      "title": "F1 – Hamilton leads Verstappen and Leclerc in final US Grand Prix practice",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-hamilton-leads-verstappen-and-leclerc-final-us-grand-prix-practice"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "MotoGP Grand Prix race at Phillip Island cancelled",
+      "summary": "Due to reduced visibility affecting the medical helicopter's ability to fly, the MotoGP Grand Prix, in addition to the Moto2 and Moto3 races, have unfortunately been cancelled",
+      "url": "https://www.motogp.com/en/news/2026/10/25/motogp-grand-prix-race-at-phillip-island-cancelled/1180939",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Aldeguer out of Malaysian GP",
+      "summary": "The Spaniard’s wait for a return to action will continue after his Sunday crash at Mandalika",
+      "url": "https://www.motogp.com/en/news/2026/10/24/aldeguer-out-of-malaysian-gp/1180945",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Martin update: 2024 Champion won’t return to Spain for treatment",
+      "summary": "Aprilia Racing shared an update on Sunday that very much leaves the door open regarding his return...",
+      "url": "https://www.motogp.com/en/news/2026/10/24/martin-update-2024-champion-wont-return-to-spain-for-treatment/1180944",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "“See you in Malaysia!” – Mir set for Sepang return",
+      "summary": "The 2020 World Champion will be back in action at Round 19",
+      "url": "https://www.motogp.com/en/news/2026/10/24/see-you-in-malaysia-mir-set-for-sepang-return/1180948",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "date": "2026-10-24",
       "title": "Fernandez withdraws from Australian GP",
       "summary": "Last year’s Phillip Island victor will take no further part in Phillip Island final roar in MotoGP",
@@ -90,14 +154,6 @@
     },
     {
       "date": "2026-10-23",
-      "title": "Marc Marquez pips Fernandez and home hero Miller to FP1 top spot",
-      "summary": "The reigning World Champion leads the 2025 Phillip Island winner and the Aussie after the opening stint of the weekend in Australia",
-      "url": "https://www.motogp.com/en/news/2026/10/23/marc-marquez-pips-fernandez-and-home-hero-miller-to-fp1-top-spot/1179518",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-23",
       "title": "Title-hunting Guevara edges out Australia's Agius by 0.018s on Day 1",
       "summary": "The current hat-trick hero and last year’s Moto2 Australian GP winner set the pace on Friday afternoon, with title race leader Gonzalez P8",
       "url": "https://www.motogp.com/en/news/2026/10/23/title-hunting-guevara-edges-out-australias-agius-by-0018s-on-day-1/1179531",
@@ -113,79 +169,12 @@
       "source": "MotoGP.com"
     },
     {
-      "date": "2026-10-23",
-      "title": "Verstappen tacha de \"inaceptables\" los baches en Austin",
-      "summary": "El neerlandés alerta de que las irregularidades del asfalto en el Circuito de las Américas afectan a los pilotos y pide abordar el problema de raíz.",
-      "url": "https://pre.soymotor.com/f1/noticias/verstappen-tacha-de-inaceptables-los-baches-en-austin",
-      "series": "F1",
-      "source": "SoyMotor",
-      "language": "es"
-    },
-    {
       "series": "F1",
       "source": "FIA",
       "date": "2026-10-22",
       "title": "F1 - 2026 United States Grand Prix - Thursday Press Conference Transcript",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
       "url": "https://www.fia.com/news/f1-2026-united-states-grand-prix-thursday-press-conference-transcript"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "MEDIA DAY DISPATCH: Phillip Island’s final roar sets us up for a rippa",
-      "summary": "Our last visit to ‘The Island’ brings the stories, the headlines and possible strategies as the title fight rumbles on",
-      "url": "https://www.motogp.com/en/news/2026/10/22/media-day-dispatch-phillip-islands-final-roar-sets-us-up-for-a-rippa/1179516",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Fernando Alonso, en el centro de la diana de Ralf Schumacher",
-      "summary": "Ralf Schumacher vuelve a cuestionar la continuidad de los pilotos veteranos en la Fórmula 1, entre ellos Fernando Alonso y Lewis Hamilton.",
-      "url": "https://www.elespanol.com/deportes/motor/f1/20261022/fernando-alonso-centro-diana-ralf-schumacher-objetivo-f1-no-puede-hacerse-vez-mayor/1003744431657_0.html",
-      "series": "F1",
-      "source": "EL ESPAÑOL",
-      "language": "es"
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-10-21",
-      "title": "F1 - 2026 United States GP Schedule of Press Conferences",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-united-states-gp-schedule-press-conferences"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Introducing: MotoGP™ Academy",
-      "summary": "A new program launches on the Road to MotoGP, promoting the sport around the world and further increasing accessibility to motorcycle racing",
-      "url": "https://www.motogp.com/en/news/2026/10/21/introducing-motogp-academy/1179384",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Mir to miss the Australian Grand Prix",
-      "summary": "The #36 will remain on the sidelines at this weekend's Australian GP, with no replacement planned",
-      "url": "https://www.motogp.com/en/news/2026/10/21/mir-to-miss-the-australian-grand-prix/1179433",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "MotoGP set for high-speed showcase at the Formula 1 United States Grand Prix 2026",
-      "summary": "Two wheels meet four at one of the world’s greatest racetracks in Austin, Texas",
-      "url": "https://www.motogp.com/en/news/2026/10/20/motogp-set-for-high-speed-showcase-at-the-formula-1-united-states-grand-prix-2026/1179297",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Ferrari llega a tiempo con el paquete de mejoras previsto para Austin",
-      "summary": "La escudería italiana lleva al Gran Premio de Estados Unidos una actualización aerodinámica para sus monoplazas de 2026.",
-      "url": "https://espanol.motorsport.com/f1/news/ferrari-tiene-listo-paquete-mejoras-para-austin/10866484/",
-      "series": "F1",
-      "source": "Motorsport.com",
-      "language": "es"
     },
     {
       "date": "2026-10-19",
@@ -210,15 +199,6 @@
       "url": "https://www.motogp.com/en/news/2026/10/16/fernandez-reinstated-after-appeal-verdict/1178131",
       "series": "Moto3",
       "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "La BBC está preparando un documental sobre la temporada 2007",
-      "summary": "Antonio Lobato ha explicado que la BBC prepara un documental sobre una de las temporadas más polémicas de la historia reciente de la Fórmula 1.",
-      "url": "https://soymotor.com/f1/noticias/la-bbc-esta-preparando-un-documental-sobre-la-temporada-2007-desvela-antonio-lobato",
-      "series": "F1",
-      "source": "SoyMotor",
-      "language": "es"
     },
     {
       "date": "2026-10-11",
@@ -1487,121 +1467,121 @@
           "position": 1,
           "name": "Andrea Kimi Antonelli",
           "team": "Mercedes",
-          "points": 340
+          "points": 340.0
         },
         {
           "position": 2,
           "name": "George Russell",
           "team": "Mercedes",
-          "points": 238
+          "points": 238.0
         },
         {
           "position": 3,
           "name": "Lewis Hamilton",
           "team": "Ferrari",
-          "points": 229
+          "points": 229.0
         },
         {
           "position": 4,
           "name": "Max Verstappen",
           "team": "Red Bull",
-          "points": 221
+          "points": 221.0
         },
         {
           "position": 5,
           "name": "Charles Leclerc",
           "team": "Ferrari",
-          "points": 215
+          "points": 215.0
         },
         {
           "position": 6,
           "name": "Lando Norris",
           "team": "McLaren",
-          "points": 201
+          "points": 201.0
         },
         {
           "position": 7,
           "name": "Oscar Piastri",
           "team": "McLaren",
-          "points": 138
+          "points": 138.0
         },
         {
           "position": 8,
           "name": "Isack Hadjar",
           "team": "Red Bull",
-          "points": 97
+          "points": 97.0
         },
         {
           "position": 9,
           "name": "Liam Lawson",
           "team": "RB F1 Team",
-          "points": 75
+          "points": 75.0
         },
         {
           "position": 10,
           "name": "Pierre Gasly",
           "team": "Alpine F1 Team",
-          "points": 41
+          "points": 41.0
         },
         {
           "position": 11,
           "name": "Arvid Lindblad",
           "team": "RB F1 Team",
-          "points": 38
+          "points": 38.0
         },
         {
           "position": 12,
           "name": "Franco Colapinto",
           "team": "Alpine F1 Team",
-          "points": 27
+          "points": 27.0
         },
         {
           "position": 13,
           "name": "Oliver Bearman",
           "team": "Haas F1 Team",
-          "points": 23
+          "points": 23.0
         },
         {
           "position": 14,
           "name": "Nico Hülkenberg",
           "team": "Audi",
-          "points": 13
+          "points": 13.0
         },
         {
           "position": 15,
           "name": "Gabriel Bortoleto",
           "team": "Audi",
-          "points": 10
+          "points": 10.0
         },
         {
           "position": 16,
           "name": "Esteban Ocon",
           "team": "Haas F1 Team",
-          "points": 7
+          "points": 7.0
         },
         {
           "position": 17,
           "name": "Fernando Alonso",
           "team": "Aston Martin",
-          "points": 7
+          "points": 7.0
         },
         {
           "position": 18,
           "name": "Carlos Sainz",
           "team": "Williams",
-          "points": 7
+          "points": 7.0
         },
         {
           "position": 19,
           "name": "Alexander Albon",
           "team": "Williams",
-          "points": 5
+          "points": 5.0
         },
         {
           "position": 20,
           "name": "Yuki Tsunoda",
           "team": "RB F1 Team",
-          "points": 1
+          "points": 1.0
         },
         {
           "position": 21,
@@ -1627,61 +1607,61 @@
           "position": 1,
           "name": "Mercedes",
           "team": "German",
-          "points": 578
+          "points": 578.0
         },
         {
           "position": 2,
           "name": "Ferrari",
           "team": "Italian",
-          "points": 444
+          "points": 444.0
         },
         {
           "position": 3,
           "name": "McLaren",
           "team": "British",
-          "points": 339
+          "points": 339.0
         },
         {
           "position": 4,
           "name": "Red Bull",
           "team": "Austrian",
-          "points": 332
+          "points": 332.0
         },
         {
           "position": 5,
           "name": "RB F1 Team",
           "team": "Italian",
-          "points": 100
+          "points": 100.0
         },
         {
           "position": 6,
           "name": "Alpine F1 Team",
           "team": "French",
-          "points": 68
+          "points": 68.0
         },
         {
           "position": 7,
           "name": "Haas F1 Team",
           "team": "American",
-          "points": 30
+          "points": 30.0
         },
         {
           "position": 8,
           "name": "Audi",
           "team": "German",
-          "points": 23
+          "points": 23.0
         },
         {
           "position": 9,
           "name": "Williams",
           "team": "British",
-          "points": 12
+          "points": 12.0
         },
         {
           "position": 10,
           "name": "Aston Martin",
           "team": "British",
-          "points": 7
+          "points": 7.0
         },
         {
           "position": 11,
@@ -2990,7 +2970,7 @@
       }
     }
   },
-  "updatedAt": "2026-10-24T12:06:55.015100+00:00",
+  "updatedAt": "2026-10-25T12:39:38.957075+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3009,15 +2989,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-10-24T12:06:55.015100+00:00",
-    "Moto2": "2026-10-24T12:06:55.015100+00:00",
-    "Moto3": "2026-10-24T12:06:55.015100+00:00",
+    "MotoGP": "2026-10-25T12:39:38.957075+00:00",
+    "Moto2": "2026-10-25T12:39:38.957075+00:00",
+    "Moto3": "2026-10-25T12:39:38.957075+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-10-24T12:06:55.015100+00:00",
-    "F2": "2026-10-24T12:06:55.015100+00:00",
-    "F3": "2026-10-24T12:06:55.015100+00:00",
-    "WEC": "2026-10-24T12:06:55.015100+00:00"
+    "F1": "2026-10-25T12:39:38.957075+00:00",
+    "F2": "2026-10-25T12:39:38.957075+00:00",
+    "F3": "2026-10-25T12:39:38.957075+00:00",
+    "WEC": "2026-10-25T12:39:38.957075+00:00"
   },
-  "newsUpdatedAt": "2026-10-24T17:24:37.070Z",
-  "newsCheckedAt": "2026-10-24T12:07:10.027411+00:00"
+  "newsUpdatedAt": "2026-10-25T12:39:40.215386+00:00",
+  "newsCheckedAt": "2026-10-25T12:39:40.215386+00:00"
 }
