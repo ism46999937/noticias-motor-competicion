@@ -194,8 +194,7 @@
     document.documentElement.setAttribute("data-language", language);
     try { localStorage.setItem("mc-language", language); } catch (_) {}
     translateTree(document.body);
-    const picker = document.getElementById("languagePicker");
-    if (picker) picker.value = language;
+    document.querySelectorAll("[data-ui-language]").forEach(button => { button.classList.toggle("active", button.dataset.uiLanguage === language); button.setAttribute("aria-pressed", String(button.dataset.uiLanguage === language)); });
     const title = document.title;
     document.title = translateString(title);
   }
@@ -204,10 +203,10 @@
     if (!header || document.getElementById("languagePicker")) return;
     const wrap = document.createElement("div");
     wrap.className = "language-switch";
-    wrap.innerHTML = '<label class="language-label" for="languagePicker">Idioma / Language</label><select id="languagePicker" aria-label="Select language"><option value="es">🇪🇸 Español</option><option value="en">🇬🇧 English</option></select>';
+    wrap.innerHTML = '<span class="language-label">Idioma / Language</span><button type="button" class="language-button" data-ui-language="es" aria-label="Cambiar a castellano">🇪🇸 ES</button><button type="button" class="language-button" data-ui-language="en" aria-label="Switch to English">🇬🇧 EN</button>';
     const nav = header.querySelector("nav");
     header.appendChild(wrap);
-    wrap.querySelector("select").addEventListener("change", event => setLanguage(event.target.value));
+    wrap.querySelectorAll("[data-ui-language]").forEach(button => button.addEventListener("click", () => setLanguage(button.dataset.uiLanguage)));
   }
   function init() {
     addPicker();
