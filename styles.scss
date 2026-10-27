@@ -617,3 +617,115 @@ $display: "Barlow Condensed", sans-serif;
     grid-template-columns: 1fr;
   }
 }
+
+// Personal race planner, account preferences and attribution.
+.agenda-section{background:#f0efea}
+.agenda-controls,.account-preference-series{display:flex;flex-wrap:wrap;gap:8px}
+.agenda-chip,.check-chip{cursor:pointer}
+.agenda-chip input,.check-chip input{position:absolute;opacity:0;pointer-events:none}
+.agenda-chip span,.check-chip span{display:inline-flex;align-items:center;border:1px solid $line;background:#fff;padding:10px 14px;font-size:10px;font-weight:800;letter-spacing:.08em}
+.agenda-chip input:checked+span,.check-chip input:checked+span{background:$ink;color:#fff;border-color:$ink}
+.agenda-chip input:focus-visible+span,.check-chip input:focus-visible+span{outline:3px solid #e52b2b70;outline-offset:2px}
+.agenda-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:22px}
+.agenda-card{display:flex;flex-direction:column;min-height:255px;background:$card;border:1px solid #e1dfd9;padding:22px}
+.agenda-card-top{display:flex;justify-content:space-between;gap:12px;color:$red;font-size:9px;font-weight:800;letter-spacing:.1em;text-transform:uppercase}
+.agenda-card h3{font:800 28px/.98 $display;text-transform:uppercase;margin:24px 0 6px}
+.agenda-location,.agenda-context,.agenda-time-note{font-size:11px;line-height:1.55;color:#666;margin:6px 0}
+.agenda-countdown{color:$red;font-size:13px;margin-top:12px}
+.agenda-context{margin-top:13px}
+.agenda-time-note{margin-top:auto;padding-top:12px}
+.agenda-card .card-link{font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.07em;margin-top:10px}
+.agenda-empty{grid-column:1/-1;min-height:130px}
+.agenda-empty h3{margin:5px 0 8px}
+.agenda-actions{display:flex;align-items:center;flex-wrap:wrap;gap:18px;margin-top:20px}
+.agenda-actions .primary-btn{border:0;cursor:pointer}
+.agenda-actions .primary-btn:disabled{opacity:.45;cursor:not-allowed}
+.text-button{border:0;background:none;color:$red;font:800 10px $font;letter-spacing:.06em;text-transform:uppercase;cursor:pointer}
+.account-open{border:1px solid $red;background:transparent;color:$red;padding:9px 11px;font:800 10px $font;text-transform:uppercase;cursor:pointer}
+.account-dialog{width:min(560px,calc(100% - 28px));max-height:calc(100% - 28px);padding:0;border:0;background:transparent;color:$ink}
+.account-dialog::backdrop{background:#101211b8;backdrop-filter:blur(3px)}
+.account-panel{position:relative;max-height:calc(100vh - 40px);overflow:auto;padding:clamp(24px,6vw,42px);background:$bg;box-shadow:0 20px 70px #0004}
+.account-panel h2{font:800 42px/.95 $display;text-transform:uppercase;margin-bottom:12px}
+.account-description,.account-privacy{font-size:12px;line-height:1.6;color:$muted}
+.account-privacy{border-top:1px solid $line;padding-top:14px;margin-top:22px}
+.account-privacy a,.account-panel a{color:$red;text-decoration:underline}
+.dialog-close{position:absolute;right:16px;top:12px;border:0;background:transparent;font-size:28px;cursor:pointer}
+.account-status{min-height:20px;font-size:12px;font-weight:700;color:#287a45}
+.account-status.error{color:#b42318}
+.account-form{display:grid;gap:14px}
+.account-form label,.account-panel fieldset>label:not(.check-line){display:grid;gap:7px;font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.06em}
+.account-form input,.account-panel select{width:100%;padding:12px;border:1px solid $line;background:#fff;font:14px $font;color:$ink}
+.account-form label small{font-size:10px;color:$muted;text-transform:none;letter-spacing:0}
+.account-form-actions{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.account-form-actions .primary-btn{border:0;cursor:pointer}
+.account-panel fieldset{border:1px solid $line;padding:16px;margin:18px 0}
+.account-panel legend{padding:0 7px;font-size:10px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+.check-line{display:flex;gap:9px;align-items:center;margin:12px 0;font-size:11px;line-height:1.45}
+.check-line input{accent-color:$red}
+.account-panel .fine-print{font-size:10px}
+.delete-account{border:0;background:none;color:#a22;font:700 10px $font;text-decoration:underline;cursor:pointer}
+footer>span{line-height:1.6}
+footer>span a{color:inherit;text-decoration:underline}
+.privacy-page>p a{color:$red;text-decoration:underline}
+@media(max-width:800px){.agenda-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.account-open{text-align:left}}
+@media(max-width:520px){.agenda-grid{grid-template-columns:1fr}.agenda-chip span{padding:9px 11px}.agenda-actions{align-items:flex-start;flex-direction:column}.account-panel fieldset{padding:12px}}
+$language-control: #171817;
+
+.language-switch {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+.language-label {
+  margin-right: 4px;
+  color: $muted;
+  font-size: 9px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+}
+
+.language-button,
+.news-language {
+  display: inline-grid;
+  place-items: center;
+  min-width: 36px;
+  min-height: 36px;
+  padding: 5px;
+  border: 1px solid $line;
+  border-radius: 4px;
+  background: transparent;
+  color: $language-control;
+  font: 20px/1 $font;
+  cursor: pointer;
+}
+
+.language-button:hover,
+.language-button.active,
+.news-language:hover,
+.news-language.active {
+  border-color: $red;
+  background: $red;
+  color: #fff;
+}
+
+.news-language-row {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin: 15px 0 20px;
+}
+
+.news-language-row .news-language[data-language="all"] {
+  width: auto;
+  padding: 6px 12px;
+  font: 700 10px $font;
+  text-transform: uppercase;
+}
+
+@media (max-width: 800px) {
+  .site-header { gap: 10px; }
+  .language-label { display: none; }
+}

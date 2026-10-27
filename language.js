@@ -1,6 +1,8 @@
 (() => {
   const translations = [
     ["La actualidad, a fondo.", "The latest, in depth."],
+    ["Tu agenda de carreras, noticias y clasificaciones de F1 a MotoGP, WEC y Superbikes. Elige qué sigues y consulta las fechas y fuentes oficiales desde un mismo sitio.", "Your race calendar, news and standings for F1, MotoGP, WEC and Superbikes. Choose what you follow and check dates and official sources in one place."],
+    ["Configurar mi agenda", "Set up my calendar"],
     ["Noticias, calendarios y clasificaciones de Fórmula 1, Fórmula 2, Fórmula 3, WEC y motociclismo.", "News, calendars and standings for Formula 1, Formula 2, Formula 3, WEC and motorcycle racing."],
     ["Eventos en directo", "Live events"],
     ["Calendario 2026", "2026 calendar"],
@@ -153,7 +155,42 @@
     ["No se han encontrado eventos", "No events found"],
     ["Ver detalles", "View details"],
     ["Consulta el horario oficial", "Check the official schedule"],
-    ["Abrir fuente oficial", "Open official source"]
+    ["Abrir fuente oficial", "Open official source"],
+    ["Mi agenda", "My calendar"],
+    ["Elige las categorías que sigues", "Choose the series you follow"],
+    ["Añadir carreras al calendario", "Add races to calendar"],
+    ["Guardar mis preferencias con una cuenta", "Save my preferences with an account"],
+    ["Las fechas reflejan el fin de semana del evento, no la hora de la primera sesión. Consulta el enlace oficial de cada prueba para confirmar horarios y cambios.", "Dates show the race weekend, not the first session time. Check each event’s official link for session times and changes."],
+    ["Iniciar sesión", "Sign in"],
+    ["Tu cuenta", "Your account"],
+    ["Crea tu cuenta", "Create your account"],
+    ["Regístrate para guardar tus categorías y preferencias de avisos entre dispositivos. Las cuentas requieren el servicio PHP del sitio.", "Register to save your series and alert preferences across devices. Accounts require the site’s PHP service."],
+    ["Correo electrónico", "Email address"],
+    ["Contraseña", "Password"],
+    ["Mínimo 12 caracteres.", "At least 12 characters."],
+    ["Crear cuenta", "Create account"],
+    ["Ya tengo cuenta", "I already have an account"],
+    ["Categorías para tu agenda", "Series for your calendar"],
+    ["Avisos mientras la app está abierta", "Alerts while the app is open"],
+    ["Avisarme al comenzar el fin de semana de carrera", "Alert me when a race weekend begins"],
+    ["Avisarme si se actualiza el panel de noticias", "Alert me when the news feed updates"],
+    ["Ocultar resultados para evitar spoilers", "Hide results to avoid spoilers"],
+    ["Antelación", "Reminder lead time"],
+    ["15 minutos", "15 minutes"],
+    ["30 minutos", "30 minutes"],
+    ["1 hora", "1 hour"],
+    ["Guardar preferencias", "Save preferences"],
+    ["Cerrar sesión", "Sign out"],
+    ["Eliminar mi cuenta", "Delete my account"],
+    ["Al crear una cuenta se almacenan tu correo, una contraseña protegida mediante hash y tus preferencias.", "Creating an account stores your email, a hashed password and your preferences."],
+    ["Leer privacidad y eliminación de cuenta", "Read privacy and account deletion details"],
+    ["Equipos que quieres seguir", "Teams you want to follow"],
+    ["Se usan para priorizar avisos de noticias. Las listas cambian según los datos cargados.", "Used to prioritize news alerts. Team lists depend on the loaded data."],
+    ["Elige categorías para cargar equipos.", "Choose series to load teams."],
+    ["Sesión iniciada como ", "Signed in as "],
+    ["Preferencias guardadas en tu cuenta. Los avisos del navegador funcionan mientras la app está abierta.", "Preferences saved to your account. Browser alerts work while the app is open."],
+    ["La sesión de seguridad ha caducado. Recarga la página.", "The security session has expired. Reload the page."],
+    ["El servidor de cuentas no está disponible. GitHub Pages no ejecuta PHP; se necesita alojar api.php en un servidor PHP.", "The account service is unavailable. GitHub Pages does not run PHP; api.php must be hosted on a PHP server."]
   ];
   const esToEn = new Map(translations);
   const enToEs = new Map(translations.map(([es, en]) => [en, es]));
@@ -193,6 +230,7 @@
     document.documentElement.lang = language;
     document.documentElement.setAttribute("data-language", language);
     try { localStorage.setItem("mc-language", language); } catch (_) {}
+    window.dispatchEvent(new CustomEvent("site-language-change", { detail: { language } }));
     translateTree(document.body);
     document.querySelectorAll("[data-ui-language]").forEach(button => { button.classList.toggle("active", button.dataset.uiLanguage === language); button.setAttribute("aria-pressed", String(button.dataset.uiLanguage === language)); });
     const title = document.title;
@@ -203,10 +241,14 @@
     if (!header || document.getElementById("languagePicker")) return;
     const wrap = document.createElement("div");
     wrap.className = "language-switch";
-    wrap.innerHTML = '<span class="language-label">Idioma / Language</span><button type="button" class="language-button" data-ui-language="es" aria-label="Cambiar a castellano">🇪🇸 ES</button><button type="button" class="language-button" data-ui-language="en" aria-label="Switch to English">🇬🇧 EN</button>';
+    wrap.id = "languagePicker";
+    wrap.innerHTML = '<span class="language-label">Idioma / Language</span><button type="button" class="language-button" data-ui-language="es" aria-label="Cambiar a castellano" title="Castellano">🇪🇸</button><button type="button" class="language-button" data-ui-language="en" aria-label="Switch to English" title="English">🇬🇧</button>';
     const nav = header.querySelector("nav");
     header.appendChild(wrap);
     wrap.querySelectorAll("[data-ui-language]").forEach(button => button.addEventListener("click", () => setLanguage(button.dataset.uiLanguage)));
+    document.addEventListener("news-language-select", event => {
+      if (event.detail?.language === "es" || event.detail?.language === "en") setLanguage(event.detail.language);
+    });
   }
   function init() {
     addPicker();
@@ -217,10 +259,16 @@
       if (language !== "en") return;
       records.forEach(record => {
         if (record.type === "childList") record.addedNodes.forEach(node => {
-          if (node.nodeType === 3) node.nodeValue = translateString(node.nodeValue);
+          if (node.nodeType === 3) {
+            const translated = translateString(node.nodeValue);
+            if (translated !== node.nodeValue) node.nodeValue = translated;
+          }
           else if (node.nodeType === 1) translateTree(node);
         });
-        else if (record.type === "characterData") record.target.nodeValue = translateString(record.target.nodeValue);
+        else if (record.type === "characterData") {
+          const translated = translateString(record.target.nodeValue);
+          if (translated !== record.target.nodeValue) record.target.nodeValue = translated;
+        }
       });
     });
     observer.observe(document.body, { childList: true, subtree: true, characterData: true });

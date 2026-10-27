@@ -195,6 +195,15 @@ def fetch_motogp_headlines(payload):
 
 
 def merge_updates(previous, updates):
+    previous_by_url = {item.get("url"): item for item in previous if item.get("url")}
+    for items in updates.values():
+        for item in items:
+            old = previous_by_url.get(item.get("url"))
+            if old:
+                for field in ("language", "translations"):
+                    if field in old and field not in item:
+                        item[field] = old[field]
+
     # Replace only series with a non-empty, successfully parsed update.
     replaced = {series for series, items in updates.items() if items}
     merged = [item for item in previous if item.get("series") not in replaced]

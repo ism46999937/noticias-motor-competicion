@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Noticias, calendarios y clasificaciones de Fórmula 1, Fórmula 2, Fórmula 3, WEC y motociclismo.">
+  <meta name="description" content="Tu agenda de carreras, noticias y clasificaciones de F1, F2, F3, WEC, MotoGP, Moto2, Moto3 y WorldSBK en un solo sitio.">
   <meta name="theme-color" content="#e10600">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -14,20 +14,20 @@
   <title>Motor Competición | Noticias, calendarios y clasificaciones</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=language-flags-20261027">
 </head>
 <body>
 <header class="site-header">
   <a class="brand" href="#" aria-label="Motor Competición, inicio"><span class="brand-mark" aria-hidden="true">MC<span>↗</span></span><span class="brand-wordmark">MOTOR <b>COMPETICIÓN</b><small>La actualidad, a fondo.</small></span></a>
   <button class="menu-toggle" id="menuToggle" aria-label="Abrir menú">☰</button>
-  <nav id="mainNav"><a href="#noticias">Noticias</a><a href="#calendario">Calendario 2026</a><a href="live-events.html">Eventos en directo</a><a href="#clasificaciones">Clasificaciones</a><a href="#alineacion">Alineación 2027</a><a href="#fuentes">Fuentes</a><button class="install-app" id="installApp" type="button">Instalar app</button></nav>
+  <nav id="mainNav"><a href="#agenda">Mi agenda</a><a href="#noticias">Noticias</a><a href="#calendario">Calendario 2026</a><a href="live-events.html">Eventos en directo</a><a href="#clasificaciones">Clasificaciones</a><a href="#alineacion">Alineación 2027</a><a href="#fuentes">Fuentes</a><button class="account-open" id="accountOpen" type="button">Iniciar sesión</button><button class="install-app" id="installApp" type="button">Instalar app</button></nav>
 </header>
 <main>
   <section class="hero">
     <div class="hero-copy"><p class="eyebrow"><span class="live-dot"></span> MOTORSPORT · TEMPORADA 2026</p>
       <h1>LA PASIÓN<br>NO TIENE <em>LÍMITES.</em></h1>
-      <p class="hero-lead">Actualidad, análisis y resultados de la Fórmula 1, F2, F3 y el Mundial de Resistencia.</p>
-      <a class="primary-btn" href="#noticias">Explorar actualidad <span>↗</span></a>
+      <p class="hero-lead">Tu agenda de carreras, noticias y clasificaciones de F1 a MotoGP, WEC y Superbikes. Elige qué sigues y consulta las fechas y fuentes oficiales desde un mismo sitio.</p>
+      <a class="primary-btn" href="#agenda">Configurar mi agenda <span>↗</span></a>
     </div>
     <div class="hero-art" role="img" aria-label="Gráfico de competición automovilística">
       <div class="speed-line line-one"></div><div class="speed-line line-two"></div>
@@ -36,10 +36,17 @@
     </div>
   </section>
   <div class="series-strip"><span>COBERTURA</span><a href="#clasificaciones">FÓRMULA 1</a><a href="#clasificaciones">FÓRMULA 2</a><a href="#clasificaciones">FÓRMULA 3</a><a href="#calendario">WEC</a><a href="#calendario">MOTOGP</a><a href="#calendario">MOTO2</a><a href="#calendario">MOTO3</a><a href="#calendario">SUPERBIKES</a></div>
+  <section class="section agenda-section" id="agenda">
+    <div class="section-heading"><div><p class="eyebrow">TU TEMPORADA</p><h2>Mi <em>agenda</em></h2></div><span class="section-note" id="agendaStatus">Elige las categorías que sigues</span></div>
+    <div class="agenda-controls" id="agendaSeries" aria-label="Categorías de mi agenda"></div>
+    <div class="agenda-grid" id="agendaGrid" aria-live="polite"></div>
+    <div class="agenda-actions"><button class="primary-btn" id="agendaExport" type="button">Añadir carreras al calendario <span>↗</span></button><button class="text-button" id="accountOpenAgenda" type="button">Guardar mis preferencias con una cuenta</button></div>
+    <p class="fine-print" id="agendaDisclaimer">Las fechas reflejan el fin de semana del evento, no la hora de la primera sesión. Consulta el enlace oficial de cada prueba para confirmar horarios y cambios.</p>
+  </section>
   <section class="section" id="noticias">
     <div class="section-heading"><div><p class="eyebrow">LO ÚLTIMO</p><h2>Noticias <em>destacadas</em></h2></div><span class="section-note" id="newsStatus">Cargando fuentes…</span></div>
-    <div class="news-language-row" id="newsLanguageFilters" aria-label="Idioma de las noticias"><button class="news-language active" type="button" data-language="es">🇪🇸 Español</button><button class="news-language" type="button" data-language="en">🇬🇧 English</button><button class="news-language" type="button" data-language="all">Todas</button></div>
-    <div class="filter-row" id="newsFilters"><button class="filter active" data-series="Todos">Todo</button><button class="filter" data-series="F1">F1</button><button class="filter" data-series="F2">F2</button><button class="filter" data-series="F3">F3</button><button class="filter" data-series="WEC">WEC</button><button class="filter" data-series="MotoGP">MotoGP</button><button class="filter" data-series="Moto2">Moto2</button><button class="filter" data-series="Moto3">Moto3</button></div>
+    <div class="news-language-row" id="newsLanguageFilters" aria-label="Idioma de las noticias"><button class="news-language active" type="button" data-language="es" aria-label="Noticias en castellano" title="Noticias en castellano">🇪🇸</button><button class="news-language" type="button" data-language="en" aria-label="News in English" title="News in English">🇬🇧</button><button class="news-language" type="button" data-language="all">Todas</button></div>
+    <div class="filter-row" id="newsFilters"><button class="filter active" data-series="Todos">Todo</button><button class="filter" data-series="F1">F1</button><button class="filter" data-series="F2">F2</button><button class="filter" data-series="F3">F3</button><button class="filter" data-series="WEC">WEC</button><button class="filter" data-series="MotoGP">MotoGP</button><button class="filter" data-series="Moto2">Moto2</button><button class="filter" data-series="Moto3">Moto3</button><button class="filter" data-series="Superbikes">Superbikes</button></div>
     <div class="news-grid" id="newsGrid"><article class="news-card skeleton"></article><article class="news-card skeleton"></article><article class="news-card skeleton"></article></div>
     <p class="fine-print">Los titulares y extractos pertenecen a sus fuentes originales. Consulta cada medio para leer el artículo completo.</p>
   </section>
@@ -75,7 +82,28 @@
     <p class="fine-print">Se muestran enlaces a los medios. La carga automática de titulares requiere RSS/API disponible y compatible con las condiciones de cada fuente; no se copian artículos completos.</p>
   </section>
 </main>
-<footer><a class="brand" href="#"><span class="brand-mark">MC</span><span>MOTOR <b>COMPETICIÓN</b><small>La actualidad, a fondo.</small></span></a><span>Proyecto independiente · Temporada 2026</span><a href="#fuentes">Fuentes y transparencia ↑</a></footer>
-<script src="app.js?v=spanish-news-1"></script>
-<script src="language.js?v=buttons-2"></script>
+<footer><a class="brand" href="#"><span class="brand-mark">MC</span><span>MOTOR <b>COMPETICIÓN</b><small>La actualidad, a fondo.</small></span></a><span>Proyecto independiente · Temporada 2026<br>© 2026 <a href="https://github.com/ism46999937" target="_blank" rel="noopener">Motor Competición · @ism46999937</a> · Código y textos originales.</span><a href="privacy.html">Privacidad</a><a href="#fuentes">Fuentes y transparencia ↑</a></footer>
+<dialog class="account-dialog" id="accountDialog" aria-labelledby="accountTitle">
+  <div class="account-panel">
+    <button class="dialog-close" id="accountClose" type="button" aria-label="Cerrar">×</button>
+    <p class="eyebrow">MI MOTOR COMPETICIÓN</p><h2 id="accountTitle">Tu <em>cuenta</em></h2>
+    <p class="account-description" id="accountDescription">Regístrate para guardar tus categorías y preferencias de avisos entre dispositivos. Las cuentas requieren el servicio PHP del sitio.</p>
+    <p class="account-status" id="accountStatus" role="status" aria-live="polite"></p>
+    <form id="accountForm" class="account-form">
+      <label>Correo electrónico<input id="accountEmail" name="email" type="email" autocomplete="email" required maxlength="254"></label>
+      <label>Contraseña<input id="accountPassword" name="password" type="password" autocomplete="current-password" minlength="12" required><small>Mínimo 12 caracteres.</small></label>
+      <div class="account-form-actions"><button class="primary-btn" id="accountSubmit" type="submit">Iniciar sesión</button><button class="text-button" id="accountMode" type="button">Crear cuenta</button></div>
+    </form>
+    <div id="accountPreferences" hidden>
+      <p id="accountWelcome"></p>
+      <fieldset><legend>Categorías para tu agenda</legend><div class="account-preference-series" id="accountPreferenceSeries"></div></fieldset>
+      <fieldset><legend>Equipos que quieres seguir</legend><div class="account-preference-series" id="accountPreferenceTeams"></div><p class="fine-print">Se usan para priorizar avisos de noticias. Las listas cambian según los datos cargados.</p></fieldset>
+      <fieldset><legend>Avisos mientras la app está abierta</legend><label class="check-line"><input type="checkbox" id="alertRaceWeekend"> Avisarme al comenzar el fin de semana de carrera</label><label class="check-line"><input type="checkbox" id="alertNews"> Avisarme si se actualiza el panel de noticias</label><label class="check-line"><input type="checkbox" id="hideSpoilers"> Ocultar resultados para evitar spoilers</label><label>Antelación<select id="alertLead"><option value="15">15 minutos</option><option value="30">30 minutos</option><option value="60">1 hora</option></select></label><p class="fine-print">Los avisos locales requieren permitir notificaciones y tener abierta la app. Los avisos push con la app cerrada requieren configurar un servicio de notificaciones en el alojamiento.</p></fieldset>
+      <div class="account-form-actions"><button class="primary-btn" id="savePreferences" type="button">Guardar preferencias</button><button class="text-button" id="accountLogout" type="button">Cerrar sesión</button><button class="delete-account" id="deleteAccount" type="button">Eliminar mi cuenta</button></div>
+    </div>
+    <p class="account-privacy">Al crear una cuenta se almacenan tu correo, una contraseña protegida mediante hash y tus preferencias. <a href="privacy.html">Leer privacidad y eliminación de cuenta</a>.</p>
+  </div>
+</dialog>
+<script src="app.js?v=language-flags-20261027"></script>
+<script src="language.js?v=language-flags-20261027"></script>
 </body></html>

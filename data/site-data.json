@@ -6,7 +6,18 @@
       "summary": "Unknowns, mentality and teamwork: find out what Davide Tardozzi has to say about the Championship picture ahead of Malaysia!",
       "url": "https://www.motogp.com/en/news/2026/10/27/tardozzi-assesses-2026-title-fight-he-always-surprises-us/1181027",
       "series": "MotoGP",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Tardozzi assesses 2026 title fight: \"He always surprises us\"",
+          "summary": "Unknowns, mentality and teamwork: find out what Davide Tardozzi has to say about the Championship picture ahead of Malaysia!"
+        },
+        "es": {
+          "title": "Tardozzi analiza la lucha por el título de 2026: «Siempre nos sorprende»",
+          "summary": "Incógnitas, mentalidad y trabajo en equipo: Davide Tardozzi analiza la situación del campeonato antes del Gran Premio de Malasia."
+        }
+      }
     },
     {
       "date": "2026-10-26",
@@ -14,7 +25,18 @@
       "summary": "It may not have been the Sunday we hoped for, but Phillip Island still delivered plenty of talking points and another twist in the title race",
       "url": "https://www.motogp.com/en/news/2026/10/26/talking-points-we-are-ducati-and-we-have-marc-marquez/1181026",
       "series": "MotoGP",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Talking Points: \"We are Ducati, and we have Marc Marquez\"",
+          "summary": "It may not have been the Sunday we hoped for, but Phillip Island still delivered plenty of talking points and another twist in the title race"
+        },
+        "es": {
+          "title": "Claves: «Somos Ducati y tenemos a Marc Márquez»",
+          "summary": "Phillip Island no dejó el domingo que esperábamos, pero sí muchos temas de conversación y otro giro en la lucha por el título."
+        }
+      }
     },
     {
       "date": "2026-10-26",
@@ -22,7 +44,18 @@
       "summary": "Fresh from his Hall of Fame induction, Mick Doohan backs Adelaide to bring MotoGP into the heart of the city — and closer to a new generation of fans",
       "url": "https://www.motogp.com/en/news/2026/10/26/doohan-adelaide-ready-to-welcome-motogp/1181063",
       "series": "MotoGP",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Doohan: Adelaide ready to welcome MotoGP",
+          "summary": "Fresh from his Hall of Fame induction, Mick Doohan backs Adelaide to bring MotoGP into the heart of the city — and closer to a new generation of fans"
+        },
+        "es": {
+          "title": "Doohan: Adelaida está lista para recibir a MotoGP",
+          "summary": "Tras ingresar en el Salón de la Fama, Mick Doohan apoya la llegada de MotoGP al centro de Adelaida para acercar el campeonato a una nueva generación de aficionados."
+        }
+      }
     },
     {
       "series": "F1",
@@ -30,7 +63,18 @@
       "date": "2026-10-25",
       "title": "F1 – Antonelli takes controlled COTA win ahead of Leclerc and Verstappen to close in on F1 Driver’s title",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-antonelli-takes-controlled-cota-win-ahead-leclerc-and-verstappen-close-f1-drivers-title"
+      "url": "https://www.fia.com/news/f1-antonelli-takes-controlled-cota-win-ahead-leclerc-and-verstappen-close-f1-drivers-title",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "F1 – Antonelli takes controlled COTA win ahead of Leclerc and Verstappen to close in on F1 Driver’s title",
+          "summary": "Official headline from the series. Open the source link to read the full announcement."
+        },
+        "es": {
+          "title": "Antonelli controla la carrera de Austin y se acerca al título de F1, por delante de Leclerc y Verstappen",
+          "summary": "Kimi Antonelli logró una victoria calculada en el Circuito de las Américas y amplió su ventaja en la lucha por el campeonato de pilotos."
+        }
+      }
     },
     {
       "series": "F1",
@@ -38,7 +82,18 @@
       "date": "2026-10-25",
       "title": "F1 - 2026 United States Grand Prix Post-Race Press Conference Transcript",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-united-states-grand-prix-post-race-press-conference-transcript"
+      "url": "https://www.fia.com/news/f1-2026-united-states-grand-prix-post-race-press-conference-transcript",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "F1 - 2026 United States Grand Prix Post-Race Press Conference Transcript",
+          "summary": "Official headline from the series. Open the source link to read the full announcement."
+        },
+        "es": {
+          "title": "F1: transcripción de la rueda de prensa posterior al Gran Premio de Estados Unidos de 2026",
+          "summary": "Transcripción oficial de la rueda de prensa posterior a la carrera del Gran Premio de Estados Unidos."
+        }
+      }
     },
     {
       "series": "F1",
@@ -46,7 +101,18 @@
       "date": "2026-10-25",
       "title": "F1 – Antonelli takes pole for US Grand Prix ahead of Verstappen and Hadjar",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-antonelli-takes-pole-us-grand-prix-ahead-verstappen-and-hadjar"
+      "url": "https://www.fia.com/news/f1-antonelli-takes-pole-us-grand-prix-ahead-verstappen-and-hadjar",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "F1 – Antonelli takes pole for US Grand Prix ahead of Verstappen and Hadjar",
+          "summary": "Official headline from the series. Open the source link to read the full announcement."
+        },
+        "es": {
+          "title": "Antonelli logra la pole del Gran Premio de Estados Unidos por delante de Verstappen y Hadjar",
+          "summary": "Kimi Antonelli encabezó la clasificación en Austin, con Max Verstappen e Isack Hadjar en las siguientes posiciones."
+        }
+      }
     },
     {
       "date": "2026-10-25",
@@ -54,7 +120,18 @@
       "summary": "Poor visibility forced the cancellation of the sport’s final roar on the Island. MotoGP CEO Carmelo Ezpeleta signs off from the iconic venue with a thank you to fans",
       "url": "https://www.motogp.com/en/news/2026/10/25/farewell-phillip-island-from-motogp-ceo-carmelo-ezpeleta/1180981",
       "series": "MotoGP",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Farewell Phillip Island, from MotoGP CEO Carmelo Ezpeleta",
+          "summary": "Poor visibility forced the cancellation of the sport’s final roar on the Island. MotoGP CEO Carmelo Ezpeleta signs off from the iconic venue with a thank you to fans"
+        },
+        "es": {
+          "title": "Adiós a Phillip Island, de Carmelo Ezpeleta, CEO de MotoGP",
+          "summary": "La falta de visibilidad obligó a cancelar la última carrera del campeonato en la isla. Carmelo Ezpeleta se despide del circuito con un mensaje de agradecimiento a los aficionados."
+        }
+      }
     },
     {
       "series": "F1",
@@ -62,7 +139,18 @@
       "date": "2026-10-24",
       "title": "F1 - 2026 United States Grand Prix Post-Qualifying Press Conference Transcript",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-united-states-grand-prix-post-qualifying-press-conference-transcript"
+      "url": "https://www.fia.com/news/f1-2026-united-states-grand-prix-post-qualifying-press-conference-transcript",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "F1 - 2026 United States Grand Prix Post-Qualifying Press Conference Transcript",
+          "summary": "Official headline from the series. Open the source link to read the full announcement."
+        },
+        "es": {
+          "title": "F1: transcripción de la rueda de prensa posterior a la clasificación del Gran Premio de Estados Unidos de 2026",
+          "summary": "Transcripción oficial de la rueda de prensa posterior a la clasificación del Gran Premio de Estados Unidos."
+        }
+      }
     },
     {
       "series": "F1",
@@ -70,7 +158,18 @@
       "date": "2026-10-24",
       "title": "F1 – Hamilton leads Verstappen and Leclerc in final US Grand Prix practice",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-hamilton-leads-verstappen-and-leclerc-final-us-grand-prix-practice"
+      "url": "https://www.fia.com/news/f1-hamilton-leads-verstappen-and-leclerc-final-us-grand-prix-practice",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "F1 – Hamilton leads Verstappen and Leclerc in final US Grand Prix practice",
+          "summary": "Official headline from the series. Open the source link to read the full announcement."
+        },
+        "es": {
+          "title": "Hamilton lidera por delante de Verstappen y Leclerc en los últimos libres del GP de Estados Unidos",
+          "summary": "Lewis Hamilton marcó el mejor tiempo en la última sesión de entrenamientos antes de la clasificación en Austin."
+        }
+      }
     },
     {
       "date": "2026-10-24",
@@ -78,7 +177,18 @@
       "summary": "Due to reduced visibility affecting the medical helicopter's ability to fly, the MotoGP Grand Prix, in addition to the Moto2 and Moto3 races, have unfortunately been cancelled",
       "url": "https://www.motogp.com/en/news/2026/10/25/motogp-grand-prix-race-at-phillip-island-cancelled/1180939",
       "series": "MotoGP",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "MotoGP Grand Prix race at Phillip Island cancelled",
+          "summary": "Due to reduced visibility affecting the medical helicopter's ability to fly, the MotoGP Grand Prix, in addition to the Moto2 and Moto3 races, have unfortunately been cancelled"
+        },
+        "es": {
+          "title": "Canceladas las carreras de MotoGP, Moto2 y Moto3 en Phillip Island",
+          "summary": "La escasa visibilidad impedía que el helicóptero médico pudiera volar con seguridad, por lo que se cancelaron las carreras del domingo de las tres categorías."
+        }
+      }
     },
     {
       "date": "2026-10-24",
@@ -86,7 +196,18 @@
       "summary": "The Spaniard’s wait for a return to action will continue after his Sunday crash at Mandalika",
       "url": "https://www.motogp.com/en/news/2026/10/24/aldeguer-out-of-malaysian-gp/1180945",
       "series": "MotoGP",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Aldeguer out of Malaysian GP",
+          "summary": "The Spaniard’s wait for a return to action will continue after his Sunday crash at Mandalika"
+        },
+        "es": {
+          "title": "Aldeguer se pierde el Gran Premio de Malasia",
+          "summary": "El español tendrá que esperar para volver a competir tras la caída que sufrió el domingo en Mandalika."
+        }
+      }
     },
     {
       "date": "2026-10-24",
@@ -94,7 +215,18 @@
       "summary": "Aprilia Racing shared an update on Sunday that very much leaves the door open regarding his return...",
       "url": "https://www.motogp.com/en/news/2026/10/24/martin-update-2024-champion-wont-return-to-spain-for-treatment/1180944",
       "series": "MotoGP",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Martin update: 2024 Champion won’t return to Spain for treatment",
+          "summary": "Aprilia Racing shared an update on Sunday that very much leaves the door open regarding his return..."
+        },
+        "es": {
+          "title": "Actualización sobre Martín: el campeón de 2024 no volverá a España para tratarse",
+          "summary": "Aprilia Racing comunicó el domingo una actualización sobre la recuperación del piloto y dejó abierta la fecha de su regreso."
+        }
+      }
     },
     {
       "date": "2026-10-24",
@@ -102,7 +234,18 @@
       "summary": "The 2020 World Champion will be back in action at Round 19",
       "url": "https://www.motogp.com/en/news/2026/10/24/see-you-in-malaysia-mir-set-for-sepang-return/1180948",
       "series": "MotoGP",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "“See you in Malaysia!” – Mir set for Sepang return",
+          "summary": "The 2020 World Champion will be back in action at Round 19"
+        },
+        "es": {
+          "title": "«¡Nos vemos en Malasia!»: Mir regresará en Sepang",
+          "summary": "El campeón del mundo de 2020 volverá a la competición en la decimonovena cita de la temporada."
+        }
+      }
     },
     {
       "date": "2026-10-24",
@@ -110,7 +253,18 @@
       "summary": "Last year’s Phillip Island victor will take no further part in Phillip Island final roar in MotoGP",
       "url": "https://www.motogp.com/en/news/2026/10/24/fernandez-withdraws-from-australian-gp/1180534",
       "series": "MotoGP",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Fernandez withdraws from Australian GP",
+          "summary": "Last year’s Phillip Island victor will take no further part in Phillip Island final roar in MotoGP"
+        },
+        "es": {
+          "title": "Fernández se retira del Gran Premio de Australia",
+          "summary": "El ganador del año pasado en Phillip Island no continuará el fin de semana en la última visita de MotoGP al circuito."
+        }
+      }
     },
     {
       "date": "2026-10-24",
@@ -118,7 +272,18 @@
       "summary": "The Aprilia Racing rider has been declared unfit for Sunday’s Australian Grand Prix",
       "url": "https://www.motogp.com/en/news/2026/10/24/jorge-martin-ruled-out-of-australian-gp-after-sprint-crash/1180521",
       "series": "MotoGP",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Jorge Martin ruled out of Australian GP after Sprint crash",
+          "summary": "The Aprilia Racing rider has been declared unfit for Sunday’s Australian Grand Prix"
+        },
+        "es": {
+          "title": "Jorge Martín, baja para el Gran Premio de Australia tras su caída en el Sprint",
+          "summary": "Aprilia Racing declaró al piloto no apto para disputar el Gran Premio del domingo."
+        }
+      }
     },
     {
       "date": "2026-10-24",
@@ -126,7 +291,18 @@
       "summary": "The momentum shifts again in the World Championship as after seven laps of some of the best racing of the year, Martin crashes from P2 and subsequently sees his weekend end with injury",
       "url": "https://www.motogp.com/en/news/2026/10/24/marc-marquez-takes-title-lead-with-sprint-win-martin-crashes-out-of-epic-battle/1179521",
       "series": "MotoGP",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Marc Marquez takes title lead with Sprint win, Martin crashes out of epic battle",
+          "summary": "The momentum shifts again in the World Championship as after seven laps of some of the best racing of the year, Martin crashes from P2 and subsequently sees his weekend end with injury"
+        },
+        "es": {
+          "title": "Marc Márquez toma el liderato del campeonato con su victoria en el Sprint; Martín se cae en una batalla épica",
+          "summary": "La lucha por el título volvió a cambiar tras siete vueltas de intensa carrera: Martín se cayó cuando rodaba segundo y terminó el fin de semana lesionado."
+        }
+      }
     },
     {
       "date": "2026-10-24",
@@ -134,7 +310,18 @@
       "summary": "The five-time title winner was recognised for his incredible achievements on Saturday at the Australian Grand Prix",
       "url": "https://www.motogp.com/en/news/2026/10/24/mick-doohan-presented-motogp-hall-of-fame-medal-at-phillip-island/1180539",
       "series": "MotoGP",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Mick Doohan presented MotoGP Hall of Fame medal at Phillip Island",
+          "summary": "The five-time title winner was recognised for his incredible achievements on Saturday at the Australian Grand Prix"
+        },
+        "es": {
+          "title": "Mick Doohan recibe la medalla del Salón de la Fama de MotoGP en Phillip Island",
+          "summary": "El pentacampeón fue reconocido el sábado en el Gran Premio de Australia por sus extraordinarios logros."
+        }
+      }
     },
     {
       "date": "2026-10-24",
@@ -142,7 +329,18 @@
       "summary": "The Honda Team Asia rider becomes Indonesia’s first Moto3 polesitter as Quiles and home hero Kelso complete a dramatic front row",
       "url": "https://www.motogp.com/en/news/2026/10/24/pratama-pulls-of-perfection-for-maiden-pole-in-phillip-island-thriller/1179527",
       "series": "Moto3",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Pratama pulls of perfection for maiden pole in Phillip Island thriller",
+          "summary": "The Honda Team Asia rider becomes Indonesia’s first Moto3 polesitter as Quiles and home hero Kelso complete a dramatic front row"
+        },
+        "es": {
+          "title": "Pratama roza la perfección y consigue su primera pole en el emocionante fin de semana de Phillip Island",
+          "summary": "El piloto de Honda Team Asia se convirtió en el primer indonesio en lograr la pole de Moto3; Quiles y el héroe local Kelso completaron la primera fila."
+        }
+      }
     },
     {
       "date": "2026-10-23",
@@ -150,7 +348,18 @@
       "summary": "The current hat-trick hero and last year’s Moto2 Australian GP winner set the pace on Friday afternoon, with title race leader Gonzalez P8",
       "url": "https://www.motogp.com/en/news/2026/10/23/title-hunting-guevara-edges-out-australias-agius-by-0018s-on-day-1/1179531",
       "series": "Moto2",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Title-hunting Guevara edges out Australia's Agius by 0.018s on Day 1",
+          "summary": "The current hat-trick hero and last year’s Moto2 Australian GP winner set the pace on Friday afternoon, with title race leader Gonzalez P8"
+        },
+        "es": {
+          "title": "Guevara, en plena lucha por el título, supera al australiano Agius por 0,018 segundos en la primera jornada",
+          "summary": "El piloto que busca su tercer triunfo consecutivo marcó el ritmo el viernes por la tarde. Manuel González, líder del campeonato, terminó octavo."
+        }
+      }
     },
     {
       "date": "2026-10-23",
@@ -158,7 +367,18 @@
       "summary": "The #83 was able to spoil the ideal opening day homecoming for the Australian as action ignites Down Under",
       "url": "https://www.motogp.com/en/news/2026/10/23/carpe-leads-home-hero-kelso-at-phillip-island/1179526",
       "series": "Moto3",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Carpe leads home-hero Kelso at Phillip Island",
+          "summary": "The #83 was able to spoil the ideal opening day homecoming for the Australian as action ignites Down Under"
+        },
+        "es": {
+          "title": "Carpe se impone al ídolo local Kelso en Phillip Island",
+          "summary": "El español #83 frustró el regreso soñado del australiano en la jornada inaugural del Gran Premio."
+        }
+      }
     },
     {
       "date": "2026-10-19",
@@ -166,15 +386,37 @@
       "summary": "Check out the latest signings, deals and announcements as the 2027 Moto3 grid begins to become clear!",
       "url": "https://www.motogp.com/en/news/2026/10/19/2026-moto3-grid-announcements-what-we-know-so-far/1091615",
       "series": "Moto3",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "2027 Moto3™ grid announcements - what we know so far",
+          "summary": "Check out the latest signings, deals and announcements as the 2027 Moto3 grid begins to become clear!"
+        },
+        "es": {
+          "title": "Alineación de Moto3 2027: los fichajes confirmados hasta ahora",
+          "summary": "Repasamos los fichajes y acuerdos confirmados que empiezan a definir la parrilla de Moto3 para 2027."
+        }
+      }
     },
     {
       "series": "WEC",
       "source": "FIA",
       "date": "2026-10-18",
       "title": "WEC: Toyota masters mixed conditions to clinch the crown in Spain",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/wec-toyota-masters-mixed-conditions-clinch-crown-spain"
+      "summary": "Official headline from the series. Open the source link to read the full announcement.",
+      "url": "https://www.fia.com/news/wec-toyota-masters-mixed-conditions-clinch-crown-spain",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "WEC: Toyota masters mixed conditions to clinch the crown in Spain",
+          "summary": "Official headline from the series. Open the source link to read the full announcement."
+        },
+        "es": {
+          "title": "WEC: Toyota domina las condiciones cambiantes y conquista el título en España",
+          "summary": "Toyota aprovechó las condiciones variables para asegurar el campeonato de constructores en las 6 Horas de Barcelona."
+        }
+      }
     },
     {
       "date": "2026-10-16",
@@ -182,7 +424,18 @@
       "summary": "Results to be updated for the first six races of the season",
       "url": "https://www.motogp.com/en/news/2026/10/16/fernandez-reinstated-after-appeal-verdict/1178131",
       "series": "Moto3",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Fernandez reinstated after appeal verdict",
+          "summary": "Results to be updated for the first six races of the season"
+        },
+        "es": {
+          "title": "Fernández recupera su resultado tras la resolución de la apelación",
+          "summary": "La clasificación de las seis primeras carreras de la temporada se actualizará tras la decisión."
+        }
+      }
     },
     {
       "date": "2026-10-11",
@@ -190,7 +443,18 @@
       "summary": "The #28 seals the deal with a win – get to know the newest Moto3 World Champion and future Moto2 star after a landmark season",
       "url": "https://www.motogp.com/en/news/2026/10/11/maximo-quiles-meet-the-2026-moto3-world-champion/1176377",
       "series": "Moto3",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Maximo Quiles: meet the 2026 Moto3 World Champion!",
+          "summary": "The #28 seals the deal with a win – get to know the newest Moto3 World Champion and future Moto2 star after a landmark season"
+        },
+        "es": {
+          "title": "Máximo Quiles: conoce al campeón del mundo de Moto3 2026",
+          "summary": "El #28 selló el título con una victoria. Conoce al nuevo campeón de Moto3 y futuro piloto de Moto2 tras una temporada histórica."
+        }
+      }
     },
     {
       "date": "2026-10-11",
@@ -198,7 +462,18 @@
       "summary": "The sensational 18-year-old is the latest young talent to life the World Championship with a stunning five rounds to spare",
       "url": "https://www.motogp.com/en/news/2026/10/11/quiles-crowned-moto3-world-champion-with-mandalika-victory/1174842",
       "series": "Moto3",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Quiles crowned Moto3 World Champion with Mandalika victory",
+          "summary": "The sensational 18-year-old is the latest young talent to life the World Championship with a stunning five rounds to spare"
+        },
+        "es": {
+          "title": "Quiles se proclama campeón del mundo de Moto3 con su victoria en Mandalika",
+          "summary": "El joven de 18 años se convirtió en el nuevo campeón del mundo tras una gran victoria, con cinco rondas aún por disputarse."
+        }
+      }
     },
     {
       "date": "2026-10-10",
@@ -206,7 +481,18 @@
       "summary": "The first-ever 1:31 Moto2 lap time was slammed home in a Mandalika qualifying stunner that has big championship implications",
       "url": "https://www.motogp.com/en/news/2026/10/10/guevara-soars-to-incredible-indonesia-pole-title-rival-gonzalez-p10/1174844",
       "series": "Moto2",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Guevara soars to incredible Indonesia pole, title rival Gonzalez P10",
+          "summary": "The first-ever 1:31 Moto2 lap time was slammed home in a Mandalika qualifying stunner that has big championship implications"
+        },
+        "es": {
+          "title": "Guevara vuela hacia una pole increíble en Indonesia y su rival por el título, González, saldrá décimo",
+          "summary": "El piloto marcó el primer tiempo de Moto2 por debajo de 1:31 en una clasificación espectacular con importantes consecuencias para el campeonato."
+        }
+      }
     },
     {
       "date": "2026-10-10",
@@ -214,7 +500,18 @@
       "summary": "The Red Bull KTM Ajo rookie claims a season third pole ahead of Almansa and Carpe, leaving match-point man Quiles sixth",
       "url": "https://www.motogp.com/en/news/2026/10/10/uriarte-turns-up-the-magic-in-mandalika-as-title-rivals-lock-out-the-front-row/1174841",
       "series": "Moto3",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Uriarte turns up the magic in Mandalika as title rivals lock out the front row",
+          "summary": "The Red Bull KTM Ajo rookie claims a season third pole ahead of Almansa and Carpe, leaving match-point man Quiles sixth"
+        },
+        "es": {
+          "title": "Uriarte deslumbra en Mandalika y los aspirantes al título copan la primera fila",
+          "summary": "El debutante de Red Bull KTM Ajo logró su tercera pole del año por delante de Almansa y Carpe; Quiles, que podía cerrar el título, partirá sexto."
+        }
+      }
     },
     {
       "date": "2026-10-09",
@@ -222,7 +519,18 @@
       "summary": "FP1 and Practice on top, the #22 had a flying start to action in Indonesia",
       "url": "https://www.motogp.com/en/news/2026/10/09/almansa-perfect-to-kickstart-moto3-at-mandalika/1174840",
       "series": "Moto3",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Almansa perfect to kickstart Moto3 at Mandalika",
+          "summary": "FP1 and Practice on top, the #22 had a flying start to action in Indonesia"
+        },
+        "es": {
+          "title": "Almansa arranca Moto3 a la perfección en Mandalika",
+          "summary": "El #22 encabezó tanto los primeros libres como la práctica y comenzó con fuerza el fin de semana en Indonesia."
+        }
+      }
     },
     {
       "date": "2026-10-07",
@@ -230,7 +538,18 @@
       "summary": "Quiles heads to Indonesia for his next chance at match point, but what does the #28 need to do to clinch the title?",
       "url": "https://www.motogp.com/en/news/2026/10/07/quiles-will-become-moto3-world-champion-if/1098686",
       "series": "Moto3",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Quiles will become Moto3 World Champion if...",
+          "summary": "Quiles heads to Indonesia for his next chance at match point, but what does the #28 need to do to clinch the title?"
+        },
+        "es": {
+          "title": "Quiles será campeón del mundo de Moto3 si…",
+          "summary": "Quiles llega a Indonesia con una nueva oportunidad de proclamarse campeón: estas son las combinaciones que necesita."
+        }
+      }
     },
     {
       "date": "2026-10-04",
@@ -238,7 +557,18 @@
       "summary": "They duked it out again but unlike at Misano, it went the way of the #22 who moves back into P2 overall whilst Quiles’ title celebrations are put off for at least a week",
       "url": "https://www.motogp.com/en/news/2026/10/04/almansa-makes-stunning-last-stand-to-deny-quiles-at-motegi/1145011",
       "series": "Moto3",
-      "source": "MotoGP.com"
+      "source": "MotoGP.com",
+      "language": "en",
+      "translations": {
+        "en": {
+          "title": "Almansa makes stunning last stand to deny Quiles at Motegi",
+          "summary": "They duked it out again but unlike at Misano, it went the way of the #22 who moves back into P2 overall whilst Quiles’ title celebrations are put off for at least a week"
+        },
+        "es": {
+          "title": "Almansa firma una defensa espectacular y aplaza el título de Quiles en Motegi",
+          "summary": "Volvieron a enfrentarse, pero esta vez el #22 se llevó la victoria y recuperó el segundo puesto de la general; la celebración del título de Quiles tendrá que esperar al menos una semana."
+        }
+      }
     }
   ],
   "calendars": {
@@ -2954,7 +3284,7 @@
       }
     }
   },
-  "updatedAt": "2026-10-27T13:24:56.209438+00:00",
+  "updatedAt": "2026-10-27T18:36:30.273543+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -2973,15 +3303,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-10-27T13:24:56.209438+00:00",
-    "Moto2": "2026-10-27T13:24:56.209438+00:00",
-    "Moto3": "2026-10-27T13:24:56.209438+00:00",
+    "MotoGP": "2026-10-27T18:36:30.273543+00:00",
+    "Moto2": "2026-10-27T18:36:30.273543+00:00",
+    "Moto3": "2026-10-27T18:36:30.273543+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-10-27T13:24:56.209438+00:00",
-    "F2": "2026-10-27T13:24:56.209438+00:00",
-    "F3": "2026-10-27T13:24:56.209438+00:00",
-    "WEC": "2026-10-27T13:24:56.209438+00:00"
+    "F1": "2026-10-27T18:36:30.273543+00:00",
+    "F2": "2026-10-27T18:36:30.273543+00:00",
+    "F3": "2026-10-27T18:36:30.273543+00:00",
+    "WEC": "2026-10-27T18:36:30.273543+00:00"
   },
-  "newsUpdatedAt": "2026-10-27T13:24:57.516982+00:00",
-  "newsCheckedAt": "2026-10-27T13:24:57.516982+00:00"
+  "newsUpdatedAt": "2026-10-27T18:36:18.605872+00:00",
+  "newsCheckedAt": "2026-10-27T18:36:18.605872+00:00"
 }

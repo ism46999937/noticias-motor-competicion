@@ -1,5 +1,5 @@
-const CACHE_NAME = "motor-competicion-v10";
-const APP_SHELL = ["./", "./index.html", "./styles.css", "./app.js", "./live-events.html", "./live-events.js", "./live-dashboard.html", "./live-dashboard.js", "./race-schedule.html", "./race-schedule.js", "./manifest.webmanifest", "./language.js", "./logo/mc-motor-competicion.svg", "./logo/mc-motor-competicion.svg", "./icons/icon-192.svg", "./icons/icon-512.svg"];
+const CACHE_NAME = "motor-competicion-v12";
+const APP_SHELL = ["./", "./index.html", "./privacy.html", "./styles.css", "./app.js", "./live-events.html", "./live-events.js", "./live-dashboard.html", "./live-dashboard.js", "./race-schedule.html", "./race-schedule.js", "./manifest.webmanifest", "./language.js", "./logo/mc-motor-competicion.svg", "./icons/icon-192.svg", "./icons/icon-512.svg"];
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_SHELL)).then(() => self.skipWaiting()));
 });
@@ -9,6 +9,7 @@ self.addEventListener("activate", event => {
 self.addEventListener("fetch", event => {
   const request = event.request;
   if (request.method !== "GET" || new URL(request.url).origin !== self.location.origin) return;
+  if (new URL(request.url).pathname.endsWith("/api.php")) return;
   if (new URL(request.url).pathname.endsWith("/data/site-data.json")) {
     const cacheKey = new Request(new URL("./data/site-data.json", self.registration.scope).toString());
     event.respondWith(fetch(request).then(response => {

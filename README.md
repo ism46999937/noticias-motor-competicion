@@ -2,6 +2,19 @@
 
 Web en español para F1, F2, F3, WEC, MotoGP, Moto2, Moto3 y WorldSBK (Superbikes), construida con HTML, CSS y JavaScript. El repositorio incluye PHP como base opcional para un alojamiento con servidor; **GitHub Pages no ejecuta PHP**.
 
+## Agenda, cuentas y avisos
+- “Mi agenda” permite filtrar los próximos fines de semana por categoría y descargar un calendario `.ics` de día completo. Los calendarios disponibles publican fechas de evento, no siempre las horas exactas de sesiones; no se generan horarios que no estén verificados.
+- Las cuentas y preferencias de avisos usan `api.php` y requieren alojamiento PHP con HTTPS. El registro guarda correo, hash de contraseña y preferencias en `accounts.json`, en `MC_PRIVATE_DIR` fuera del directorio público. Nunca configures esa ruta dentro del repositorio o `public_html`.
+- `render.yaml` y `Dockerfile` dejan la app lista para desplegar en Render como web PHP con disco persistente. El disco se monta en `/var/data`; las cuentas quedan en `/var/data/accounts`. Render proporciona HTTPS y el origen público se detecta automáticamente. En Render, crea el servicio desde el blueprint `render.yaml` y conserva el disco persistente asociado al servicio.
+- GitHub Pages sigue sirviendo el modo público estático, pero no puede registrar usuarios, sincronizar cuentas ni eliminar cuentas porque no ejecuta PHP. Para usar cuentas, abre la versión publicada en el servidor PHP; allí frontend y API comparten origen. El alojamiento con disco persistente puede tener coste según el proveedor y el plan elegido.
+- Esta versión no verifica el correo, no ofrece restablecimiento de contraseña ni envía notificaciones push cuando la app está cerrada. Las notificaciones del navegador se limitan a la sesión abierta y requieren permiso del usuario. No anuncies esos servicios como disponibles hasta integrarlos.
+- En desarrollo local, configura `MC_PRIVATE_DIR` a una carpeta privada fuera del sitio antes de iniciar `php -S localhost:8001`. `api.php?action=health` confirma PHP; `api.php?action=auth&op=me` devuelve la sesión actual.
+
+## Derechos de autor y fuentes
+- Los avisos del sitio atribuyen a **Motor Competición · @ism46999937** el código, el diseño y los textos originales creados para el proyecto. Consulta [COPYRIGHT.md](COPYRIGHT.md).
+- Esta atribución no convierte en propiedad del proyecto datos deportivos, marcas, nombres de campeonatos, fotografías, titulares ni textos de terceros. Cada fuente mantiene sus propios derechos y términos; conserva atribución y permisos y no reproduzcas contenido completo sin autorización.
+- La fuente Jolpica utilizada para la clasificación F1 declara CC BY-NC-SA 4.0. La condición NC restringe usos comerciales; por tanto, no monetices una versión que dependa de esos datos sin permiso del titular o una alternativa con condiciones comerciales compatibles. La licencia y el permiso se revisan por fuente, no mediante un aviso general de copyright.
+
 ## Publicación en GitHub Pages
 1. Abre **Settings → Pages** en el repositorio.
 2. En **Build and deployment**, selecciona **GitHub Actions** como fuente.

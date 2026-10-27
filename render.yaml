@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: motor-competicion
+    runtime: docker
+    plan: starter
+    healthCheckPath: /api.php?action=health
+    disk:
+      name: motor-competicion-cuentas
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: MC_PRIVATE_DIR
+        value: /var/data/accounts
