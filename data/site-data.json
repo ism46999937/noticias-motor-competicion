@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "date": "2026-10-28",
+      "title": "Sepang classics: the best of the Malaysian GP",
+      "summary": "Sunshine, heat and pure drama, sit back and enjoy some of Sepang's classics before we head on track in Malaysia",
+      "url": "https://www.motogp.com/en/news/2026/10/28/sepang-classics-the-best-of-the-malaysian-gp/761533",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "HOT HEADLINES: momentum could be everything as MotoGP lands in Malaysia",
+      "summary": "More twists and turns await in the finely-poised battle for the crown as we arrive at fabulous Sepang",
+      "url": "https://www.motogp.com/en/news/2026/10/28/hot-headlines-momentum-could-be-everything-as-motogp-lands-in-malaysia/1181219",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "TIME SCHEDULE: Petronas Grand Prix of Malaysia",
+      "summary": "Ready for another weekend of title aspirations and unexpected twists? Find out the key times from Sepang!",
+      "url": "https://www.motogp.com/en/news/2026/10/28/time-schedule-petronas-grand-prix-of-malaysia/1181207",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "date": "2026-10-27",
       "title": "Tardozzi assesses 2026 title fight: \"He always surprises us\"",
       "summary": "Unknowns, mentality and teamwork: find out what Davide Tardozzi has to say about the Championship picture ahead of Malaysia!",
@@ -153,25 +177,6 @@
       }
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-10-24",
-      "title": "F1 – Hamilton leads Verstappen and Leclerc in final US Grand Prix practice",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-hamilton-leads-verstappen-and-leclerc-final-us-grand-prix-practice",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "F1 – Hamilton leads Verstappen and Leclerc in final US Grand Prix practice",
-          "summary": "Official headline from the series. Open the source link to read the full announcement."
-        },
-        "es": {
-          "title": "Hamilton lidera por delante de Verstappen y Leclerc en los últimos libres del GP de Estados Unidos",
-          "summary": "Lewis Hamilton marcó el mejor tiempo en la última sesión de entrenamientos antes de la clasificación en Austin."
-        }
-      }
-    },
-    {
       "date": "2026-10-24",
       "title": "MotoGP Grand Prix race at Phillip Island cancelled",
       "summary": "Due to reduced visibility affecting the medical helicopter's ability to fly, the MotoGP Grand Prix, in addition to the Moto2 and Moto3 races, have unfortunately been cancelled",
@@ -263,63 +268,6 @@
         "es": {
           "title": "Fernández se retira del Gran Premio de Australia",
           "summary": "El ganador del año pasado en Phillip Island no continuará el fin de semana en la última visita de MotoGP al circuito."
-        }
-      }
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Jorge Martin ruled out of Australian GP after Sprint crash",
-      "summary": "The Aprilia Racing rider has been declared unfit for Sunday’s Australian Grand Prix",
-      "url": "https://www.motogp.com/en/news/2026/10/24/jorge-martin-ruled-out-of-australian-gp-after-sprint-crash/1180521",
-      "series": "MotoGP",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Jorge Martin ruled out of Australian GP after Sprint crash",
-          "summary": "The Aprilia Racing rider has been declared unfit for Sunday’s Australian Grand Prix"
-        },
-        "es": {
-          "title": "Jorge Martín, baja para el Gran Premio de Australia tras su caída en el Sprint",
-          "summary": "Aprilia Racing declaró al piloto no apto para disputar el Gran Premio del domingo."
-        }
-      }
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Marc Marquez takes title lead with Sprint win, Martin crashes out of epic battle",
-      "summary": "The momentum shifts again in the World Championship as after seven laps of some of the best racing of the year, Martin crashes from P2 and subsequently sees his weekend end with injury",
-      "url": "https://www.motogp.com/en/news/2026/10/24/marc-marquez-takes-title-lead-with-sprint-win-martin-crashes-out-of-epic-battle/1179521",
-      "series": "MotoGP",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Marc Marquez takes title lead with Sprint win, Martin crashes out of epic battle",
-          "summary": "The momentum shifts again in the World Championship as after seven laps of some of the best racing of the year, Martin crashes from P2 and subsequently sees his weekend end with injury"
-        },
-        "es": {
-          "title": "Marc Márquez toma el liderato del campeonato con su victoria en el Sprint; Martín se cae en una batalla épica",
-          "summary": "La lucha por el título volvió a cambiar tras siete vueltas de intensa carrera: Martín se cayó cuando rodaba segundo y terminó el fin de semana lesionado."
-        }
-      }
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Mick Doohan presented MotoGP Hall of Fame medal at Phillip Island",
-      "summary": "The five-time title winner was recognised for his incredible achievements on Saturday at the Australian Grand Prix",
-      "url": "https://www.motogp.com/en/news/2026/10/24/mick-doohan-presented-motogp-hall-of-fame-medal-at-phillip-island/1180539",
-      "series": "MotoGP",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Mick Doohan presented MotoGP Hall of Fame medal at Phillip Island",
-          "summary": "The five-time title winner was recognised for his incredible achievements on Saturday at the Australian Grand Prix"
-        },
-        "es": {
-          "title": "Mick Doohan recibe la medalla del Salón de la Fama de MotoGP en Phillip Island",
-          "summary": "El pentacampeón fue reconocido el sábado en el Gran Premio de Australia por sus extraordinarios logros."
         }
       }
     },
@@ -3284,7 +3232,7 @@
       }
     }
   },
-  "updatedAt": "2026-10-27T18:59:02.345356+00:00",
+  "updatedAt": "2026-10-28T14:11:12.038647+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3303,15 +3251,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-10-27T18:59:02.345356+00:00",
-    "Moto2": "2026-10-27T18:59:02.345356+00:00",
-    "Moto3": "2026-10-27T18:59:02.345356+00:00",
+    "MotoGP": "2026-10-28T14:11:12.038647+00:00",
+    "Moto2": "2026-10-28T14:11:12.038647+00:00",
+    "Moto3": "2026-10-28T14:11:12.038647+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-10-27T18:59:02.345356+00:00",
-    "F2": "2026-10-27T18:59:02.345356+00:00",
-    "F3": "2026-10-27T18:59:02.345356+00:00",
-    "WEC": "2026-10-27T18:59:02.345356+00:00"
+    "F1": "2026-10-28T14:11:12.038647+00:00",
+    "F2": "2026-10-28T14:11:12.038647+00:00",
+    "F3": "2026-10-28T14:11:12.038647+00:00",
+    "WEC": "2026-10-28T14:11:12.038647+00:00"
   },
-  "newsUpdatedAt": "2026-10-27T18:36:18.605872+00:00",
-  "newsCheckedAt": "2026-10-27T18:59:03.694876+00:00"
+  "newsUpdatedAt": "2026-10-28T14:11:13.763320+00:00",
+  "newsCheckedAt": "2026-10-28T14:11:13.763320+00:00"
 }
