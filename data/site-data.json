@@ -1,6 +1,54 @@
 {
   "news": [
     {
+      "date": "2026-10-29",
+      "title": "DESTINATION KUALA LUMPUR: MotoGP’s annual Malaysia takeover is its own trip",
+      "summary": "36 years ago we first got here and we still enjoy visiting one of Asia most magical capitals just as much now – perhaps even a little bit more",
+      "url": "https://www.motogp.com/en/news/2026/10/29/destination-kuala-lumpur-motogps-annual-malaysia-takeover-is-its-own-trip/1181708",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "MEDIA DAY DISPATCH: MotoGP opens with a bang at Sepang",
+      "summary": "Our first catch-up with Jorge Martin post-crash, the Championship pendulum swinging and Malaysia ever-inclement weather make Round 19 more unpredictable than ever",
+      "url": "https://www.motogp.com/en/news/2026/10/29/media-day-dispatch-motogp-opens-with-a-bang-at-sepang/1181618",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Mir & Marini both fit to race",
+      "summary": "Honda HRC Castrol welcome the #36 back from a longer layoff as the #10 likewise returns to the saddle after missing Australia",
+      "url": "https://www.motogp.com/en/news/2026/10/29/mir-and-marini-fit-for-sepang/1181611",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Martin given green light to take part in Malaysia Free Practice 1",
+      "summary": "The 2024 World Champion, six days after fracturing his wrist in Australia, will be reviewed again after the opening session of the weekend in Sepang",
+      "url": "https://www.motogp.com/en/news/2026/10/29/martin-given-green-light-to-take-part-in-free-practice-1/1181608",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-10-28",
+      "title": "F1 - 2026 Mexico City Grand Prix Preview",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-mexico-city-grand-prix-preview"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-10-28",
+      "title": "F1 - 2026 Mexico City GP Schedule of Press Conferences",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-mexico-city-gp-schedule-press-conferences"
+    },
+    {
       "date": "2026-10-28",
       "title": "Sepang classics: the best of the Malaysian GP",
       "summary": "Sunshine, heat and pure drama, sit back and enjoy some of Sepang's classics before we head on track in Malaysia",
@@ -158,25 +206,6 @@
       }
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-10-24",
-      "title": "F1 - 2026 United States Grand Prix Post-Qualifying Press Conference Transcript",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-united-states-grand-prix-post-qualifying-press-conference-transcript",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "F1 - 2026 United States Grand Prix Post-Qualifying Press Conference Transcript",
-          "summary": "Official headline from the series. Open the source link to read the full announcement."
-        },
-        "es": {
-          "title": "F1: transcripción de la rueda de prensa posterior a la clasificación del Gran Premio de Estados Unidos de 2026",
-          "summary": "Transcripción oficial de la rueda de prensa posterior a la clasificación del Gran Premio de Estados Unidos."
-        }
-      }
-    },
-    {
       "date": "2026-10-24",
       "title": "MotoGP Grand Prix race at Phillip Island cancelled",
       "summary": "Due to reduced visibility affecting the medical helicopter's ability to fly, the MotoGP Grand Prix, in addition to the Moto2 and Moto3 races, have unfortunately been cancelled",
@@ -192,82 +221,6 @@
         "es": {
           "title": "Canceladas las carreras de MotoGP, Moto2 y Moto3 en Phillip Island",
           "summary": "La escasa visibilidad impedía que el helicóptero médico pudiera volar con seguridad, por lo que se cancelaron las carreras del domingo de las tres categorías."
-        }
-      }
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Aldeguer out of Malaysian GP",
-      "summary": "The Spaniard’s wait for a return to action will continue after his Sunday crash at Mandalika",
-      "url": "https://www.motogp.com/en/news/2026/10/24/aldeguer-out-of-malaysian-gp/1180945",
-      "series": "MotoGP",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Aldeguer out of Malaysian GP",
-          "summary": "The Spaniard’s wait for a return to action will continue after his Sunday crash at Mandalika"
-        },
-        "es": {
-          "title": "Aldeguer se pierde el Gran Premio de Malasia",
-          "summary": "El español tendrá que esperar para volver a competir tras la caída que sufrió el domingo en Mandalika."
-        }
-      }
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Martin update: 2024 Champion won’t return to Spain for treatment",
-      "summary": "Aprilia Racing shared an update on Sunday that very much leaves the door open regarding his return...",
-      "url": "https://www.motogp.com/en/news/2026/10/24/martin-update-2024-champion-wont-return-to-spain-for-treatment/1180944",
-      "series": "MotoGP",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Martin update: 2024 Champion won’t return to Spain for treatment",
-          "summary": "Aprilia Racing shared an update on Sunday that very much leaves the door open regarding his return..."
-        },
-        "es": {
-          "title": "Actualización sobre Martín: el campeón de 2024 no volverá a España para tratarse",
-          "summary": "Aprilia Racing comunicó el domingo una actualización sobre la recuperación del piloto y dejó abierta la fecha de su regreso."
-        }
-      }
-    },
-    {
-      "date": "2026-10-24",
-      "title": "“See you in Malaysia!” – Mir set for Sepang return",
-      "summary": "The 2020 World Champion will be back in action at Round 19",
-      "url": "https://www.motogp.com/en/news/2026/10/24/see-you-in-malaysia-mir-set-for-sepang-return/1180948",
-      "series": "MotoGP",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "“See you in Malaysia!” – Mir set for Sepang return",
-          "summary": "The 2020 World Champion will be back in action at Round 19"
-        },
-        "es": {
-          "title": "«¡Nos vemos en Malasia!»: Mir regresará en Sepang",
-          "summary": "El campeón del mundo de 2020 volverá a la competición en la decimonovena cita de la temporada."
-        }
-      }
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Fernandez withdraws from Australian GP",
-      "summary": "Last year’s Phillip Island victor will take no further part in Phillip Island final roar in MotoGP",
-      "url": "https://www.motogp.com/en/news/2026/10/24/fernandez-withdraws-from-australian-gp/1180534",
-      "series": "MotoGP",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Fernandez withdraws from Australian GP",
-          "summary": "Last year’s Phillip Island victor will take no further part in Phillip Island final roar in MotoGP"
-        },
-        "es": {
-          "title": "Fernández se retira del Gran Premio de Australia",
-          "summary": "El ganador del año pasado en Phillip Island no continuará el fin de semana en la última visita de MotoGP al circuito."
         }
       }
     },
@@ -3232,7 +3185,7 @@
       }
     }
   },
-  "updatedAt": "2026-10-28T14:11:12.038647+00:00",
+  "updatedAt": "2026-10-29T14:31:34.406680+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3251,15 +3204,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-10-28T14:11:12.038647+00:00",
-    "Moto2": "2026-10-28T14:11:12.038647+00:00",
-    "Moto3": "2026-10-28T14:11:12.038647+00:00",
+    "MotoGP": "2026-10-29T14:31:34.406680+00:00",
+    "Moto2": "2026-10-29T14:31:34.406680+00:00",
+    "Moto3": "2026-10-29T14:31:34.406680+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-10-28T14:11:12.038647+00:00",
-    "F2": "2026-10-28T14:11:12.038647+00:00",
-    "F3": "2026-10-28T14:11:12.038647+00:00",
-    "WEC": "2026-10-28T14:11:12.038647+00:00"
+    "F1": "2026-10-29T14:31:34.406680+00:00",
+    "F2": "2026-10-29T14:31:34.406680+00:00",
+    "F3": "2026-10-29T14:31:34.406680+00:00",
+    "WEC": "2026-10-29T14:31:34.406680+00:00"
   },
-  "newsUpdatedAt": "2026-10-28T14:11:13.763320+00:00",
-  "newsCheckedAt": "2026-10-28T14:11:13.763320+00:00"
+  "newsUpdatedAt": "2026-10-29T14:31:35.745170+00:00",
+  "newsCheckedAt": "2026-10-29T14:31:35.745170+00:00"
 }
