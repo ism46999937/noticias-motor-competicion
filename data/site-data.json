@@ -1,12 +1,60 @@
 {
   "news": [
     {
-      "date": "2026-10-29",
-      "title": "DESTINATION KUALA LUMPUR: MotoGP’s annual Malaysia takeover is its own trip",
-      "summary": "36 years ago we first got here and we still enjoy visiting one of Asia most magical capitals just as much now – perhaps even a little bit more",
-      "url": "https://www.motogp.com/en/news/2026/10/29/destination-kuala-lumpur-motogps-annual-malaysia-takeover-is-its-own-trip/1181708",
+      "date": "2026-10-30",
+      "title": "Marc Marquez top in Sepang on Friday despite crash, Martin ends Practice early",
+      "summary": "Far from a smooth day of running for the defending World Champion but P1 nonetheless whereas arch-rival Martin called it a day early as he battles his broken wrist pain",
+      "url": "https://www.motogp.com/en/news/2026/10/30/marc-marquez-top-in-sepang-on-friday-despite-crash-martin-ends-practice-early/1181620",
       "series": "MotoGP",
       "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "The fight goes on: Martin officially fit to race in Malaysia",
+      "summary": "After his review on Friday morning, the #89 has been passed fit to race in Sepang",
+      "url": "https://www.motogp.com/en/news/2026/10/30/the-fight-goes-on-martin-officially-fit-to-race-in-malaysia/1181918",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Raul Fernandez sidelined from Sepang",
+      "summary": "The #25 won’t be taking part in the rest of the Malaysian GP as he continues to suffer with his fingers, broken in Lombok",
+      "url": "https://www.motogp.com/en/news/2026/10/30/raul-fernandez-sidelined-from-sepang/1181916",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Marc Marquez leads Bezzecchi and Acosta in FP1, injured Martin completes 12 laps",
+      "summary": "The championship leader heads into Practice 0.4s clear of the Aprilia and KTM stars, while the #89 finishes 1.8s off the pace in a promising start to the Malaysian GP",
+      "url": "https://www.motogp.com/en/news/2026/10/30/marc-marquez-leads-bezzecchi-and-acosta-in-fp1-injured-martin-completes-12-laps/1181619",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Gonzalez collects Friday P1 as big hitters miss Q2 cut in Sepang",
+      "summary": "A crash in FP1 was backed up by an impressive Practice top spot display from the Moto2 title race leader in Malaysia, with title rival Guevara fourth fastest",
+      "url": "https://www.motogp.com/en/news/2026/10/30/gonzalez-collects-friday-p1-as-big-hitters-miss-q2-cut-in-sepang/1181623",
+      "series": "Moto2",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Almansa soars to Sepang P1 on Friday, home star Danish fourth",
+      "summary": "It was business as usual on Friday for the rider currently P2 in the standings whilst the home crowd will be cheering on Danish’s strong start",
+      "url": "https://www.motogp.com/en/news/2026/10/30/almansa-soars-to-sepang-p1-on-friday-home-star-danish-fourth/1181639",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-10-29",
+      "title": "F1 - 2026 Mexico City Grand Prix - Thursday Press Conference Transcript",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-mexico-city-grand-prix-thursday-press-conference-transcript"
     },
     {
       "date": "2026-10-29",
@@ -29,6 +77,14 @@
       "title": "Martin given green light to take part in Malaysia Free Practice 1",
       "summary": "The 2024 World Champion, six days after fracturing his wrist in Australia, will be reviewed again after the opening session of the weekend in Sepang",
       "url": "https://www.motogp.com/en/news/2026/10/29/martin-given-green-light-to-take-part-in-free-practice-1/1181608",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "DESTINATION KUALA LUMPUR: MotoGP’s annual Malaysia takeover is its own trip",
+      "summary": "36 years ago we first got here and we still enjoy visiting one of Asia's most magical capitals just as much now – perhaps even a little bit more",
+      "url": "https://www.motogp.com/en/news/2026/10/29/destination-kuala-lumpur-motogps-annual-malaysia-takeover-is-its-own-trip/1181708",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -92,44 +148,6 @@
       }
     },
     {
-      "date": "2026-10-26",
-      "title": "Talking Points: \"We are Ducati, and we have Marc Marquez\"",
-      "summary": "It may not have been the Sunday we hoped for, but Phillip Island still delivered plenty of talking points and another twist in the title race",
-      "url": "https://www.motogp.com/en/news/2026/10/26/talking-points-we-are-ducati-and-we-have-marc-marquez/1181026",
-      "series": "MotoGP",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Talking Points: \"We are Ducati, and we have Marc Marquez\"",
-          "summary": "It may not have been the Sunday we hoped for, but Phillip Island still delivered plenty of talking points and another twist in the title race"
-        },
-        "es": {
-          "title": "Claves: «Somos Ducati y tenemos a Marc Márquez»",
-          "summary": "Phillip Island no dejó el domingo que esperábamos, pero sí muchos temas de conversación y otro giro en la lucha por el título."
-        }
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Doohan: Adelaide ready to welcome MotoGP",
-      "summary": "Fresh from his Hall of Fame induction, Mick Doohan backs Adelaide to bring MotoGP into the heart of the city — and closer to a new generation of fans",
-      "url": "https://www.motogp.com/en/news/2026/10/26/doohan-adelaide-ready-to-welcome-motogp/1181063",
-      "series": "MotoGP",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Doohan: Adelaide ready to welcome MotoGP",
-          "summary": "Fresh from his Hall of Fame induction, Mick Doohan backs Adelaide to bring MotoGP into the heart of the city — and closer to a new generation of fans"
-        },
-        "es": {
-          "title": "Doohan: Adelaida está lista para recibir a MotoGP",
-          "summary": "Tras ingresar en el Salón de la Fama, Mick Doohan apoya la llegada de MotoGP al centro de Adelaida para acercar el campeonato a una nueva generación de aficionados."
-        }
-      }
-    },
-    {
       "series": "F1",
       "source": "FIA",
       "date": "2026-10-25",
@@ -164,63 +182,6 @@
         "es": {
           "title": "F1: transcripción de la rueda de prensa posterior al Gran Premio de Estados Unidos de 2026",
           "summary": "Transcripción oficial de la rueda de prensa posterior a la carrera del Gran Premio de Estados Unidos."
-        }
-      }
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-10-25",
-      "title": "F1 – Antonelli takes pole for US Grand Prix ahead of Verstappen and Hadjar",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-antonelli-takes-pole-us-grand-prix-ahead-verstappen-and-hadjar",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "F1 – Antonelli takes pole for US Grand Prix ahead of Verstappen and Hadjar",
-          "summary": "Official headline from the series. Open the source link to read the full announcement."
-        },
-        "es": {
-          "title": "Antonelli logra la pole del Gran Premio de Estados Unidos por delante de Verstappen y Hadjar",
-          "summary": "Kimi Antonelli encabezó la clasificación en Austin, con Max Verstappen e Isack Hadjar en las siguientes posiciones."
-        }
-      }
-    },
-    {
-      "date": "2026-10-25",
-      "title": "Farewell Phillip Island, from MotoGP CEO Carmelo Ezpeleta",
-      "summary": "Poor visibility forced the cancellation of the sport’s final roar on the Island. MotoGP CEO Carmelo Ezpeleta signs off from the iconic venue with a thank you to fans",
-      "url": "https://www.motogp.com/en/news/2026/10/25/farewell-phillip-island-from-motogp-ceo-carmelo-ezpeleta/1180981",
-      "series": "MotoGP",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Farewell Phillip Island, from MotoGP CEO Carmelo Ezpeleta",
-          "summary": "Poor visibility forced the cancellation of the sport’s final roar on the Island. MotoGP CEO Carmelo Ezpeleta signs off from the iconic venue with a thank you to fans"
-        },
-        "es": {
-          "title": "Adiós a Phillip Island, de Carmelo Ezpeleta, CEO de MotoGP",
-          "summary": "La falta de visibilidad obligó a cancelar la última carrera del campeonato en la isla. Carmelo Ezpeleta se despide del circuito con un mensaje de agradecimiento a los aficionados."
-        }
-      }
-    },
-    {
-      "date": "2026-10-24",
-      "title": "MotoGP Grand Prix race at Phillip Island cancelled",
-      "summary": "Due to reduced visibility affecting the medical helicopter's ability to fly, the MotoGP Grand Prix, in addition to the Moto2 and Moto3 races, have unfortunately been cancelled",
-      "url": "https://www.motogp.com/en/news/2026/10/25/motogp-grand-prix-race-at-phillip-island-cancelled/1180939",
-      "series": "MotoGP",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "MotoGP Grand Prix race at Phillip Island cancelled",
-          "summary": "Due to reduced visibility affecting the medical helicopter's ability to fly, the MotoGP Grand Prix, in addition to the Moto2 and Moto3 races, have unfortunately been cancelled"
-        },
-        "es": {
-          "title": "Canceladas las carreras de MotoGP, Moto2 y Moto3 en Phillip Island",
-          "summary": "La escasa visibilidad impedía que el helicóptero médico pudiera volar con seguridad, por lo que se cancelaron las carreras del domingo de las tres categorías."
         }
       }
     },
@@ -449,25 +410,6 @@
         "es": {
           "title": "Quiles será campeón del mundo de Moto3 si…",
           "summary": "Quiles llega a Indonesia con una nueva oportunidad de proclamarse campeón: estas son las combinaciones que necesita."
-        }
-      }
-    },
-    {
-      "date": "2026-10-04",
-      "title": "Almansa makes stunning last stand to deny Quiles at Motegi",
-      "summary": "They duked it out again but unlike at Misano, it went the way of the #22 who moves back into P2 overall whilst Quiles’ title celebrations are put off for at least a week",
-      "url": "https://www.motogp.com/en/news/2026/10/04/almansa-makes-stunning-last-stand-to-deny-quiles-at-motegi/1145011",
-      "series": "Moto3",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Almansa makes stunning last stand to deny Quiles at Motegi",
-          "summary": "They duked it out again but unlike at Misano, it went the way of the #22 who moves back into P2 overall whilst Quiles’ title celebrations are put off for at least a week"
-        },
-        "es": {
-          "title": "Almansa firma una defensa espectacular y aplaza el título de Quiles en Motegi",
-          "summary": "Volvieron a enfrentarse, pero esta vez el #22 se llevó la victoria y recuperó el segundo puesto de la general; la celebración del título de Quiles tendrá que esperar al menos una semana."
         }
       }
     }
@@ -3185,7 +3127,7 @@
       }
     }
   },
-  "updatedAt": "2026-10-29T14:31:34.406680+00:00",
+  "updatedAt": "2026-10-30T14:23:05.681897+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3204,15 +3146,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-10-29T14:31:34.406680+00:00",
-    "Moto2": "2026-10-29T14:31:34.406680+00:00",
-    "Moto3": "2026-10-29T14:31:34.406680+00:00",
+    "MotoGP": "2026-10-30T14:23:05.681897+00:00",
+    "Moto2": "2026-10-30T14:23:05.681897+00:00",
+    "Moto3": "2026-10-30T14:23:05.681897+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-10-29T14:31:34.406680+00:00",
-    "F2": "2026-10-29T14:31:34.406680+00:00",
-    "F3": "2026-10-29T14:31:34.406680+00:00",
-    "WEC": "2026-10-29T14:31:34.406680+00:00"
+    "F1": "2026-10-30T14:23:05.681897+00:00",
+    "F2": "2026-10-30T14:23:05.681897+00:00",
+    "F3": "2026-10-30T14:23:05.681897+00:00",
+    "WEC": "2026-10-30T14:23:05.681897+00:00"
   },
-  "newsUpdatedAt": "2026-10-29T14:31:35.745170+00:00",
-  "newsCheckedAt": "2026-10-29T14:31:35.745170+00:00"
+  "newsUpdatedAt": "2026-10-30T14:23:07.100865+00:00",
+  "newsCheckedAt": "2026-10-30T14:23:07.100865+00:00"
 }
