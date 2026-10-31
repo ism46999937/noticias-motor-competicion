@@ -1,6 +1,62 @@
 {
   "news": [
     {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-10-31",
+      "title": "F1 - Leclerc continues to set the pace in Mexico ahead of Norris and Russell",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-leclerc-continues-set-pace-mexico-ahead-norris-and-russell"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Alex Marquez snatches Sepang pole from Marc Marquez by 0.070s",
+      "summary": "Acosta joins the Ducati duo on the front row in Malaysia as Bezzecchi gears up for a second-row start in the absence of teammate Martin",
+      "url": "https://www.motogp.com/en/news/2026/10/31/alex-marquez-snatches-sepang-pole-from-marc-marquez-by-0070s/1181621",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Martin withdraws: the #89 won’t take part in Malaysia",
+      "summary": "It was a heroic attempt, but the Aprilia Racing rider won’t be able to race at Sepang",
+      "url": "https://www.motogp.com/en/news/2026/10/31/martin-withdraws-the-89-wont-take-part-in-malaysia/1182474",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Quiles grabs pole at Sepang while Danish takes Malaysia’s first front row since 2012 in P3",
+      "summary": "The reigning Champion takes P1 at Sepang as Uriarte and Danish compete the front row",
+      "url": "https://www.motogp.com/en/news/2026/10/31/quiles-grabs-pole-at-sepang-while-danish-takes-malaysias-first-front-row-since-2012-in-p3/1181640",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-10-30",
+      "title": "F1 - 2026 Mexico City Grand Prix - Friday Press Conference Transcript",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-mexico-city-grand-prix-friday-press-conference-transcript"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-10-30",
+      "title": "F1 - Leclerc tops FP1 in Mexico City as F1 rookies get a chance to shine",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-leclerc-tops-fp1-mexico-city-f1-rookies-get-chance-shine"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Acosta denies Marc Marquez and Bezzecchi in tense Sprint showdown at Sepang",
+      "summary": "Gold goes to the Shark as wet-dry conditions in Malaysia see the front group get their elbows out – and Ogura just lose out",
+      "url": "https://www.motogp.com/en/news/2026/10/31/acosta-denies-marc-marquez-and-bezzecchi-in-tense-sprint-showdown-at-sepang/1181622",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "date": "2026-10-30",
       "title": "Marc Marquez top in Sepang on Friday despite crash, Martin ends Practice early",
       "summary": "Far from a smooth day of running for the defending World Champion but P1 nonetheless whereas arch-rival Martin called it a day early as he battles his broken wrist pain",
@@ -111,79 +167,6 @@
       "url": "https://www.motogp.com/en/news/2026/10/28/sepang-classics-the-best-of-the-malaysian-gp/761533",
       "series": "MotoGP",
       "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "HOT HEADLINES: momentum could be everything as MotoGP lands in Malaysia",
-      "summary": "More twists and turns await in the finely-poised battle for the crown as we arrive at fabulous Sepang",
-      "url": "https://www.motogp.com/en/news/2026/10/28/hot-headlines-momentum-could-be-everything-as-motogp-lands-in-malaysia/1181219",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "TIME SCHEDULE: Petronas Grand Prix of Malaysia",
-      "summary": "Ready for another weekend of title aspirations and unexpected twists? Find out the key times from Sepang!",
-      "url": "https://www.motogp.com/en/news/2026/10/28/time-schedule-petronas-grand-prix-of-malaysia/1181207",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "Tardozzi assesses 2026 title fight: \"He always surprises us\"",
-      "summary": "Unknowns, mentality and teamwork: find out what Davide Tardozzi has to say about the Championship picture ahead of Malaysia!",
-      "url": "https://www.motogp.com/en/news/2026/10/27/tardozzi-assesses-2026-title-fight-he-always-surprises-us/1181027",
-      "series": "MotoGP",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Tardozzi assesses 2026 title fight: \"He always surprises us\"",
-          "summary": "Unknowns, mentality and teamwork: find out what Davide Tardozzi has to say about the Championship picture ahead of Malaysia!"
-        },
-        "es": {
-          "title": "Tardozzi analiza la lucha por el título de 2026: «Siempre nos sorprende»",
-          "summary": "Incógnitas, mentalidad y trabajo en equipo: Davide Tardozzi analiza la situación del campeonato antes del Gran Premio de Malasia."
-        }
-      }
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-10-25",
-      "title": "F1 – Antonelli takes controlled COTA win ahead of Leclerc and Verstappen to close in on F1 Driver’s title",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-antonelli-takes-controlled-cota-win-ahead-leclerc-and-verstappen-close-f1-drivers-title",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "F1 – Antonelli takes controlled COTA win ahead of Leclerc and Verstappen to close in on F1 Driver’s title",
-          "summary": "Official headline from the series. Open the source link to read the full announcement."
-        },
-        "es": {
-          "title": "Antonelli controla la carrera de Austin y se acerca al título de F1, por delante de Leclerc y Verstappen",
-          "summary": "Kimi Antonelli logró una victoria calculada en el Circuito de las Américas y amplió su ventaja en la lucha por el campeonato de pilotos."
-        }
-      }
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-10-25",
-      "title": "F1 - 2026 United States Grand Prix Post-Race Press Conference Transcript",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-united-states-grand-prix-post-race-press-conference-transcript",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "F1 - 2026 United States Grand Prix Post-Race Press Conference Transcript",
-          "summary": "Official headline from the series. Open the source link to read the full announcement."
-        },
-        "es": {
-          "title": "F1: transcripción de la rueda de prensa posterior al Gran Premio de Estados Unidos de 2026",
-          "summary": "Transcripción oficial de la rueda de prensa posterior a la carrera del Gran Premio de Estados Unidos."
-        }
-      }
     },
     {
       "date": "2026-10-24",
@@ -372,44 +355,6 @@
         "es": {
           "title": "Uriarte deslumbra en Mandalika y los aspirantes al título copan la primera fila",
           "summary": "El debutante de Red Bull KTM Ajo logró su tercera pole del año por delante de Almansa y Carpe; Quiles, que podía cerrar el título, partirá sexto."
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Almansa perfect to kickstart Moto3 at Mandalika",
-      "summary": "FP1 and Practice on top, the #22 had a flying start to action in Indonesia",
-      "url": "https://www.motogp.com/en/news/2026/10/09/almansa-perfect-to-kickstart-moto3-at-mandalika/1174840",
-      "series": "Moto3",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Almansa perfect to kickstart Moto3 at Mandalika",
-          "summary": "FP1 and Practice on top, the #22 had a flying start to action in Indonesia"
-        },
-        "es": {
-          "title": "Almansa arranca Moto3 a la perfección en Mandalika",
-          "summary": "El #22 encabezó tanto los primeros libres como la práctica y comenzó con fuerza el fin de semana en Indonesia."
-        }
-      }
-    },
-    {
-      "date": "2026-10-07",
-      "title": "Quiles will become Moto3 World Champion if...",
-      "summary": "Quiles heads to Indonesia for his next chance at match point, but what does the #28 need to do to clinch the title?",
-      "url": "https://www.motogp.com/en/news/2026/10/07/quiles-will-become-moto3-world-champion-if/1098686",
-      "series": "Moto3",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Quiles will become Moto3 World Champion if...",
-          "summary": "Quiles heads to Indonesia for his next chance at match point, but what does the #28 need to do to clinch the title?"
-        },
-        "es": {
-          "title": "Quiles será campeón del mundo de Moto3 si…",
-          "summary": "Quiles llega a Indonesia con una nueva oportunidad de proclamarse campeón: estas son las combinaciones que necesita."
         }
       }
     }
@@ -802,7 +747,7 @@
           "position": 1,
           "name": "Marc Marquez",
           "team": "Ducati Lenovo Team",
-          "points": 365
+          "points": 374
         },
         {
           "position": 2,
@@ -814,25 +759,25 @@
           "position": 3,
           "name": "Marco Bezzecchi",
           "team": "Aprilia Racing",
-          "points": 315
+          "points": 322
         },
         {
           "position": 4,
           "name": "Pedro Acosta",
           "team": "Red Bull KTM Factory Racing",
-          "points": 263
+          "points": 275
         },
         {
           "position": 5,
           "name": "Ai Ogura",
           "team": "SuperFile Trackhouse MotoGP Team",
-          "points": 259
+          "points": 265
         },
         {
           "position": 6,
           "name": "Fabio Di Giannantonio",
           "team": "Pertamina Enduro VR46 Racing Team",
-          "points": 252
+          "points": 257
         },
         {
           "position": 7,
@@ -850,7 +795,7 @@
           "position": 9,
           "name": "Francesco Bagnaia",
           "team": "Ducati Lenovo Team",
-          "points": 166
+          "points": 170
         },
         {
           "position": 10,
@@ -862,25 +807,25 @@
           "position": 11,
           "name": "Enea Bastianini",
           "team": "Red Bull KTM Tech3",
-          "points": 122
+          "points": 123
         },
         {
           "position": 12,
-          "name": "Luca Marini",
-          "team": "Honda HRC Castrol",
-          "points": 108
+          "name": "Brad Binder",
+          "team": "Red Bull KTM Factory Racing",
+          "points": 111
         },
         {
           "position": 13,
-          "name": "Brad Binder",
-          "team": "Red Bull KTM Factory Racing",
+          "name": "Luca Marini",
+          "team": "Honda HRC Castrol",
           "points": 108
         },
         {
           "position": 14,
           "name": "Diogo Moreira",
           "team": "Pro Honda LCR",
-          "points": 76
+          "points": 78
         },
         {
           "position": 15,
@@ -966,25 +911,25 @@
           "position": 1,
           "name": "Aprilia Racing",
           "team": "Aprilia Racing",
-          "points": 670
+          "points": 677
         },
         {
           "position": 2,
           "name": "Ducati Lenovo Team",
           "team": "Ducati Lenovo Team",
-          "points": 531
+          "points": 544
         },
         {
           "position": 3,
           "name": "SuperFile Trackhouse MotoGP Team",
           "team": "SuperFile Trackhouse MotoGP Team",
-          "points": 495
+          "points": 501
         },
         {
           "position": 4,
           "name": "Red Bull KTM Factory Racing",
           "team": "Red Bull KTM Factory Racing",
-          "points": 371
+          "points": 386
         },
         {
           "position": 5,
@@ -996,7 +941,7 @@
           "position": 6,
           "name": "Pertamina Enduro VR46 Racing Team",
           "team": "Pertamina Enduro VR46 Racing Team",
-          "points": 311
+          "points": 316
         },
         {
           "position": 7,
@@ -1008,13 +953,13 @@
           "position": 8,
           "name": "Red Bull KTM Tech3",
           "team": "Red Bull KTM Tech3",
-          "points": 139
+          "points": 140
         },
         {
           "position": 9,
           "name": "LCR Honda",
           "team": "LCR Honda",
-          "points": 127
+          "points": 129
         },
         {
           "position": 10,
@@ -3127,7 +3072,7 @@
       }
     }
   },
-  "updatedAt": "2026-10-30T14:23:05.681897+00:00",
+  "updatedAt": "2026-10-31T13:45:08.747799+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3146,15 +3091,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-10-30T14:23:05.681897+00:00",
-    "Moto2": "2026-10-30T14:23:05.681897+00:00",
-    "Moto3": "2026-10-30T14:23:05.681897+00:00",
+    "MotoGP": "2026-10-31T13:45:08.747799+00:00",
+    "Moto2": "2026-10-31T13:45:08.747799+00:00",
+    "Moto3": "2026-10-31T13:45:08.747799+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-10-30T14:23:05.681897+00:00",
-    "F2": "2026-10-30T14:23:05.681897+00:00",
-    "F3": "2026-10-30T14:23:05.681897+00:00",
-    "WEC": "2026-10-30T14:23:05.681897+00:00"
+    "F1": "2026-10-31T13:45:08.747799+00:00",
+    "F2": "2026-10-31T13:45:08.747799+00:00",
+    "F3": "2026-10-31T13:45:08.747799+00:00",
+    "WEC": "2026-10-31T13:45:08.747799+00:00"
   },
-  "newsUpdatedAt": "2026-10-30T14:23:07.100865+00:00",
-  "newsCheckedAt": "2026-10-30T14:23:07.100865+00:00"
+  "newsUpdatedAt": "2026-10-31T13:45:10.262329+00:00",
+  "newsCheckedAt": "2026-10-31T13:45:10.262329+00:00"
 }
