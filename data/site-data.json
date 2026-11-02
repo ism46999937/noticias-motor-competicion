@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-02",
+      "title": "F1 - 2026 Mexico City Grand Prix Post-Race & World Champion's Press Conference Transcript",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-mexico-city-grand-prix-post-race-world-champions-press-conference-transcript"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Talking Points: \"I will fight until the end\"",
+      "summary": "Dive into some of the biggest takeaways from an important and historic visit to Malaysia!",
+      "url": "https://www.motogp.com/en/news/2026/11/02/malaysiangp-talking-points/1183575",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-01",
+      "title": "F1 – Antonelli crowned F1’s youngest World Champion as Verstappen wins in Mexico City",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-antonelli-crowned-f1s-youngest-world-champion-verstappen-wins-mexico-city"
+    },
+    {
       "date": "2026-11-01",
       "title": "Statements from Yamaha Motor Co., Ltd. & MotoGP Group",
       "summary": "The full statements published on Sunday of the Malaysian GP",
@@ -145,14 +169,6 @@
       "source": "MotoGP.com"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-10-29",
-      "title": "F1 - 2026 Mexico City Grand Prix - Thursday Press Conference Transcript",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-mexico-city-grand-prix-thursday-press-conference-transcript"
-    },
-    {
       "date": "2026-10-29",
       "title": "MEDIA DAY DISPATCH: MotoGP opens with a bang at Sepang",
       "summary": "Our first catch-up with Jorge Martin post-crash, the Championship pendulum swinging and Malaysia ever-inclement weather make Round 19 more unpredictable than ever",
@@ -165,14 +181,6 @@
       "title": "Mir & Marini both fit to race",
       "summary": "Honda HRC Castrol welcome the #36 back from a longer layoff as the #10 likewise returns to the saddle after missing Australia",
       "url": "https://www.motogp.com/en/news/2026/10/29/mir-and-marini-fit-for-sepang/1181611",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-29",
-      "title": "Martin given green light to take part in Malaysia Free Practice 1",
-      "summary": "The 2024 World Champion, six days after fracturing his wrist in Australia, will be reviewed again after the opening session of the weekend in Sepang",
-      "url": "https://www.motogp.com/en/news/2026/10/29/martin-given-green-light-to-take-part-in-free-practice-1/1181608",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -1564,43 +1572,43 @@
           "position": 1,
           "name": "Andrea Kimi Antonelli",
           "team": "Mercedes",
-          "points": 365.0
+          "points": 380.0
         },
         {
           "position": 2,
-          "name": "George Russell",
-          "team": "Mercedes",
-          "points": 242.0
+          "name": "Max Verstappen",
+          "team": "Red Bull",
+          "points": 261.0
         },
         {
           "position": 3,
           "name": "Lewis Hamilton",
           "team": "Ferrari",
-          "points": 241.0
+          "points": 259.0
         },
         {
           "position": 4,
-          "name": "Max Verstappen",
-          "team": "Red Bull",
-          "points": 236.0
+          "name": "George Russell",
+          "team": "Mercedes",
+          "points": 250.0
         },
         {
           "position": 5,
           "name": "Charles Leclerc",
           "team": "Ferrari",
-          "points": 233.0
+          "points": 245.0
         },
         {
           "position": 6,
           "name": "Lando Norris",
           "team": "McLaren",
-          "points": 211.0
+          "points": 221.0
         },
         {
           "position": 7,
           "name": "Oscar Piastri",
           "team": "McLaren",
-          "points": 144.0
+          "points": 150.0
         },
         {
           "position": 8,
@@ -1612,13 +1620,13 @@
           "position": 9,
           "name": "Liam Lawson",
           "team": "RB F1 Team",
-          "points": 77.0
+          "points": 79.0
         },
         {
           "position": 10,
           "name": "Pierre Gasly",
           "team": "Alpine F1 Team",
-          "points": 42.0
+          "points": 43.0
         },
         {
           "position": 11,
@@ -1630,7 +1638,7 @@
           "position": 12,
           "name": "Franco Colapinto",
           "team": "Alpine F1 Team",
-          "points": 27.0
+          "points": 31.0
         },
         {
           "position": 13,
@@ -1694,14 +1702,14 @@
         },
         {
           "position": 23,
-          "name": "Sergio Pérez",
-          "team": "Cadillac F1 Team",
+          "name": "Ryo Hirakawa",
+          "team": "Haas F1 Team",
           "points": 0
         },
         {
           "position": 24,
-          "name": "Ryo Hirakawa",
-          "team": "Haas F1 Team",
+          "name": "Sergio Pérez",
+          "team": "Cadillac F1 Team",
           "points": 0
         }
       ],
@@ -1710,37 +1718,37 @@
           "position": 1,
           "name": "Mercedes",
           "team": "German",
-          "points": 607.0
+          "points": 630.0
         },
         {
           "position": 2,
           "name": "Ferrari",
           "team": "Italian",
-          "points": 474.0
+          "points": 504.0
         },
         {
           "position": 3,
           "name": "Red Bull",
           "team": "Austrian",
-          "points": 355.0
+          "points": 380.0
         },
         {
           "position": 4,
           "name": "McLaren",
           "team": "British",
-          "points": 355.0
+          "points": 371.0
         },
         {
           "position": 5,
           "name": "RB F1 Team",
           "team": "Italian",
-          "points": 102.0
+          "points": 104.0
         },
         {
           "position": 6,
           "name": "Alpine F1 Team",
           "team": "French",
-          "points": 69.0
+          "points": 74.0
         },
         {
           "position": 7,
@@ -3073,7 +3081,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-01T14:23:21.180064+00:00",
+  "updatedAt": "2026-11-02T17:16:19.090206+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3092,15 +3100,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-01T14:23:21.180064+00:00",
-    "Moto2": "2026-11-01T14:23:21.180064+00:00",
-    "Moto3": "2026-11-01T14:23:21.180064+00:00",
+    "MotoGP": "2026-11-02T17:16:19.090206+00:00",
+    "Moto2": "2026-11-02T17:16:19.090206+00:00",
+    "Moto3": "2026-11-02T17:16:19.090206+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-01T14:23:21.180064+00:00",
-    "F2": "2026-11-01T14:23:21.180064+00:00",
-    "F3": "2026-11-01T14:23:21.180064+00:00",
-    "WEC": "2026-11-01T14:23:21.180064+00:00"
+    "F1": "2026-11-02T17:16:19.090206+00:00",
+    "F2": "2026-11-02T17:16:19.090206+00:00",
+    "F3": "2026-11-02T17:16:19.090206+00:00",
+    "WEC": "2026-11-02T17:16:19.090206+00:00"
   },
-  "newsUpdatedAt": "2026-11-01T14:23:22.822455+00:00",
-  "newsCheckedAt": "2026-11-01T14:23:22.822455+00:00"
+  "newsUpdatedAt": "2026-11-02T17:16:20.221529+00:00",
+  "newsCheckedAt": "2026-11-02T17:16:20.221529+00:00"
 }
