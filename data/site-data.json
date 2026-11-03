@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "series": "WEC",
+      "source": "FIA",
+      "date": "2026-11-03",
+      "title": "WEC: High speeds and high stakes in Monza season finale",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/wec-high-speeds-and-high-stakes-monza-season-finale"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Alex Marquez undergoes successful surgery in Madrid",
+      "summary": "The BK8 Gresini Racing MotoGP rider has confirmed that he has undergone successful surgery in Madrid",
+      "url": "https://www.motogp.com/en/news/2026/11/03/alex-marquez-undergoes-successful-surgery-in-madrid/1183760",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "series": "F1",
       "source": "FIA",
       "date": "2026-11-02",
@@ -97,22 +113,6 @@
       "source": "MotoGP.com"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-10-30",
-      "title": "F1 - 2026 Mexico City Grand Prix - Friday Press Conference Transcript",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-mexico-city-grand-prix-friday-press-conference-transcript"
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-10-30",
-      "title": "F1 - Leclerc tops FP1 in Mexico City as F1 rookies get a chance to shine",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-leclerc-tops-fp1-mexico-city-f1-rookies-get-chance-shine"
-    },
-    {
       "date": "2026-10-30",
       "title": "Acosta denies Marc Marquez and Bezzecchi in tense Sprint showdown at Sepang",
       "summary": "Gold goes to the Shark as wet-dry conditions in Malaysia see the front group get their elbows out – and Ogura just lose out",
@@ -173,14 +173,6 @@
       "title": "MEDIA DAY DISPATCH: MotoGP opens with a bang at Sepang",
       "summary": "Our first catch-up with Jorge Martin post-crash, the Championship pendulum swinging and Malaysia ever-inclement weather make Round 19 more unpredictable than ever",
       "url": "https://www.motogp.com/en/news/2026/10/29/media-day-dispatch-motogp-opens-with-a-bang-at-sepang/1181618",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-29",
-      "title": "Mir & Marini both fit to race",
-      "summary": "Honda HRC Castrol welcome the #36 back from a longer layoff as the #10 likewise returns to the saddle after missing Australia",
-      "url": "https://www.motogp.com/en/news/2026/10/29/mir-and-marini-fit-for-sepang/1181611",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -257,25 +249,6 @@
         "es": {
           "title": "Alineación de Moto3 2027: los fichajes confirmados hasta ahora",
           "summary": "Repasamos los fichajes y acuerdos confirmados que empiezan a definir la parrilla de Moto3 para 2027."
-        }
-      }
-    },
-    {
-      "series": "WEC",
-      "source": "FIA",
-      "date": "2026-10-18",
-      "title": "WEC: Toyota masters mixed conditions to clinch the crown in Spain",
-      "summary": "Official headline from the series. Open the source link to read the full announcement.",
-      "url": "https://www.fia.com/news/wec-toyota-masters-mixed-conditions-clinch-crown-spain",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "WEC: Toyota masters mixed conditions to clinch the crown in Spain",
-          "summary": "Official headline from the series. Open the source link to read the full announcement."
-        },
-        "es": {
-          "title": "WEC: Toyota domina las condiciones cambiantes y conquista el título en España",
-          "summary": "Toyota aprovechó las condiciones variables para asegurar el campeonato de constructores en las 6 Horas de Barcelona."
         }
       }
     },
@@ -1608,25 +1581,25 @@
           "position": 7,
           "name": "Oscar Piastri",
           "team": "McLaren",
-          "points": 150.0
+          "points": 144.0
         },
         {
           "position": 8,
           "name": "Isack Hadjar",
           "team": "Red Bull",
-          "points": 105.0
+          "points": 107.0
         },
         {
           "position": 9,
           "name": "Liam Lawson",
           "team": "RB F1 Team",
-          "points": 79.0
+          "points": 83.0
         },
         {
           "position": 10,
           "name": "Pierre Gasly",
           "team": "Alpine F1 Team",
-          "points": 43.0
+          "points": 42.0
         },
         {
           "position": 11,
@@ -1638,7 +1611,7 @@
           "position": 12,
           "name": "Franco Colapinto",
           "team": "Alpine F1 Team",
-          "points": 31.0
+          "points": 27.0
         },
         {
           "position": 13,
@@ -1648,15 +1621,15 @@
         },
         {
           "position": 14,
-          "name": "Nico Hülkenberg",
+          "name": "Gabriel Bortoleto",
           "team": "Audi",
-          "points": 13.0
+          "points": 14.0
         },
         {
           "position": 15,
-          "name": "Gabriel Bortoleto",
+          "name": "Nico Hülkenberg",
           "team": "Audi",
-          "points": 10.0
+          "points": 13.0
         },
         {
           "position": 16,
@@ -1690,20 +1663,20 @@
         },
         {
           "position": 21,
+          "name": "Ryo Hirakawa",
+          "team": "Haas F1 Team",
+          "points": 1.0
+        },
+        {
+          "position": 22,
           "name": "Lance Stroll",
           "team": "Aston Martin",
           "points": 0
         },
         {
-          "position": 22,
+          "position": 23,
           "name": "Valtteri Bottas",
           "team": "Cadillac F1 Team",
-          "points": 0
-        },
-        {
-          "position": 23,
-          "name": "Ryo Hirakawa",
-          "team": "Haas F1 Team",
           "points": 0
         },
         {
@@ -1730,37 +1703,37 @@
           "position": 3,
           "name": "Red Bull",
           "team": "Austrian",
-          "points": 380.0
+          "points": 382.0
         },
         {
           "position": 4,
           "name": "McLaren",
           "team": "British",
-          "points": 371.0
+          "points": 365.0
         },
         {
           "position": 5,
           "name": "RB F1 Team",
           "team": "Italian",
-          "points": 104.0
+          "points": 108.0
         },
         {
           "position": 6,
           "name": "Alpine F1 Team",
           "team": "French",
-          "points": 74.0
+          "points": 69.0
         },
         {
           "position": 7,
           "name": "Haas F1 Team",
           "team": "American",
-          "points": 30.0
+          "points": 31.0
         },
         {
           "position": 8,
           "name": "Audi",
           "team": "German",
-          "points": 23.0
+          "points": 27.0
         },
         {
           "position": 9,
@@ -3081,7 +3054,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-02T17:16:19.090206+00:00",
+  "updatedAt": "2026-11-03T15:23:01.919629+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3100,15 +3073,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-02T17:16:19.090206+00:00",
-    "Moto2": "2026-11-02T17:16:19.090206+00:00",
-    "Moto3": "2026-11-02T17:16:19.090206+00:00",
+    "MotoGP": "2026-11-03T15:23:01.919629+00:00",
+    "Moto2": "2026-11-03T15:23:01.919629+00:00",
+    "Moto3": "2026-11-03T15:23:01.919629+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-02T17:16:19.090206+00:00",
-    "F2": "2026-11-02T17:16:19.090206+00:00",
-    "F3": "2026-11-02T17:16:19.090206+00:00",
-    "WEC": "2026-11-02T17:16:19.090206+00:00"
+    "F1": "2026-11-03T15:23:01.919629+00:00",
+    "F2": "2026-11-03T15:23:01.919629+00:00",
+    "F3": "2026-11-03T15:23:01.919629+00:00",
+    "WEC": "2026-11-03T15:23:01.919629+00:00"
   },
-  "newsUpdatedAt": "2026-11-02T17:16:20.221529+00:00",
-  "newsCheckedAt": "2026-11-02T17:16:20.221529+00:00"
+  "newsUpdatedAt": "2026-11-03T15:23:03.230110+00:00",
+  "newsCheckedAt": "2026-11-03T15:23:03.230110+00:00"
 }
