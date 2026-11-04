@@ -1,12 +1,44 @@
 {
   "news": [
     {
+      "date": "2026-11-04",
+      "title": "Lusail classics: the best of the Qatar GP",
+      "summary": "A venue that has seen careers begin, stories written and last-lap deciders, 2026 promises to deliver the next chapter",
+      "url": "https://www.motogp.com/en/news/2026/11/04/lusail-classics-the-best-of-the-qatar-gp/523304",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "HOT HEADLINES: match point for Marc Marquez as MotoGP arrives at Lusail",
+      "summary": "The classic night GP could well culminate in a coronation as Round 20 gets into gear",
+      "url": "https://www.motogp.com/en/news/2026/11/04/hot-headlines-match-point-for-marc-marquez-as-motogp-arrives-at-lusail/1183615",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "TIME SCHEDULE: Qatar Airways Grand Prix of Qatar",
+      "summary": "Make sure you know all the must-know times ahead of a potential title-deciding weekend in Qatar!",
+      "url": "https://www.motogp.com/en/news/2026/11/04/time-schedule-qatar-airways-grand-prix-of-qatar/1183614",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "series": "WEC",
       "source": "FIA",
       "date": "2026-11-03",
       "title": "WEC: High speeds and high stakes in Monza season finale",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
       "url": "https://www.fia.com/news/wec-high-speeds-and-high-stakes-monza-season-finale"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Aldeguer set for return as Lecuona replaces Alex Marquez in Qatar",
+      "summary": "Fermin Aldeguer is set to return to the grid this weekend, while Iker Lecuona continues his stint with BK8 Gresini Racing MotoGP",
+      "url": "https://www.motogp.com/en/news/2026/11/03/aldeguer-set-for-return-as-lecuona-replaces-alex-marquez-in-qatar/1183958",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
     },
     {
       "date": "2026-11-03",
@@ -130,30 +162,6 @@
     },
     {
       "date": "2026-10-30",
-      "title": "The fight goes on: Martin officially fit to race in Malaysia",
-      "summary": "After his review on Friday morning, the #89 has been passed fit to race in Sepang",
-      "url": "https://www.motogp.com/en/news/2026/10/30/the-fight-goes-on-martin-officially-fit-to-race-in-malaysia/1181918",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "Raul Fernandez sidelined from Sepang",
-      "summary": "The #25 won’t be taking part in the rest of the Malaysian GP as he continues to suffer with his fingers, broken in Lombok",
-      "url": "https://www.motogp.com/en/news/2026/10/30/raul-fernandez-sidelined-from-sepang/1181916",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "Marc Marquez leads Bezzecchi and Acosta in FP1, injured Martin completes 12 laps",
-      "summary": "The championship leader heads into Practice 0.4s clear of the Aprilia and KTM stars, while the #89 finishes 1.8s off the pace in a promising start to the Malaysian GP",
-      "url": "https://www.motogp.com/en/news/2026/10/30/marc-marquez-leads-bezzecchi-and-acosta-in-fp1-injured-martin-completes-12-laps/1181619",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-30",
       "title": "Gonzalez collects Friday P1 as big hitters miss Q2 cut in Sepang",
       "summary": "A crash in FP1 was backed up by an impressive Practice top spot display from the Moto2 title race leader in Malaysia, with title rival Guevara fourth fastest",
       "url": "https://www.motogp.com/en/news/2026/10/30/gonzalez-collects-friday-p1-as-big-hitters-miss-q2-cut-in-sepang/1181623",
@@ -166,14 +174,6 @@
       "summary": "It was business as usual on Friday for the rider currently P2 in the standings whilst the home crowd will be cheering on Danish’s strong start",
       "url": "https://www.motogp.com/en/news/2026/10/30/almansa-soars-to-sepang-p1-on-friday-home-star-danish-fourth/1181639",
       "series": "Moto3",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-29",
-      "title": "MEDIA DAY DISPATCH: MotoGP opens with a bang at Sepang",
-      "summary": "Our first catch-up with Jorge Martin post-crash, the Championship pendulum swinging and Malaysia ever-inclement weather make Round 19 more unpredictable than ever",
-      "url": "https://www.motogp.com/en/news/2026/10/29/media-day-dispatch-motogp-opens-with-a-bang-at-sepang/1181618",
-      "series": "MotoGP",
       "source": "MotoGP.com"
     },
     {
@@ -3054,7 +3054,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-03T15:23:01.919629+00:00",
+  "updatedAt": "2026-11-04T15:36:14.162513+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3073,15 +3073,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-03T15:23:01.919629+00:00",
-    "Moto2": "2026-11-03T15:23:01.919629+00:00",
-    "Moto3": "2026-11-03T15:23:01.919629+00:00",
+    "MotoGP": "2026-11-04T15:36:14.162513+00:00",
+    "Moto2": "2026-11-04T15:36:14.162513+00:00",
+    "Moto3": "2026-11-04T15:36:14.162513+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-03T15:23:01.919629+00:00",
-    "F2": "2026-11-03T15:23:01.919629+00:00",
-    "F3": "2026-11-03T15:23:01.919629+00:00",
-    "WEC": "2026-11-03T15:23:01.919629+00:00"
+    "F1": "2026-11-04T15:36:14.162513+00:00",
+    "F2": "2026-11-04T15:36:14.162513+00:00",
+    "F3": "2026-11-04T15:36:14.162513+00:00",
+    "WEC": "2026-11-04T15:36:14.162513+00:00"
   },
-  "newsUpdatedAt": "2026-11-03T15:23:03.230110+00:00",
-  "newsCheckedAt": "2026-11-03T15:23:03.230110+00:00"
+  "newsUpdatedAt": "2026-11-04T15:36:15.436057+00:00",
+  "newsCheckedAt": "2026-11-04T15:36:15.436057+00:00"
 }
