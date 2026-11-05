@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "date": "2026-11-05",
+      "title": "Dixon to step in for Mir at Qatar Grand Prix",
+      "summary": "The Honda HRC WorldSBK star will line up alongside Marini in Lusail while the 2020 World Champion continues his recovery at home",
+      "url": "https://www.motogp.com/en/news/2026/11/05/dixon-to-step-in-for-mir-at-qatar-grand-prix/1184152",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-04",
+      "title": "F1 - 2026 São Paulo Grand Prix Preview",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-preview"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-04",
+      "title": "F1 - 2026 São Paulo GP Schedule of Press Conferences",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-sao-paulo-gp-schedule-press-conferences-0"
+    },
+    {
       "date": "2026-11-04",
       "title": "Lusail classics: the best of the Qatar GP",
       "summary": "A venue that has seen careers begin, stories written and last-lap deciders, 2026 promises to deliver the next chapter",
@@ -97,30 +121,6 @@
       "source": "MotoGP.com"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-10-31",
-      "title": "F1 – Hamilton claims first Ferrari pole position in thrilling Mexico City qualifying",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-hamilton-claims-first-ferrari-pole-position-thrilling-mexico-city-qualifying"
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-10-31",
-      "title": "F1 - 2026 Mexico City Grand Prix Post - Qualifying Press Conference Transcript",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-mexico-city-grand-prix-post-qualifying-press-conference-transcript"
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-10-31",
-      "title": "F1 - Leclerc continues to set the pace in Mexico ahead of Norris and Russell",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-leclerc-continues-set-pace-mexico-ahead-norris-and-russell"
-    },
-    {
       "date": "2026-10-31",
       "title": "Alex Marquez snatches Sepang pole from Marc Marquez by 0.070s",
       "summary": "Acosta joins the Ducati duo on the front row in Malaysia as Bezzecchi gears up for a second-row start in the absence of teammate Martin",
@@ -149,14 +149,6 @@
       "title": "Acosta denies Marc Marquez and Bezzecchi in tense Sprint showdown at Sepang",
       "summary": "Gold goes to the Shark as wet-dry conditions in Malaysia see the front group get their elbows out – and Ogura just lose out",
       "url": "https://www.motogp.com/en/news/2026/10/31/acosta-denies-marc-marquez-and-bezzecchi-in-tense-sprint-showdown-at-sepang/1181622",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "Marc Marquez top in Sepang on Friday despite crash, Martin ends Practice early",
-      "summary": "Far from a smooth day of running for the defending World Champion but P1 nonetheless whereas arch-rival Martin called it a day early as he battles his broken wrist pain",
-      "url": "https://www.motogp.com/en/news/2026/10/30/marc-marquez-top-in-sepang-on-friday-despite-crash-martin-ends-practice-early/1181620",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -3054,7 +3046,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-04T15:36:14.162513+00:00",
+  "updatedAt": "2026-11-05T15:38:56.942444+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3073,15 +3065,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-04T15:36:14.162513+00:00",
-    "Moto2": "2026-11-04T15:36:14.162513+00:00",
-    "Moto3": "2026-11-04T15:36:14.162513+00:00",
+    "MotoGP": "2026-11-05T15:38:56.942444+00:00",
+    "Moto2": "2026-11-05T15:38:56.942444+00:00",
+    "Moto3": "2026-11-05T15:38:56.942444+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-04T15:36:14.162513+00:00",
-    "F2": "2026-11-04T15:36:14.162513+00:00",
-    "F3": "2026-11-04T15:36:14.162513+00:00",
-    "WEC": "2026-11-04T15:36:14.162513+00:00"
+    "F1": "2026-11-05T15:38:56.942444+00:00",
+    "F2": "2026-11-05T15:38:56.942444+00:00",
+    "F3": "2026-11-05T15:38:56.942444+00:00",
+    "WEC": "2026-11-05T15:38:56.942444+00:00"
   },
-  "newsUpdatedAt": "2026-11-04T15:36:15.436057+00:00",
-  "newsCheckedAt": "2026-11-04T15:36:15.436057+00:00"
+  "newsUpdatedAt": "2026-11-05T15:38:58.076377+00:00",
+  "newsCheckedAt": "2026-11-05T15:38:58.076377+00:00"
 }
