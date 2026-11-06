@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "date": "2026-11-06",
+      "title": "Marc Marquez fastest from Bezzecchi, Martin P5 in Qatar FP1",
+      "summary": "The championship leader kickstarts his weekend in fine fashion while it’s a promising start at Lusail for his closest title rival",
+      "url": "https://www.motogp.com/en/news/2026/11/06/marc-marquez-fastest-from-bezzecchi-martin-p5-in-qatar-fp1/1184247",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-05",
+      "title": "F1 - 2026 São Paulo Grand Prix - Thursday Press Conference Transcript",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-thursday-press-conference-transcript"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "MEDIA DAY DISPATCH: Lusail lights on as MotoGP readies for lights out in Qatar",
+      "summary": "A match-point weekend and the chance to set new records as Round 20 gets set to bring a Qatar cracker",
+      "url": "https://www.motogp.com/en/news/2026/11/05/media-day-dispatch-lusail-lights-on-as-motogp-readies-for-lights-out-in-qatar/1184257",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "date": "2026-11-05",
       "title": "Dixon to step in for Mir at Qatar Grand Prix",
       "summary": "The Honda HRC WorldSBK star will line up alongside Marini in Lusail while the 2020 World Champion continues his recovery at home",
@@ -73,28 +97,12 @@
       "source": "MotoGP.com"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-02",
-      "title": "F1 - 2026 Mexico City Grand Prix Post-Race & World Champion's Press Conference Transcript",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-mexico-city-grand-prix-post-race-world-champions-press-conference-transcript"
-    },
-    {
       "date": "2026-11-02",
       "title": "Talking Points: \"I will fight until the end\"",
       "summary": "Dive into some of the biggest takeaways from an important and historic visit to Malaysia!",
       "url": "https://www.motogp.com/en/news/2026/11/02/malaysiangp-talking-points/1183575",
       "series": "MotoGP",
       "source": "MotoGP.com"
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-01",
-      "title": "F1 – Antonelli crowned F1’s youngest World Champion as Verstappen wins in Mexico City",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-antonelli-crowned-f1s-youngest-world-champion-verstappen-wins-mexico-city"
     },
     {
       "date": "2026-11-01",
@@ -130,26 +138,10 @@
     },
     {
       "date": "2026-10-31",
-      "title": "Martin withdraws: the #89 won’t take part in Malaysia",
-      "summary": "It was a heroic attempt, but the Aprilia Racing rider won’t be able to race at Sepang",
-      "url": "https://www.motogp.com/en/news/2026/10/31/martin-withdraws-the-89-wont-take-part-in-malaysia/1182474",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-31",
       "title": "Quiles grabs pole at Sepang while Danish takes Malaysia’s first front row since 2012 in P3",
       "summary": "The reigning Champion takes P1 at Sepang as Uriarte and Danish compete the front row",
       "url": "https://www.motogp.com/en/news/2026/10/31/quiles-grabs-pole-at-sepang-while-danish-takes-malaysias-first-front-row-since-2012-in-p3/1181640",
       "series": "Moto3",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "Acosta denies Marc Marquez and Bezzecchi in tense Sprint showdown at Sepang",
-      "summary": "Gold goes to the Shark as wet-dry conditions in Malaysia see the front group get their elbows out – and Ogura just lose out",
-      "url": "https://www.motogp.com/en/news/2026/10/31/acosta-denies-marc-marquez-and-bezzecchi-in-tense-sprint-showdown-at-sepang/1181622",
-      "series": "MotoGP",
       "source": "MotoGP.com"
     },
     {
@@ -1037,7 +1029,7 @@
         },
         {
           "position": 17,
-          "name": "Deniz öncü",
+          "name": "Deniz Öncü",
           "team": "ELF Marc VDS Racing Team",
           "points": 47.5
         },
@@ -3046,7 +3038,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-05T15:38:56.942444+00:00",
+  "updatedAt": "2026-11-06T15:13:56.312306+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3065,15 +3057,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-05T15:38:56.942444+00:00",
-    "Moto2": "2026-11-05T15:38:56.942444+00:00",
-    "Moto3": "2026-11-05T15:38:56.942444+00:00",
+    "MotoGP": "2026-11-06T15:13:56.312306+00:00",
+    "Moto2": "2026-11-06T15:13:56.312306+00:00",
+    "Moto3": "2026-11-06T15:13:56.312306+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-05T15:38:56.942444+00:00",
-    "F2": "2026-11-05T15:38:56.942444+00:00",
-    "F3": "2026-11-05T15:38:56.942444+00:00",
-    "WEC": "2026-11-05T15:38:56.942444+00:00"
+    "F1": "2026-11-06T15:13:56.312306+00:00",
+    "F2": "2026-11-06T15:13:56.312306+00:00",
+    "F3": "2026-11-06T15:13:56.312306+00:00",
+    "WEC": "2026-11-06T15:13:56.312306+00:00"
   },
-  "newsUpdatedAt": "2026-11-05T15:38:58.076377+00:00",
-  "newsCheckedAt": "2026-11-05T15:38:58.076377+00:00"
+  "newsUpdatedAt": "2026-11-06T15:13:57.917180+00:00",
+  "newsCheckedAt": "2026-11-06T15:13:57.917180+00:00"
 }
