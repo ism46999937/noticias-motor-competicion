@@ -1,11 +1,67 @@
 {
   "news": [
     {
+      "date": "2026-11-07",
+      "title": "Bezzecchi smashes lap record to deny Marquez, Martin P11",
+      "summary": "The #72 takes pole as he makes a final stand – with Marquez second and Diggia locking out the front row at Lusail",
+      "url": "https://www.motogp.com/en/news/2026/11/07/bezzecchi-smashes-lap-record-to-deny-marquez-martin-p11/1184251",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-06",
+      "title": "F1 – Antonelli leads Norris and Verstappen in São Paulo FP2",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-antonelli-leads-norris-and-verstappen-sao-paulo-fp2"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-06",
+      "title": "F1 – Norris leads Antonelli and Verstappen in São Paulo opening practice",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-norris-leads-antonelli-and-verstappen-sao-paulo-opening-practice"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-06",
+      "title": "F1 - 2026 São Paulo Grand Prix - Friday Press Conference Transcript",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-friday-press-conference-transcript"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Di Giannantonio P1 under the lights at Lusail, Marquez and Martin in Q2",
+      "summary": "The Italian set a new lap record for Practice honours whilst the top two in the Championship will be going head-to-head on Saturday",
+      "url": "https://www.motogp.com/en/news/2026/11/06/di-giannantonio-p1-under-the-lights-at-lusail-marquez-and-martin-in-q2/1184250",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "date": "2026-11-06",
       "title": "Marc Marquez fastest from Bezzecchi, Martin P5 in Qatar FP1",
       "summary": "The championship leader kickstarts his weekend in fine fashion while it’s a promising start at Lusail for his closest title rival",
       "url": "https://www.motogp.com/en/news/2026/11/06/marc-marquez-fastest-from-bezzecchi-martin-p5-in-qatar-fp1/1184247",
       "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Holgado sets Lusail Moto2 lap record, Guevara and Gonzalez straight into Q2",
+      "summary": "The 1:55s barrier has entered the Moto2 chat in Qatar as the title-chasing duo enjoy a successful Friday evening under the lights",
+      "url": "https://www.motogp.com/en/news/2026/11/06/holgado-sets-lusail-moto2-lap-record-guevara-and-gonzalez-safely-into-q2/1184243",
+      "series": "Moto2",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Quiles heads Almansa in Moto3 Practice, Carpe and Uriarte in Q1 in Qatar",
+      "summary": "The World Champion was in unbeatable form to take a Friday clean sweep whilst two of the riders fighting for P2 overall find themselves in Q1 at Lusail",
+      "url": "https://www.motogp.com/en/news/2026/11/06/m3-qat-pr-report/1184240",
+      "series": "Moto3",
       "source": "MotoGP.com"
     },
     {
@@ -114,26 +170,10 @@
     },
     {
       "date": "2026-11-01",
-      "title": "Masterclass: Marc Marquez marches to Malaysia victory to earn 2026 match point",
-      "summary": "The #93, in the absence of Martin, inflicts maximum championship damage to take a giant stride towards the title as Acosta and Alex Marquez complete the Sepang rostrum",
-      "url": "https://www.motogp.com/en/news/2026/11/01/masterclass-marc-marquez-marches-to-malaysia-victory-to-earn-2026-match-point/1179524",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-01",
       "title": "Quiles takes 11th win of 2026, Danish denied home podium in fourth",
       "summary": "A commanding victory for the World Champion but the big battle for the home crowd was for a podium",
       "url": "https://www.motogp.com/en/news/2026/11/01/m3-mal-rac-report/1179528",
       "series": "Moto3",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "Alex Marquez snatches Sepang pole from Marc Marquez by 0.070s",
-      "summary": "Acosta joins the Ducati duo on the front row in Malaysia as Bezzecchi gears up for a second-row start in the absence of teammate Martin",
-      "url": "https://www.motogp.com/en/news/2026/10/31/alex-marquez-snatches-sepang-pole-from-marc-marquez-by-0070s/1181621",
-      "series": "MotoGP",
       "source": "MotoGP.com"
     },
     {
@@ -271,44 +311,6 @@
         "es": {
           "title": "Máximo Quiles: conoce al campeón del mundo de Moto3 2026",
           "summary": "El #28 selló el título con una victoria. Conoce al nuevo campeón de Moto3 y futuro piloto de Moto2 tras una temporada histórica."
-        }
-      }
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Quiles crowned Moto3 World Champion with Mandalika victory",
-      "summary": "The sensational 18-year-old is the latest young talent to life the World Championship with a stunning five rounds to spare",
-      "url": "https://www.motogp.com/en/news/2026/10/11/quiles-crowned-moto3-world-champion-with-mandalika-victory/1174842",
-      "series": "Moto3",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Quiles crowned Moto3 World Champion with Mandalika victory",
-          "summary": "The sensational 18-year-old is the latest young talent to life the World Championship with a stunning five rounds to spare"
-        },
-        "es": {
-          "title": "Quiles se proclama campeón del mundo de Moto3 con su victoria en Mandalika",
-          "summary": "El joven de 18 años se convirtió en el nuevo campeón del mundo tras una gran victoria, con cinco rondas aún por disputarse."
-        }
-      }
-    },
-    {
-      "date": "2026-10-10",
-      "title": "Guevara soars to incredible Indonesia pole, title rival Gonzalez P10",
-      "summary": "The first-ever 1:31 Moto2 lap time was slammed home in a Mandalika qualifying stunner that has big championship implications",
-      "url": "https://www.motogp.com/en/news/2026/10/10/guevara-soars-to-incredible-indonesia-pole-title-rival-gonzalez-p10/1174844",
-      "series": "Moto2",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Guevara soars to incredible Indonesia pole, title rival Gonzalez P10",
-          "summary": "The first-ever 1:31 Moto2 lap time was slammed home in a Mandalika qualifying stunner that has big championship implications"
-        },
-        "es": {
-          "title": "Guevara vuela hacia una pole increíble en Indonesia y su rival por el título, González, saldrá décimo",
-          "summary": "El piloto marcó el primer tiempo de Moto2 por debajo de 1:31 en una clasificación espectacular con importantes consecuencias para el campeonato."
         }
       }
     }
@@ -3038,7 +3040,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-06T15:13:56.312306+00:00",
+  "updatedAt": "2026-11-07T14:13:28.911248+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3057,15 +3059,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-06T15:13:56.312306+00:00",
-    "Moto2": "2026-11-06T15:13:56.312306+00:00",
-    "Moto3": "2026-11-06T15:13:56.312306+00:00",
+    "MotoGP": "2026-11-07T14:13:28.911248+00:00",
+    "Moto2": "2026-11-07T14:13:28.911248+00:00",
+    "Moto3": "2026-11-07T14:13:28.911248+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-06T15:13:56.312306+00:00",
-    "F2": "2026-11-06T15:13:56.312306+00:00",
-    "F3": "2026-11-06T15:13:56.312306+00:00",
-    "WEC": "2026-11-06T15:13:56.312306+00:00"
+    "F1": "2026-11-07T14:13:28.911248+00:00",
+    "F2": "2026-11-07T14:13:28.911248+00:00",
+    "F3": "2026-11-07T14:13:28.911248+00:00",
+    "WEC": "2026-11-07T14:13:28.911248+00:00"
   },
-  "newsUpdatedAt": "2026-11-06T15:13:57.917180+00:00",
-  "newsCheckedAt": "2026-11-06T15:13:57.917180+00:00"
+  "newsUpdatedAt": "2026-11-07T14:13:30.264790+00:00",
+  "newsCheckedAt": "2026-11-07T14:13:30.264790+00:00"
 }
