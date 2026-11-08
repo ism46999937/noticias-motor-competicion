@@ -1,11 +1,91 @@
 {
   "news": [
     {
+      "date": "2026-11-08",
+      "title": "Luca Marini withdraws from Qatar GP",
+      "summary": "The Honda HRC Castrol rider will miss the Sunday Grand Prix at Lusail due to fatigue",
+      "url": "https://www.motogp.com/en/news/2026/11/08/marini-out/1184735",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Outstanding Almansa eases to fourth victory of 2026 with dominant Lusail display",
+      "summary": "A lights to flag victory for the 20-year-old sees him connect 4 this season whilst Fernandez pips Quiles for P2",
+      "url": "https://www.motogp.com/en/news/2026/11/08/outstanding-almansa-eases-to-fourth-victory-of-2026-with-dominant-lusail-display/1184242",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-07",
+      "title": "F1 – Norris takes São Paulo pole as rain-hit Qualifying delivers drama at Interlagos",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-norris-takes-sao-paulo-pole-rain-hit-qualifying-delivers-drama-interlagos"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-07",
+      "title": "F1 - 2026 São Paulo Grand Prix Post - Qualifying Press Conference Transcript",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-post-qualifying-press-conference-transcript"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-07",
+      "title": "United Against Online Abuse Brings Global Campaign to São Paulo Grand Prix",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/united-against-online-abuse-brings-global-campaign-sao-paulo-grand-prix"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-07",
+      "title": "F1 – Verstappen edges Antonelli in tight final practice in São Paulo but grid penalties bite",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-verstappen-edges-antonelli-tight-final-practice-sao-paulo-grid-penalties-bite"
+    },
+    {
+      "series": "WEC",
+      "source": "FIA",
+      "date": "2026-11-07",
+      "title": "WEC: Fuoco puts Ferrari on pole at Monza",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/wec-fuoco-puts-ferrari-pole-monza"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Bagnaia out of Qatar GP with right foot fractures",
+      "summary": "The double World Champion will be absent from the grid on Sunday following his fall in the Sprint",
+      "url": "https://www.motogp.com/en/news/2026/11/07/bagnaia-out-of-qatar-gp-with-right-foot-fractures/1184688",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Match point Sunday: Marquez wins dramatic Qatar Sprint, Martin heroic for P3, Bezzecchi crashes",
+      "summary": "You couldn't squeeze much more drama into a Tissot Sprint evening as the red corner takes another step towards the crown",
+      "url": "https://www.motogp.com/en/news/2026/11/07/match-point-sunday-marquez-wins-dramatic-qatar-sprint-martin-produces-heroics-bezzecchi-crashes/1184253",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "date": "2026-11-07",
       "title": "Bezzecchi smashes lap record to deny Marquez, Martin P11",
       "summary": "The #72 takes pole as he makes a final stand – with Marquez second and Diggia locking out the front row at Lusail",
       "url": "https://www.motogp.com/en/news/2026/11/07/bezzecchi-smashes-lap-record-to-deny-marquez-martin-p11/1184251",
       "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Quiles makes quick work of Qatar Qualifying",
+      "summary": "The World Champion takes a sixth career pole ahead of Almansa and Uriarte in a mis-timed last lap rush",
+      "url": "https://www.motogp.com/en/news/2026/11/07/quiles-makes-quick-work-of-qatar-qualifying/1184241",
+      "series": "Moto3",
       "source": "MotoGP.com"
     },
     {
@@ -65,14 +145,6 @@
       "source": "MotoGP.com"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-05",
-      "title": "F1 - 2026 São Paulo Grand Prix - Thursday Press Conference Transcript",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-thursday-press-conference-transcript"
-    },
-    {
       "date": "2026-11-05",
       "title": "MEDIA DAY DISPATCH: Lusail lights on as MotoGP readies for lights out in Qatar",
       "summary": "A match-point weekend and the chance to set new records as Round 20 gets set to bring a Qatar cracker",
@@ -87,22 +159,6 @@
       "url": "https://www.motogp.com/en/news/2026/11/05/dixon-to-step-in-for-mir-at-qatar-grand-prix/1184152",
       "series": "MotoGP",
       "source": "MotoGP.com"
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-04",
-      "title": "F1 - 2026 São Paulo Grand Prix Preview",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-preview"
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-04",
-      "title": "F1 - 2026 São Paulo GP Schedule of Press Conferences",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-sao-paulo-gp-schedule-press-conferences-0"
     },
     {
       "date": "2026-11-04",
@@ -129,42 +185,10 @@
       "source": "MotoGP.com"
     },
     {
-      "series": "WEC",
-      "source": "FIA",
-      "date": "2026-11-03",
-      "title": "WEC: High speeds and high stakes in Monza season finale",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/wec-high-speeds-and-high-stakes-monza-season-finale"
-    },
-    {
       "date": "2026-11-03",
       "title": "Aldeguer set for return as Lecuona replaces Alex Marquez in Qatar",
       "summary": "Fermin Aldeguer is set to return to the grid this weekend, while Iker Lecuona continues his stint with BK8 Gresini Racing MotoGP",
       "url": "https://www.motogp.com/en/news/2026/11/03/aldeguer-set-for-return-as-lecuona-replaces-alex-marquez-in-qatar/1183958",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "Alex Marquez undergoes successful surgery in Madrid",
-      "summary": "The BK8 Gresini Racing MotoGP rider has confirmed that he has undergone successful surgery in Madrid",
-      "url": "https://www.motogp.com/en/news/2026/11/03/alex-marquez-undergoes-successful-surgery-in-madrid/1183760",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-02",
-      "title": "Talking Points: \"I will fight until the end\"",
-      "summary": "Dive into some of the biggest takeaways from an important and historic visit to Malaysia!",
-      "url": "https://www.motogp.com/en/news/2026/11/02/malaysiangp-talking-points/1183575",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "Statements from Yamaha Motor Co., Ltd. & MotoGP Group",
-      "summary": "The full statements published on Sunday of the Malaysian GP",
-      "url": "https://www.motogp.com/en/news/2026/11/01/statements-from-yamaha-motor-co-ltd-motogp-group/1183172",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -273,44 +297,6 @@
         "es": {
           "title": "Alineación de Moto3 2027: los fichajes confirmados hasta ahora",
           "summary": "Repasamos los fichajes y acuerdos confirmados que empiezan a definir la parrilla de Moto3 para 2027."
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Fernandez reinstated after appeal verdict",
-      "summary": "Results to be updated for the first six races of the season",
-      "url": "https://www.motogp.com/en/news/2026/10/16/fernandez-reinstated-after-appeal-verdict/1178131",
-      "series": "Moto3",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Fernandez reinstated after appeal verdict",
-          "summary": "Results to be updated for the first six races of the season"
-        },
-        "es": {
-          "title": "Fernández recupera su resultado tras la resolución de la apelación",
-          "summary": "La clasificación de las seis primeras carreras de la temporada se actualizará tras la decisión."
-        }
-      }
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Maximo Quiles: meet the 2026 Moto3 World Champion!",
-      "summary": "The #28 seals the deal with a win – get to know the newest Moto3 World Champion and future Moto2 star after a landmark season",
-      "url": "https://www.motogp.com/en/news/2026/10/11/maximo-quiles-meet-the-2026-moto3-world-champion/1176377",
-      "series": "Moto3",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Maximo Quiles: meet the 2026 Moto3 World Champion!",
-          "summary": "The #28 seals the deal with a win – get to know the newest Moto3 World Champion and future Moto2 star after a landmark season"
-        },
-        "es": {
-          "title": "Máximo Quiles: conoce al campeón del mundo de Moto3 2026",
-          "summary": "El #28 selló el título con una victoria. Conoce al nuevo campeón de Moto3 y futuro piloto de Moto2 tras una temporada histórica."
         }
       }
     }
@@ -703,13 +689,13 @@
           "position": 1,
           "name": "Marc Marquez",
           "team": "Ducati Lenovo Team",
-          "points": 399
+          "points": 411
         },
         {
           "position": 2,
           "name": "Jorge Martin",
           "team": "Aprilia Racing",
-          "points": 355
+          "points": 362
         },
         {
           "position": 3,
@@ -721,25 +707,25 @@
           "position": 4,
           "name": "Pedro Acosta",
           "team": "Red Bull KTM Factory Racing",
-          "points": 295
+          "points": 299
         },
         {
           "position": 5,
           "name": "Ai Ogura",
           "team": "SuperFile Trackhouse MotoGP Team",
-          "points": 278
+          "points": 281
         },
         {
           "position": 6,
           "name": "Fabio Di Giannantonio",
           "team": "Pertamina Enduro VR46 Racing Team",
-          "points": 265
+          "points": 274
         },
         {
           "position": 7,
           "name": "Raul Fernandez",
           "team": "SuperFile Trackhouse MotoGP Team",
-          "points": 236
+          "points": 242
         },
         {
           "position": 8,
@@ -757,7 +743,7 @@
           "position": 10,
           "name": "Enea Bastianini",
           "team": "Red Bull KTM Tech3",
-          "points": 134
+          "points": 136
         },
         {
           "position": 11,
@@ -799,7 +785,7 @@
           "position": 17,
           "name": "Johann Zarco",
           "team": "Castrol Honda LCR",
-          "points": 51
+          "points": 56
         },
         {
           "position": 18,
@@ -835,7 +821,7 @@
           "position": 23,
           "name": "Iker Lecuona",
           "team": "BK8 Gresini Racing MotoGP",
-          "points": 11
+          "points": 12
         },
         {
           "position": 24,
@@ -867,37 +853,37 @@
           "position": 1,
           "name": "Aprilia Racing",
           "team": "Aprilia Racing",
-          "points": 687
+          "points": 694
         },
         {
           "position": 2,
           "name": "Ducati Lenovo Team",
           "team": "Ducati Lenovo Team",
-          "points": 572
+          "points": 584
         },
         {
           "position": 3,
           "name": "SuperFile Trackhouse MotoGP Team",
           "team": "SuperFile Trackhouse MotoGP Team",
-          "points": 514
+          "points": 523
         },
         {
           "position": 4,
           "name": "Red Bull KTM Factory Racing",
           "team": "Red Bull KTM Factory Racing",
-          "points": 413
+          "points": 417
         },
         {
           "position": 5,
-          "name": "BK8 Gresini Racing MotoGP",
-          "team": "BK8 Gresini Racing MotoGP",
-          "points": 333
+          "name": "Pertamina Enduro VR46 Racing Team",
+          "team": "Pertamina Enduro VR46 Racing Team",
+          "points": 339
         },
         {
           "position": 6,
-          "name": "Pertamina Enduro VR46 Racing Team",
-          "team": "Pertamina Enduro VR46 Racing Team",
-          "points": 330
+          "name": "BK8 Gresini Racing MotoGP",
+          "team": "BK8 Gresini Racing MotoGP",
+          "points": 334
         },
         {
           "position": 7,
@@ -909,13 +895,13 @@
           "position": 8,
           "name": "Red Bull KTM Tech3",
           "team": "Red Bull KTM Tech3",
-          "points": 153
+          "points": 155
         },
         {
           "position": 9,
           "name": "LCR Honda",
           "team": "LCR Honda",
-          "points": 129
+          "points": 134
         },
         {
           "position": 10,
@@ -1189,55 +1175,55 @@
           "position": 1,
           "name": "Maximo Quiles",
           "team": "CFMOTO Gaviota Aspar Team",
-          "points": 376
+          "points": 392
         },
         {
           "position": 2,
           "name": "David Almansa",
           "team": "Liqui Moly Dynavolt Intact GP",
-          "points": 228
+          "points": 253
         },
         {
           "position": 3,
-          "name": "Brian Uriarte",
+          "name": "Alvaro Carpe",
           "team": "Red Bull KTM Ajo",
-          "points": 205
+          "points": 216
         },
         {
           "position": 4,
-          "name": "Alvaro Carpe",
+          "name": "Brian Uriarte",
           "team": "Red Bull KTM Ajo",
-          "points": 205
+          "points": 207
         },
         {
           "position": 5,
           "name": "Adrian Fernandez",
           "team": "Leopard Racing",
-          "points": 157
+          "points": 177
         },
         {
           "position": 6,
-          "name": "Marco Morelli",
-          "team": "CFMOTO Gaviota Aspar Team",
-          "points": 140
+          "name": "Veda Pratama",
+          "team": "Honda Team Asia",
+          "points": 144
         },
         {
           "position": 7,
-          "name": "Veda Pratama",
-          "team": "Honda Team Asia",
-          "points": 131
+          "name": "Marco Morelli",
+          "team": "CFMOTO Gaviota Aspar Team",
+          "points": 141
         },
         {
           "position": 8,
-          "name": "Valentin Perrone",
-          "team": "Red Bull KTM Tech3",
-          "points": 121
+          "name": "Hakim Danish",
+          "team": "AEON Credit - MT Helmets - MSI",
+          "points": 125
         },
         {
           "position": 9,
-          "name": "Hakim Danish",
-          "team": "AEON Credit - MT Helmets - MSI",
-          "points": 116
+          "name": "Valentin Perrone",
+          "team": "Red Bull KTM Tech3",
+          "points": 121
         },
         {
           "position": 10,
@@ -1249,13 +1235,13 @@
           "position": 11,
           "name": "Rico Salmela",
           "team": "Red Bull KTM Tech3",
-          "points": 89
+          "points": 93
         },
         {
           "position": 12,
           "name": "Guido Pini",
           "team": "Leopard Racing",
-          "points": 81
+          "points": 86
         },
         {
           "position": 13,
@@ -1271,45 +1257,45 @@
         },
         {
           "position": 15,
+          "name": "Joel Kelso",
+          "team": "GRYD Racing",
+          "points": 74
+        },
+        {
+          "position": 16,
+          "name": "David Muñoz",
+          "team": "Liqui Moly Dynavolt Intact GP",
+          "points": 72
+        },
+        {
+          "position": 17,
           "name": "Eddie O'shea",
           "team": "GRYD Racing",
           "points": 66
         },
         {
-          "position": 16,
+          "position": 18,
           "name": "Casey O'gorman",
           "team": "SIC58 Squadra Corse",
           "points": 66
         },
         {
-          "position": 17,
-          "name": "David Muñoz",
-          "team": "Liqui Moly Dynavolt Intact GP",
-          "points": 64
-        },
-        {
-          "position": 18,
-          "name": "Joel Kelso",
-          "team": "GRYD Racing",
-          "points": 64
-        },
-        {
           "position": 19,
+          "name": "Ryusei Yamanaka",
+          "team": "AEON Credit - MT Helmets - MSI",
+          "points": 53
+        },
+        {
+          "position": 20,
           "name": "Jesus Rios",
           "team": "Rivacold Snipers Team",
           "points": 48
         },
         {
-          "position": 20,
-          "name": "Ryusei Yamanaka",
-          "team": "AEON Credit - MT Helmets - MSI",
-          "points": 46
-        },
-        {
           "position": 21,
           "name": "Scott Ogden",
           "team": "CIP Green Power",
-          "points": 33
+          "points": 39
         },
         {
           "position": 22,
@@ -1319,21 +1305,21 @@
         },
         {
           "position": 23,
+          "name": "Zen Mitani",
+          "team": "Honda Team Asia",
+          "points": 6
+        },
+        {
+          "position": 24,
           "name": "Marcos Uriarte",
           "team": "CODE Motorsports",
           "points": 5
         },
         {
-          "position": 24,
+          "position": 25,
           "name": "Cormac Buchanan",
           "team": "CODE Motorsports",
           "points": 5
-        },
-        {
-          "position": 25,
-          "name": "Zen Mitani",
-          "team": "Honda Team Asia",
-          "points": 3
         },
         {
           "position": 26,
@@ -1353,31 +1339,31 @@
           "position": 1,
           "name": "CFMOTO Gaviota Aspar Team",
           "team": "CFMOTO Gaviota Aspar Team",
-          "points": 516
+          "points": 533
         },
         {
           "position": 2,
           "name": "Red Bull KTM Ajo",
           "team": "Red Bull KTM Ajo",
-          "points": 410
+          "points": 423
         },
         {
           "position": 3,
           "name": "Liqui Moly Dynavolt Intact GP",
           "team": "Liqui Moly Dynavolt Intact GP",
-          "points": 304
+          "points": 337
         },
         {
           "position": 4,
           "name": "Leopard Racing",
           "team": "Leopard Racing",
-          "points": 238
+          "points": 263
         },
         {
           "position": 5,
           "name": "Red Bull KTM Tech3",
           "team": "Red Bull KTM Tech3",
-          "points": 210
+          "points": 214
         },
         {
           "position": 6,
@@ -1389,25 +1375,25 @@
           "position": 7,
           "name": "AEON Credit - MT Helmets - MSI",
           "team": "AEON Credit - MT Helmets - MSI",
-          "points": 162
+          "points": 178
         },
         {
           "position": 8,
           "name": "Honda Team Asia",
           "team": "Honda Team Asia",
-          "points": 135
+          "points": 151
         },
         {
           "position": 9,
           "name": "GRYD Racing",
           "team": "GRYD Racing",
-          "points": 130
+          "points": 140
         },
         {
           "position": 10,
           "name": "CIP Green Power",
           "team": "CIP Green Power",
-          "points": 113
+          "points": 119
         },
         {
           "position": 11,
@@ -1669,6 +1655,12 @@
           "position": 24,
           "name": "Sergio Pérez",
           "team": "Cadillac F1 Team",
+          "points": 0
+        },
+        {
+          "position": 25,
+          "name": "Rafael Camara",
+          "team": "Haas F1 Team",
           "points": 0
         }
       ],
@@ -3040,7 +3032,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-07T14:13:28.911248+00:00",
+  "updatedAt": "2026-11-08T14:23:35.782301+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3059,15 +3051,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-07T14:13:28.911248+00:00",
-    "Moto2": "2026-11-07T14:13:28.911248+00:00",
-    "Moto3": "2026-11-07T14:13:28.911248+00:00",
+    "MotoGP": "2026-11-08T14:23:35.782301+00:00",
+    "Moto2": "2026-11-08T14:23:35.782301+00:00",
+    "Moto3": "2026-11-08T14:23:35.782301+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-07T14:13:28.911248+00:00",
-    "F2": "2026-11-07T14:13:28.911248+00:00",
-    "F3": "2026-11-07T14:13:28.911248+00:00",
-    "WEC": "2026-11-07T14:13:28.911248+00:00"
+    "F1": "2026-11-08T14:23:35.782301+00:00",
+    "F2": "2026-11-08T14:23:35.782301+00:00",
+    "F3": "2026-11-08T14:23:35.782301+00:00",
+    "WEC": "2026-11-08T14:23:35.782301+00:00"
   },
-  "newsUpdatedAt": "2026-11-07T14:13:30.264790+00:00",
-  "newsCheckedAt": "2026-11-07T14:13:30.264790+00:00"
+  "newsUpdatedAt": "2026-11-08T14:23:37.092830+00:00",
+  "newsCheckedAt": "2026-11-08T14:23:37.092830+00:00"
 }
