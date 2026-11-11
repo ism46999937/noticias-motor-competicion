@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "date": "2026-11-11",
+      "title": "Two rounds to go: the story behind the 2026 title fight",
+      "summary": "Marc Marquez. Jorge Martin. Marco Bezzecchi. Find out how 2026 reached match point as three title contenders and two rounds remain",
+      "url": "https://www.motogp.com/en/news/2026/11/11/two-rounds-to-go-the-story-behind-the-2026-title-fight/1184983",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Ducati confirm successful surgery for Bagnaia",
+      "summary": "The two-time MotoGP World Champion has undergone successful surgery following his Qatar GP Sprint crash",
+      "url": "https://www.motogp.com/en/news/2026/11/11/ducati-confirm-successful-surgery-for-bagnaia/1184971",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "date": "2026-11-10",
       "title": "12 wins at 12 circuits: Bezzecchi breaks Spencer’s record",
       "summary": "The Italian star made further history in Qatar, becoming the first rider to claim his first 12 MotoGP GP wins at 12 different circuits!",
@@ -57,6 +73,14 @@
       "source": "MotoGP.com"
     },
     {
+      "series": "WEC",
+      "source": "FIA",
+      "date": "2026-11-07",
+      "title": "WEC: Fuoco puts Ferrari on pole at Monza",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/wec-fuoco-puts-ferrari-pole-monza"
+    },
+    {
       "series": "F1",
       "source": "FIA",
       "date": "2026-11-07",
@@ -87,14 +111,6 @@
       "title": "F1 – Verstappen edges Antonelli in tight final practice in São Paulo but grid penalties bite",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
       "url": "https://www.fia.com/news/f1-verstappen-edges-antonelli-tight-final-practice-sao-paulo-grid-penalties-bite"
-    },
-    {
-      "series": "WEC",
-      "source": "FIA",
-      "date": "2026-11-07",
-      "title": "WEC: Fuoco puts Ferrari on pole at Monza",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/wec-fuoco-puts-ferrari-pole-monza"
     },
     {
       "date": "2026-11-07",
@@ -165,22 +181,6 @@
       "title": "MEDIA DAY DISPATCH: Lusail lights on as MotoGP readies for lights out in Qatar",
       "summary": "A match-point weekend and the chance to set new records as Round 20 gets set to bring a Qatar cracker",
       "url": "https://www.motogp.com/en/news/2026/11/05/media-day-dispatch-lusail-lights-on-as-motogp-readies-for-lights-out-in-qatar/1184257",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "Dixon to step in for Mir at Qatar Grand Prix",
-      "summary": "The Honda HRC WorldSBK star will line up alongside Marini in Lusail while the 2020 World Champion continues his recovery at home",
-      "url": "https://www.motogp.com/en/news/2026/11/05/dixon-to-step-in-for-mir-at-qatar-grand-prix/1184152",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-04",
-      "title": "HOT HEADLINES: match point for Marc Marquez as MotoGP arrives at Lusail",
-      "summary": "The classic night GP could well culminate in a coronation as Round 20 gets into gear",
-      "url": "https://www.motogp.com/en/news/2026/11/04/hot-headlines-match-point-for-marc-marquez-as-motogp-arrives-at-lusail/1183615",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -3029,7 +3029,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-10T15:41:05.628885+00:00",
+  "updatedAt": "2026-11-11T15:28:09.701269+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3048,15 +3048,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-10T15:41:05.628885+00:00",
-    "Moto2": "2026-11-10T15:41:05.628885+00:00",
-    "Moto3": "2026-11-10T15:41:05.628885+00:00",
+    "MotoGP": "2026-11-11T15:28:09.701269+00:00",
+    "Moto2": "2026-11-11T15:28:09.701269+00:00",
+    "Moto3": "2026-11-11T15:28:09.701269+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-10T15:41:05.628885+00:00",
-    "F2": "2026-11-10T15:41:05.628885+00:00",
-    "F3": "2026-11-10T15:41:05.628885+00:00",
-    "WEC": "2026-11-10T15:41:05.628885+00:00"
+    "F1": "2026-11-11T15:28:09.701269+00:00",
+    "F2": "2026-11-11T15:28:09.701269+00:00",
+    "F3": "2026-11-11T15:28:09.701269+00:00",
+    "WEC": "2026-11-11T15:28:09.701269+00:00"
   },
-  "newsUpdatedAt": "2026-11-10T15:41:06.897746+00:00",
-  "newsCheckedAt": "2026-11-10T15:41:06.897746+00:00"
+  "newsUpdatedAt": "2026-11-11T15:28:10.779532+00:00",
+  "newsCheckedAt": "2026-11-11T15:28:10.779532+00:00"
 }
