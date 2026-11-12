@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "date": "2026-11-12",
+      "title": "How can Martin stay in Championship contention?",
+      "summary": "Have a look at what Jorge Martin needs to achieve at the Portuguese GP to take the title fight to Sunday and beyond!",
+      "url": "https://www.motogp.com/en/news/2026/11/12/how-can-martin-stay-in-championship-contention/1185103",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "date": "2026-11-11",
       "title": "Two rounds to go: the story behind the 2026 title fight",
       "summary": "Marc Marquez. Jorge Martin. Marco Bezzecchi. Find out how 2026 reached match point as three title contenders and two rounds remain",
@@ -97,22 +105,6 @@
       "url": "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-post-qualifying-press-conference-transcript"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-07",
-      "title": "United Against Online Abuse Brings Global Campaign to São Paulo Grand Prix",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/united-against-online-abuse-brings-global-campaign-sao-paulo-grand-prix"
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-07",
-      "title": "F1 – Verstappen edges Antonelli in tight final practice in São Paulo but grid penalties bite",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-verstappen-edges-antonelli-tight-final-practice-sao-paulo-grid-penalties-bite"
-    },
-    {
       "date": "2026-11-07",
       "title": "Bagnaia out of Qatar GP with right foot fractures",
       "summary": "The double World Champion will be absent from the grid on Sunday following his fall in the Sprint",
@@ -174,14 +166,6 @@
       "summary": "The World Champion was in unbeatable form to take a Friday clean sweep whilst two of the riders fighting for P2 overall find themselves in Q1 at Lusail",
       "url": "https://www.motogp.com/en/news/2026/11/06/m3-qat-pr-report/1184240",
       "series": "Moto3",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "MEDIA DAY DISPATCH: Lusail lights on as MotoGP readies for lights out in Qatar",
-      "summary": "A match-point weekend and the chance to set new records as Round 20 gets set to bring a Qatar cracker",
-      "url": "https://www.motogp.com/en/news/2026/11/05/media-day-dispatch-lusail-lights-on-as-motogp-readies-for-lights-out-in-qatar/1184257",
-      "series": "MotoGP",
       "source": "MotoGP.com"
     },
     {
@@ -3029,7 +3013,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-11T15:28:09.701269+00:00",
+  "updatedAt": "2026-11-12T16:04:27.577058+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3048,15 +3032,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-11T15:28:09.701269+00:00",
-    "Moto2": "2026-11-11T15:28:09.701269+00:00",
-    "Moto3": "2026-11-11T15:28:09.701269+00:00",
+    "MotoGP": "2026-11-12T16:04:27.577058+00:00",
+    "Moto2": "2026-11-12T16:04:27.577058+00:00",
+    "Moto3": "2026-11-12T16:04:27.577058+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-11T15:28:09.701269+00:00",
-    "F2": "2026-11-11T15:28:09.701269+00:00",
-    "F3": "2026-11-11T15:28:09.701269+00:00",
-    "WEC": "2026-11-11T15:28:09.701269+00:00"
+    "F1": "2026-11-12T16:04:27.577058+00:00",
+    "F2": "2026-11-12T16:04:27.577058+00:00",
+    "F3": "2026-11-12T16:04:27.577058+00:00",
+    "WEC": "2026-11-12T16:04:27.577058+00:00"
   },
-  "newsUpdatedAt": "2026-11-11T15:28:10.779532+00:00",
-  "newsCheckedAt": "2026-11-11T15:28:10.779532+00:00"
+  "newsUpdatedAt": "2026-11-12T16:04:29.032134+00:00",
+  "newsCheckedAt": "2026-11-12T16:04:29.032134+00:00"
 }
