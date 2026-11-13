@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "date": "2026-11-13",
+      "title": "MotoGP Fan Fest is coming to Valencia – and you’re invited!",
+      "summary": "Five days of FREE MotoGP fun, rider meet-and-greets, gaming, simulators and more at the Ciudad de las Artes y las Ciencias. Here’s how to join us!",
+      "url": "https://www.motogp.com/en/news/2026/11/13/motogp-fan-fest-is-coming-to-valencia-and-youre-invited/1185358",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "MotoGP and ESPN announce multi-year broadcast agreement across the United States and Latin America",
+      "summary": "MotoGP today announced a new two-year media rights agreement with ESPN, bringing the world’s premier motorcycle racing championship to fans across the United States and Latin America through the 2027 and 2028 seasons.",
+      "url": "https://www.motogp.com/en/news/2026/11/12/motogp-and-espn-announce-multi-year-broadcast-agreement-across-the-united-states-and-latin-america/1185285",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "date": "2026-11-12",
       "title": "How can Martin stay in Championship contention?",
       "summary": "Have a look at what Jorge Martin needs to achieve at the Portuguese GP to take the title fight to Sunday and beyond!",
@@ -134,22 +150,6 @@
       "summary": "The World Champion takes a sixth career pole ahead of Almansa and Uriarte in a mis-timed last lap rush",
       "url": "https://www.motogp.com/en/news/2026/11/07/quiles-makes-quick-work-of-qatar-qualifying/1184241",
       "series": "Moto3",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-06",
-      "title": "Di Giannantonio P1 under the lights at Lusail, Marquez and Martin in Q2",
-      "summary": "The Italian set a new lap record for Practice honours whilst the top two in the Championship will be going head-to-head on Saturday",
-      "url": "https://www.motogp.com/en/news/2026/11/06/di-giannantonio-p1-under-the-lights-at-lusail-marquez-and-martin-in-q2/1184250",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-06",
-      "title": "Marc Marquez fastest from Bezzecchi, Martin P5 in Qatar FP1",
-      "summary": "The championship leader kickstarts his weekend in fine fashion while it’s a promising start at Lusail for his closest title rival",
-      "url": "https://www.motogp.com/en/news/2026/11/06/marc-marquez-fastest-from-bezzecchi-martin-p5-in-qatar-fp1/1184247",
-      "series": "MotoGP",
       "source": "MotoGP.com"
     },
     {
@@ -3013,7 +3013,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-12T16:04:27.577058+00:00",
+  "updatedAt": "2026-11-13T15:32:22.647471+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3032,15 +3032,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-12T16:04:27.577058+00:00",
-    "Moto2": "2026-11-12T16:04:27.577058+00:00",
-    "Moto3": "2026-11-12T16:04:27.577058+00:00",
+    "MotoGP": "2026-11-13T15:32:22.647471+00:00",
+    "Moto2": "2026-11-13T15:32:22.647471+00:00",
+    "Moto3": "2026-11-13T15:32:22.647471+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-12T16:04:27.577058+00:00",
-    "F2": "2026-11-12T16:04:27.577058+00:00",
-    "F3": "2026-11-12T16:04:27.577058+00:00",
-    "WEC": "2026-11-12T16:04:27.577058+00:00"
+    "F1": "2026-11-13T15:32:22.647471+00:00",
+    "F2": "2026-11-13T15:32:22.647471+00:00",
+    "F3": "2026-11-13T15:32:22.647471+00:00",
+    "WEC": "2026-11-13T15:32:22.647471+00:00"
   },
-  "newsUpdatedAt": "2026-11-12T16:04:29.032134+00:00",
-  "newsCheckedAt": "2026-11-12T16:04:29.032134+00:00"
+  "newsUpdatedAt": "2026-11-13T15:32:24.098916+00:00",
+  "newsCheckedAt": "2026-11-13T15:32:24.098916+00:00"
 }
