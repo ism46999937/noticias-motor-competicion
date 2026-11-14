@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-13",
+      "title": "FIA World Cups bring added excitement to Macau Grand Prix",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix"
+    },
+    {
       "date": "2026-11-13",
       "title": "MotoGP Fan Fest is coming to Valencia – and you’re invited!",
       "summary": "Five days of FREE MotoGP fun, rider meet-and-greets, gaming, simulators and more at the Ciudad de las Artes y las Ciencias. Here’s how to join us!",
@@ -111,14 +119,6 @@
       "title": "F1 – Norris takes São Paulo pole as rain-hit Qualifying delivers drama at Interlagos",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
       "url": "https://www.fia.com/news/f1-norris-takes-sao-paulo-pole-rain-hit-qualifying-delivers-drama-interlagos"
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-07",
-      "title": "F1 - 2026 São Paulo Grand Prix Post - Qualifying Press Conference Transcript",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-post-qualifying-press-conference-transcript"
     },
     {
       "date": "2026-11-07",
@@ -3013,7 +3013,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-13T15:32:22.647471+00:00",
+  "updatedAt": "2026-11-14T14:21:24.142654+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3032,15 +3032,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-13T15:32:22.647471+00:00",
-    "Moto2": "2026-11-13T15:32:22.647471+00:00",
-    "Moto3": "2026-11-13T15:32:22.647471+00:00",
+    "MotoGP": "2026-11-14T14:21:24.142654+00:00",
+    "Moto2": "2026-11-14T14:21:24.142654+00:00",
+    "Moto3": "2026-11-14T14:21:24.142654+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-13T15:32:22.647471+00:00",
-    "F2": "2026-11-13T15:32:22.647471+00:00",
-    "F3": "2026-11-13T15:32:22.647471+00:00",
-    "WEC": "2026-11-13T15:32:22.647471+00:00"
+    "F1": "2026-11-14T14:21:24.142654+00:00",
+    "F2": "2026-11-14T14:21:24.142654+00:00",
+    "F3": "2026-11-14T14:21:24.142654+00:00",
+    "WEC": "2026-11-14T14:21:24.142654+00:00"
   },
-  "newsUpdatedAt": "2026-11-13T15:32:24.098916+00:00",
-  "newsCheckedAt": "2026-11-13T15:32:24.098916+00:00"
+  "newsUpdatedAt": "2026-11-14T14:21:25.292708+00:00",
+  "newsCheckedAt": "2026-11-14T14:21:25.292708+00:00"
 }
