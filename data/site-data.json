@@ -73,14 +73,6 @@
       "url": "https://www.fia.com/news/f1-norris-triumphs-sao-paulo-mercedes-secure-2026-constructors-championship"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-08",
-      "title": "F1 - 2026 São Paulo Grand Prix Post-Race Press Conference Transcript",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-post-race-press-conference-transcript"
-    },
-    {
       "date": "2026-11-08",
       "title": "Bezzecchi bounces back with Qatar victory as Marquez extends championship lead",
       "summary": "The Italian keeps his faint title hopes alive with a dominant win under the Lusail lights as the #93 strides to P2 ahead of Fernandez, with Martin digging deep for P7",
@@ -111,14 +103,6 @@
       "title": "WEC: Fuoco puts Ferrari on pole at Monza",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
       "url": "https://www.fia.com/news/wec-fuoco-puts-ferrari-pole-monza"
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-07",
-      "title": "F1 – Norris takes São Paulo pole as rain-hit Qualifying delivers drama at Interlagos",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-norris-takes-sao-paulo-pole-rain-hit-qualifying-delivers-drama-interlagos"
     },
     {
       "date": "2026-11-07",
@@ -3013,7 +2997,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-14T14:21:24.142654+00:00",
+  "updatedAt": "2026-11-15T14:52:35.127815+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3032,15 +3016,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-14T14:21:24.142654+00:00",
-    "Moto2": "2026-11-14T14:21:24.142654+00:00",
-    "Moto3": "2026-11-14T14:21:24.142654+00:00",
+    "MotoGP": "2026-11-15T14:52:35.127815+00:00",
+    "Moto2": "2026-11-15T14:52:35.127815+00:00",
+    "Moto3": "2026-11-15T14:52:35.127815+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-14T14:21:24.142654+00:00",
-    "F2": "2026-11-14T14:21:24.142654+00:00",
-    "F3": "2026-11-14T14:21:24.142654+00:00",
-    "WEC": "2026-11-14T14:21:24.142654+00:00"
+    "F1": "2026-11-15T14:52:35.127815+00:00",
+    "F2": "2026-11-15T14:52:35.127815+00:00",
+    "F3": "2026-11-15T14:52:35.127815+00:00",
+    "WEC": "2026-11-15T14:52:35.127815+00:00"
   },
-  "newsUpdatedAt": "2026-11-14T14:21:25.292708+00:00",
-  "newsCheckedAt": "2026-11-14T14:21:25.292708+00:00"
+  "newsUpdatedAt": "2026-11-15T14:52:36.265759+00:00",
+  "newsCheckedAt": "2026-11-15T14:52:36.265759+00:00"
 }
