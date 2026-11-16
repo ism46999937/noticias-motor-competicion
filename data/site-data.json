@@ -3,6 +3,46 @@
     {
       "series": "F1",
       "source": "FIA",
+      "date": "2026-11-16",
+      "title": "FREC heroes go for FIA FR World Cup gold in Macau Grand Prix",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Lecuona to stand-in for injured Bagnaia in Portugal",
+      "summary": "Pecco remains sidelined after sustaining a double right-foot fracture in Qatar, with Lecuona set for his sixth appearance of the season",
+      "url": "https://www.motogp.com/en/news/2026/11/16/lecuona-to-stand-in-for-injured-bagnaia-in-portugal/1185490",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "HOT HEADLINES: match point Marquez as MotoGP straps in for the rollercoaster",
+      "summary": "Marc Marquez, Jorge Martin, Marco Bezzecchi. Three riders. Two Grands Prix. But in Portimão, it’s the reigning World Champion who has a huge chance to notch up an eighth MotoGP title",
+      "url": "https://www.motogp.com/en/news/2026/11/16/hot-headlines-match-point-marquez-as-motogp-straps-in-for-the-rollercoaster/1185225",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Beyond the Grandstands: MotoGP Premier introduces new ways to experience the world's most exciting motorcycle racing events",
+      "summary": "From exclusive pit lane access and rider meet-and-greets to premium trackside hospitality, MotoGP Premier unveils refreshed bucket-list experiences for the 2027 racing season",
+      "url": "https://www.motogp.com/en/news/2026/11/16/beyond-the-grandstands-motogp-premier-introduces-new-ways-to-experience-the-worlds-most-exciting-motorcycle-racing-events/1185432",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "TIME SCHEDULE: Repsol Grand Prix of Portugal",
+      "summary": "Get the rundown of all the important times ahead of a pivotal weekend in Portugal as we enter the final stretch of the season!",
+      "url": "https://www.motogp.com/en/news/2026/11/16/time-schedule-repsol-grand-prix-of-portugal/1185224",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
       "date": "2026-11-13",
       "title": "FIA World Cups bring added excitement to Macau Grand Prix",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
@@ -65,26 +105,10 @@
       "source": "MotoGP.com"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-08",
-      "title": "F1 – Norris triumphs in São Paulo as Mercedes secure 2026 Constructors’ Championship",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-norris-triumphs-sao-paulo-mercedes-secure-2026-constructors-championship"
-    },
-    {
       "date": "2026-11-08",
       "title": "Bezzecchi bounces back with Qatar victory as Marquez extends championship lead",
       "summary": "The Italian keeps his faint title hopes alive with a dominant win under the Lusail lights as the #93 strides to P2 ahead of Fernandez, with Martin digging deep for P7",
       "url": "https://www.motogp.com/en/news/2026/11/08/bezzecchi-bounces-back-with-qatar-victory-as-marquez-extends-championship-lead/1184256",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "Luca Marini withdraws from Qatar GP",
-      "summary": "The Honda HRC Castrol rider will miss the Sunday Grand Prix at Lusail due to fatigue",
-      "url": "https://www.motogp.com/en/news/2026/11/08/marini-out/1184735",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -103,30 +127,6 @@
       "title": "WEC: Fuoco puts Ferrari on pole at Monza",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
       "url": "https://www.fia.com/news/wec-fuoco-puts-ferrari-pole-monza"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "Bagnaia out of Qatar GP with right foot fractures",
-      "summary": "The double World Champion will be absent from the grid on Sunday following his fall in the Sprint",
-      "url": "https://www.motogp.com/en/news/2026/11/07/bagnaia-out-of-qatar-gp-with-right-foot-fractures/1184688",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "Match point Sunday: Marquez wins dramatic Qatar Sprint, Martin heroic for P3, Bezzecchi crashes",
-      "summary": "You couldn't squeeze much more drama into a Tissot Sprint evening as the red corner takes another step towards the crown",
-      "url": "https://www.motogp.com/en/news/2026/11/07/match-point-sunday-marquez-wins-dramatic-qatar-sprint-martin-produces-heroics-bezzecchi-crashes/1184253",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "Bezzecchi smashes lap record to deny Marquez, Martin P11",
-      "summary": "The #72 takes pole as he makes a final stand – with Marquez second and Diggia locking out the front row at Lusail",
-      "url": "https://www.motogp.com/en/news/2026/11/07/bezzecchi-smashes-lap-record-to-deny-marquez-martin-p11/1184251",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
     },
     {
       "date": "2026-11-07",
@@ -2997,7 +2997,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-15T14:52:35.127815+00:00",
+  "updatedAt": "2026-11-16T17:12:25.110209+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3016,15 +3016,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-15T14:52:35.127815+00:00",
-    "Moto2": "2026-11-15T14:52:35.127815+00:00",
-    "Moto3": "2026-11-15T14:52:35.127815+00:00",
+    "MotoGP": "2026-11-16T17:12:25.110209+00:00",
+    "Moto2": "2026-11-16T17:12:25.110209+00:00",
+    "Moto3": "2026-11-16T17:12:25.110209+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-15T14:52:35.127815+00:00",
-    "F2": "2026-11-15T14:52:35.127815+00:00",
-    "F3": "2026-11-15T14:52:35.127815+00:00",
-    "WEC": "2026-11-15T14:52:35.127815+00:00"
+    "F1": "2026-11-16T17:12:25.110209+00:00",
+    "F2": "2026-11-16T17:12:25.110209+00:00",
+    "F3": "2026-11-16T17:12:25.110209+00:00",
+    "WEC": "2026-11-16T17:12:25.110209+00:00"
   },
-  "newsUpdatedAt": "2026-11-15T14:52:36.265759+00:00",
-  "newsCheckedAt": "2026-11-15T14:52:36.265759+00:00"
+  "newsUpdatedAt": "2026-11-16T17:12:26.792235+00:00",
+  "newsCheckedAt": "2026-11-16T17:12:26.792235+00:00"
 }
