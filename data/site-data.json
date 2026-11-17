@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "date": "2026-11-17",
+      "title": "Photo finishes and fairytales: the best of the Portuguese GP",
+      "summary": "Ahead of a crucial weekend in the World Championship, sit back and relax as we head back in time through some of Portugal’s finest duels!",
+      "url": "https://www.motogp.com/en/news/2026/11/17/photo-finishes-and-fairytales-the-best-of-the-portuguese-gp/762445",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "How can Marc Marquez be crowned World Champion in Portugal?",
+      "summary": "Find out what Marc Marquez needs to do to clinch the 2026 MotoGP World Championship in Portugal!",
+      "url": "https://www.motogp.com/en/news/2026/11/17/how-can-marc-marquez-be-crowned-world-champion-in-portugal/1185545",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Alex Marquez set for Portuguese GP return",
+      "summary": "BK8 Gresini Racing MotoGP have announced that the #73 will return to action in Portugal following recent surgery",
+      "url": "https://www.motogp.com/en/news/2026/11/17/alex-marquez-set-for-portuguese-gp-return/1185531",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "MotoGP Rivals: take control of your own team",
+      "summary": "Build your team, develop your bikes and make the decisions that can turn every race in the first official MotoGP team manager game",
+      "url": "https://www.motogp.com/en/news/2026/11/17/motogp-rivals-take-control-of-your-own-team/1185514",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "series": "F1",
       "source": "FIA",
       "date": "2026-11-16",
@@ -77,38 +109,6 @@
       "title": "Two rounds to go: the story behind the 2026 title fight",
       "summary": "Marc Marquez. Jorge Martin. Marco Bezzecchi. Find out how 2026 reached match point as three title contenders and two rounds remain",
       "url": "https://www.motogp.com/en/news/2026/11/11/two-rounds-to-go-the-story-behind-the-2026-title-fight/1184983",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "Ducati confirm successful surgery for Bagnaia",
-      "summary": "The two-time MotoGP World Champion has undergone successful surgery following his Qatar GP Sprint crash",
-      "url": "https://www.motogp.com/en/news/2026/11/11/ducati-confirm-successful-surgery-for-bagnaia/1184971",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "12 wins at 12 circuits: Bezzecchi breaks Spencer’s record",
-      "summary": "The Italian star made further history in Qatar, becoming the first rider to claim his first 12 MotoGP GP wins at 12 different circuits!",
-      "url": "https://www.motogp.com/en/news/2026/11/10/12-wins-at-12-circuits-bezzecchi-breaks-spencers-record/1184932",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-09",
-      "title": "Talking Points: \"It was not the time to take that extra risk\"",
-      "summary": "Catch up on the biggest topics and title talk from an unforgettable weekend of racing under the lights in Qatar!",
-      "url": "https://www.motogp.com/en/news/2026/11/09/talking-points-it-was-not-the-time-to-take-that-extra-risk/1184905",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "Bezzecchi bounces back with Qatar victory as Marquez extends championship lead",
-      "summary": "The Italian keeps his faint title hopes alive with a dominant win under the Lusail lights as the #93 strides to P2 ahead of Fernandez, with Martin digging deep for P7",
-      "url": "https://www.motogp.com/en/news/2026/11/08/bezzecchi-bounces-back-with-qatar-victory-as-marquez-extends-championship-lead/1184256",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -2997,7 +2997,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-16T17:12:25.110209+00:00",
+  "updatedAt": "2026-11-17T16:58:24.419121+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3016,15 +3016,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-16T17:12:25.110209+00:00",
-    "Moto2": "2026-11-16T17:12:25.110209+00:00",
-    "Moto3": "2026-11-16T17:12:25.110209+00:00",
+    "MotoGP": "2026-11-17T16:58:24.419121+00:00",
+    "Moto2": "2026-11-17T16:58:24.419121+00:00",
+    "Moto3": "2026-11-17T16:58:24.419121+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-16T17:12:25.110209+00:00",
-    "F2": "2026-11-16T17:12:25.110209+00:00",
-    "F3": "2026-11-16T17:12:25.110209+00:00",
-    "WEC": "2026-11-16T17:12:25.110209+00:00"
+    "F1": "2026-11-17T16:58:24.419121+00:00",
+    "F2": "2026-11-17T16:58:24.419121+00:00",
+    "F3": "2026-11-17T16:58:24.419121+00:00",
+    "WEC": "2026-11-17T16:58:24.419121+00:00"
   },
-  "newsUpdatedAt": "2026-11-16T17:12:26.792235+00:00",
-  "newsCheckedAt": "2026-11-16T17:12:26.792235+00:00"
+  "newsUpdatedAt": "2026-11-17T16:58:25.431141+00:00",
+  "newsCheckedAt": "2026-11-17T16:58:25.431141+00:00"
 }
