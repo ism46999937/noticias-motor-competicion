@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "date": "2026-11-18",
+      "title": "Dixon replaces Mir at the Portuguese GP",
+      "summary": "The WorldSBK star will return to the saddle in Portugal, racing alongside Luca Marini as Joan Mir continues his recovery",
+      "url": "https://www.motogp.com/en/news/2026/11/18/dixon-replaces-mir-at-the-portuguese-gp/1185683",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Razgatlioglu to miss the Valencia Test",
+      "summary": "The Prima Pramac rider will miss the final two rounds of 2026 and the Valencia Test as he recovers from a shoulder injury",
+      "url": "https://www.motogp.com/en/news/2026/11/18/razgatlioglu-to-miss-the-valencia-test/1185673",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-17",
+      "title": "F1 - 2026 Las Vegas Grand Prix Preview",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-preview"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-17",
+      "title": "F1 - 2026 Las Vegas GP Schedule of Press Conferences",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-las-vegas-gp-schedule-press-conferences"
+    },
+    {
       "date": "2026-11-17",
       "title": "Photo finishes and fairytales: the best of the Portuguese GP",
       "summary": "Ahead of a crucial weekend in the World Championship, sit back and relax as we head back in time through some of Portugal’s finest duels!",
@@ -73,14 +105,6 @@
       "source": "MotoGP.com"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-13",
-      "title": "FIA World Cups bring added excitement to Macau Grand Prix",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix"
-    },
-    {
       "date": "2026-11-13",
       "title": "MotoGP Fan Fest is coming to Valencia – and you’re invited!",
       "summary": "Five days of FREE MotoGP fun, rider meet-and-greets, gaming, simulators and more at the Ciudad de las Artes y las Ciencias. Here’s how to join us!",
@@ -93,22 +117,6 @@
       "title": "MotoGP and ESPN announce multi-year broadcast agreement across the United States and Latin America",
       "summary": "MotoGP today announced a new two-year media rights agreement with ESPN, bringing the world’s premier motorcycle racing championship to fans across the United States and Latin America through the 2027 and 2028 seasons.",
       "url": "https://www.motogp.com/en/news/2026/11/12/motogp-and-espn-announce-multi-year-broadcast-agreement-across-the-united-states-and-latin-america/1185285",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "How can Martin stay in Championship contention?",
-      "summary": "Have a look at what Jorge Martin needs to achieve at the Portuguese GP to take the title fight to Sunday and beyond!",
-      "url": "https://www.motogp.com/en/news/2026/11/12/how-can-martin-stay-in-championship-contention/1185103",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "Two rounds to go: the story behind the 2026 title fight",
-      "summary": "Marc Marquez. Jorge Martin. Marco Bezzecchi. Find out how 2026 reached match point as three title contenders and two rounds remain",
-      "url": "https://www.motogp.com/en/news/2026/11/11/two-rounds-to-go-the-story-behind-the-2026-title-fight/1184983",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -2997,7 +3005,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-17T16:58:24.419121+00:00",
+  "updatedAt": "2026-11-18T16:36:44.802207+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3016,15 +3024,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-17T16:58:24.419121+00:00",
-    "Moto2": "2026-11-17T16:58:24.419121+00:00",
-    "Moto3": "2026-11-17T16:58:24.419121+00:00",
+    "MotoGP": "2026-11-18T16:36:44.802207+00:00",
+    "Moto2": "2026-11-18T16:36:44.802207+00:00",
+    "Moto3": "2026-11-18T16:36:44.802207+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-17T16:58:24.419121+00:00",
-    "F2": "2026-11-17T16:58:24.419121+00:00",
-    "F3": "2026-11-17T16:58:24.419121+00:00",
-    "WEC": "2026-11-17T16:58:24.419121+00:00"
+    "F1": "2026-11-18T16:36:44.802207+00:00",
+    "F2": "2026-11-18T16:36:44.802207+00:00",
+    "F3": "2026-11-18T16:36:44.802207+00:00",
+    "WEC": "2026-11-18T16:36:44.802207+00:00"
   },
-  "newsUpdatedAt": "2026-11-17T16:58:25.431141+00:00",
-  "newsCheckedAt": "2026-11-17T16:58:25.431141+00:00"
+  "newsUpdatedAt": "2026-11-18T16:36:46.472324+00:00",
+  "newsCheckedAt": "2026-11-18T16:36:46.472324+00:00"
 }
