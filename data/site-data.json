@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "date": "2026-11-19",
+      "title": "Alex Marquez declared fit for FP1 in Portugal",
+      "summary": "The BK8 Gresini Racing MotoGP rider will undergo a further medical assessment after Friday morning's session",
+      "url": "https://www.motogp.com/en/news/2026/11/19/alex-marquez-declared-fit-for-fp1-in-portugal/1186331",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-18",
+      "title": "F1 - 2026 Las Vegas Grand Prix - Wednesday Press Conference Transcript",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-wednesday-press-conference-transcript"
+    },
+    {
       "date": "2026-11-18",
       "title": "Dixon replaces Mir at the Portuguese GP",
       "summary": "The WorldSBK star will return to the saddle in Portugal, racing alongside Luca Marini as Joan Mir continues his recovery",
@@ -109,14 +125,6 @@
       "title": "MotoGP Fan Fest is coming to Valencia – and you’re invited!",
       "summary": "Five days of FREE MotoGP fun, rider meet-and-greets, gaming, simulators and more at the Ciudad de las Artes y las Ciencias. Here’s how to join us!",
       "url": "https://www.motogp.com/en/news/2026/11/13/motogp-fan-fest-is-coming-to-valencia-and-youre-invited/1185358",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "MotoGP and ESPN announce multi-year broadcast agreement across the United States and Latin America",
-      "summary": "MotoGP today announced a new two-year media rights agreement with ESPN, bringing the world’s premier motorcycle racing championship to fans across the United States and Latin America through the 2027 and 2028 seasons.",
-      "url": "https://www.motogp.com/en/news/2026/11/12/motogp-and-espn-announce-multi-year-broadcast-agreement-across-the-united-states-and-latin-america/1185285",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -3005,7 +3013,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-18T16:36:44.802207+00:00",
+  "updatedAt": "2026-11-19T16:40:19.414240+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3024,15 +3032,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-18T16:36:44.802207+00:00",
-    "Moto2": "2026-11-18T16:36:44.802207+00:00",
-    "Moto3": "2026-11-18T16:36:44.802207+00:00",
+    "MotoGP": "2026-11-19T16:40:19.414240+00:00",
+    "Moto2": "2026-11-19T16:40:19.414240+00:00",
+    "Moto3": "2026-11-19T16:40:19.414240+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-18T16:36:44.802207+00:00",
-    "F2": "2026-11-18T16:36:44.802207+00:00",
-    "F3": "2026-11-18T16:36:44.802207+00:00",
-    "WEC": "2026-11-18T16:36:44.802207+00:00"
+    "F1": "2026-11-19T16:40:19.414240+00:00",
+    "F2": "2026-11-19T16:40:19.414240+00:00",
+    "F3": "2026-11-19T16:40:19.414240+00:00",
+    "WEC": "2026-11-19T16:40:19.414240+00:00"
   },
-  "newsUpdatedAt": "2026-11-18T16:36:46.472324+00:00",
-  "newsCheckedAt": "2026-11-18T16:36:46.472324+00:00"
+  "newsUpdatedAt": "2026-11-19T16:40:20.964148+00:00",
+  "newsCheckedAt": "2026-11-19T16:40:20.964148+00:00"
 }
