@@ -1,9 +1,73 @@
 {
   "news": [
     {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-20",
+      "title": "F1 – Russell beats Gasly and Leclerc to top spot in wet Las Vegas FP2",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-russell-beats-gasly-and-leclerc-top-spot-wet-las-vegas-fp2"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-20",
+      "title": "F1 – Rain limits running in opening practice for Las Vegas Grand Prix",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-rain-limits-running-opening-practice-las-vegas-grand-prix"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Pol Espargaro to replace Viñales for the Portuguese GP",
+      "summary": "The Red Bull KTM test rider steps in at Tech3 from Friday afternoon on the Algarve",
+      "url": "https://www.motogp.com/en/news/2026/11/20/pol-espargaro-to-replace-vinales-for-the-portuguese-gp/1234494",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Bezzecchi and Martin hand Aprilia 1-2 in FP1, Marc Marquez fourth fastest",
+      "summary": "Aprilia Racing kickstart the weekend in fine form to spearhead the field in Portugal, with the Marquez brothers their closest challengers ahead of Practice",
+      "url": "https://www.motogp.com/en/news/2026/11/20/bezzecchi-and-martin-hand-aprilia-1-2-in-fp1-marc-marquez-fourth-fastest/1234388",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Stefan Bradl appointed HRC Sporting Coordinator for 2027",
+      "summary": "The 2011 Moto2 World Champion will bring his wealth of experience to a new trackside role as Honda prepares for a new era",
+      "url": "https://www.motogp.com/en/news/2026/11/20/stefan-bradl-appointed-hrc-sporting-coordinator-for-2027/1234379",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Almansa blasts to lap record despite a crash at Portimao",
+      "summary": "Aiming to secure the runner-up spot for 2026, the Portuguese GP has started well for the Lusail winner",
+      "url": "https://www.motogp.com/en/news/2026/11/20/almansa-blasts-to-lap-record-despite-a-crash-at-portimao/1186063",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
       "date": "2026-11-19",
-      "title": "Alex Marquez declared fit for FP1 in Portugal",
-      "summary": "The BK8 Gresini Racing MotoGP rider will undergo a further medical assessment after Friday morning's session",
+      "title": "F1 - 2026 Las Vegas Grand Prix - Thursday Press Conference Transcript",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-thursday-press-conference-transcript"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "MEDIA DAY DISPATCH: MotoGP match point 2 incoming at Portimao",
+      "summary": "The penultimate round of the year could well bring a coronation as the race for the Tower of Champions intensifies",
+      "url": "https://www.motogp.com/en/news/2026/11/19/media-day-dispatch-motogp-match-point-2-incoming-at-portimao/1186058",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Alex Marquez given green light to start the weekend in Portugal",
+      "summary": "The BK8 Gresini Racing MotoGP rider will undergo a further medical assessment after FP1",
       "url": "https://www.motogp.com/en/news/2026/11/19/alex-marquez-declared-fit-for-fp1-in-portugal/1186331",
       "series": "MotoGP",
       "source": "MotoGP.com"
@@ -41,14 +105,6 @@
       "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-preview"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-17",
-      "title": "F1 - 2026 Las Vegas GP Schedule of Press Conferences",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-las-vegas-gp-schedule-press-conferences"
-    },
-    {
       "date": "2026-11-17",
       "title": "Photo finishes and fairytales: the best of the Portuguese GP",
       "summary": "Ahead of a crucial weekend in the World Championship, sit back and relax as we head back in time through some of Portugal’s finest duels!",
@@ -81,50 +137,10 @@
       "source": "MotoGP.com"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-16",
-      "title": "FREC heroes go for FIA FR World Cup gold in Macau Grand Prix",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix"
-    },
-    {
       "date": "2026-11-16",
       "title": "Lecuona to stand-in for injured Bagnaia in Portugal",
       "summary": "Pecco remains sidelined after sustaining a double right-foot fracture in Qatar, with Lecuona set for his sixth appearance of the season",
       "url": "https://www.motogp.com/en/news/2026/11/16/lecuona-to-stand-in-for-injured-bagnaia-in-portugal/1185490",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "HOT HEADLINES: match point Marquez as MotoGP straps in for the rollercoaster",
-      "summary": "Marc Marquez, Jorge Martin, Marco Bezzecchi. Three riders. Two Grands Prix. But in Portimão, it’s the reigning World Champion who has a huge chance to notch up an eighth MotoGP title",
-      "url": "https://www.motogp.com/en/news/2026/11/16/hot-headlines-match-point-marquez-as-motogp-straps-in-for-the-rollercoaster/1185225",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Beyond the Grandstands: MotoGP Premier introduces new ways to experience the world's most exciting motorcycle racing events",
-      "summary": "From exclusive pit lane access and rider meet-and-greets to premium trackside hospitality, MotoGP Premier unveils refreshed bucket-list experiences for the 2027 racing season",
-      "url": "https://www.motogp.com/en/news/2026/11/16/beyond-the-grandstands-motogp-premier-introduces-new-ways-to-experience-the-worlds-most-exciting-motorcycle-racing-events/1185432",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "TIME SCHEDULE: Repsol Grand Prix of Portugal",
-      "summary": "Get the rundown of all the important times ahead of a pivotal weekend in Portugal as we enter the final stretch of the season!",
-      "url": "https://www.motogp.com/en/news/2026/11/16/time-schedule-repsol-grand-prix-of-portugal/1185224",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "MotoGP Fan Fest is coming to Valencia – and you’re invited!",
-      "summary": "Five days of FREE MotoGP fun, rider meet-and-greets, gaming, simulators and more at the Ciudad de las Artes y las Ciencias. Here’s how to join us!",
-      "url": "https://www.motogp.com/en/news/2026/11/13/motogp-fan-fest-is-coming-to-valencia-and-youre-invited/1185358",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -216,44 +232,6 @@
         "es": {
           "title": "Pratama roza la perfección y consigue su primera pole en el emocionante fin de semana de Phillip Island",
           "summary": "El piloto de Honda Team Asia se convirtió en el primer indonesio en lograr la pole de Moto3; Quiles y el héroe local Kelso completaron la primera fila."
-        }
-      }
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Title-hunting Guevara edges out Australia's Agius by 0.018s on Day 1",
-      "summary": "The current hat-trick hero and last year’s Moto2 Australian GP winner set the pace on Friday afternoon, with title race leader Gonzalez P8",
-      "url": "https://www.motogp.com/en/news/2026/10/23/title-hunting-guevara-edges-out-australias-agius-by-0018s-on-day-1/1179531",
-      "series": "Moto2",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Title-hunting Guevara edges out Australia's Agius by 0.018s on Day 1",
-          "summary": "The current hat-trick hero and last year’s Moto2 Australian GP winner set the pace on Friday afternoon, with title race leader Gonzalez P8"
-        },
-        "es": {
-          "title": "Guevara, en plena lucha por el título, supera al australiano Agius por 0,018 segundos en la primera jornada",
-          "summary": "El piloto que busca su tercer triunfo consecutivo marcó el ritmo el viernes por la tarde. Manuel González, líder del campeonato, terminó octavo."
-        }
-      }
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Carpe leads home-hero Kelso at Phillip Island",
-      "summary": "The #83 was able to spoil the ideal opening day homecoming for the Australian as action ignites Down Under",
-      "url": "https://www.motogp.com/en/news/2026/10/23/carpe-leads-home-hero-kelso-at-phillip-island/1179526",
-      "series": "Moto3",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Carpe leads home-hero Kelso at Phillip Island",
-          "summary": "The #83 was able to spoil the ideal opening day homecoming for the Australian as action ignites Down Under"
-        },
-        "es": {
-          "title": "Carpe se impone al ídolo local Kelso en Phillip Island",
-          "summary": "El español #83 frustró el regreso soñado del australiano en la jornada inaugural del Gran Premio."
         }
       }
     }
@@ -980,7 +958,7 @@
         },
         {
           "position": 17,
-          "name": "Deniz Öncü",
+          "name": "Deniz öncü",
           "team": "ELF Marc VDS Racing Team",
           "points": 47.5
         },
@@ -3013,7 +2991,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-19T16:40:19.414240+00:00",
+  "updatedAt": "2026-11-20T16:16:14.150326+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3032,15 +3010,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-19T16:40:19.414240+00:00",
-    "Moto2": "2026-11-19T16:40:19.414240+00:00",
-    "Moto3": "2026-11-19T16:40:19.414240+00:00",
+    "MotoGP": "2026-11-20T16:16:14.150326+00:00",
+    "Moto2": "2026-11-20T16:16:14.150326+00:00",
+    "Moto3": "2026-11-20T16:16:14.150326+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-19T16:40:19.414240+00:00",
-    "F2": "2026-11-19T16:40:19.414240+00:00",
-    "F3": "2026-11-19T16:40:19.414240+00:00",
-    "WEC": "2026-11-19T16:40:19.414240+00:00"
+    "F1": "2026-11-20T16:16:14.150326+00:00",
+    "F2": "2026-11-20T16:16:14.150326+00:00",
+    "F3": "2026-11-20T16:16:14.150326+00:00",
+    "WEC": "2026-11-20T16:16:14.150326+00:00"
   },
-  "newsUpdatedAt": "2026-11-19T16:40:20.964148+00:00",
-  "newsCheckedAt": "2026-11-19T16:40:20.964148+00:00"
+  "newsUpdatedAt": "2026-11-20T16:16:18.260426+00:00",
+  "newsCheckedAt": "2026-11-20T16:16:18.260426+00:00"
 }
