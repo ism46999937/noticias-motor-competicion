@@ -3,6 +3,46 @@
     {
       "series": "F1",
       "source": "FIA",
+      "date": "2026-11-21",
+      "title": "F1 – Antonelli fastest in Las Vegas Qualifying but Verstappen inherits pole position",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-antonelli-fastest-las-vegas-qualifying-verstappen-inherits-pole-position"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-21",
+      "title": "F1 – Russell tops final practice in Las Vegas after Verstappen clash",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-russell-tops-final-practice-las-vegas-after-verstappen-clash"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Bezzecchi blasts to Portimao pole with new lap record",
+      "summary": "Last year’s Portuguese GP winner stormed to P1 whilst Marc Marquez was right behind in second but it’s Jorge Martin with work to do from the third row",
+      "url": "https://www.motogp.com/en/news/2026/11/21/bezzecchi-blasts-to-portimao-pole-with-new-lap-record/1186065",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Almansa masters the Algarve",
+      "summary": "The Spaniard takes Portugal pole and smashes the lap record en route",
+      "url": "https://www.motogp.com/en/news/2026/11/21/almansa-masters-the-algarve/1186077",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-20",
+      "title": "F1 - 2026 Las Vegas Grand Prix Post - Qualifying Press Conference Transcript",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-post-qualifying-press-conference-transcript"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
       "date": "2026-11-20",
       "title": "F1 – Russell beats Gasly and Leclerc to top spot in wet Las Vegas FP2",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
@@ -15,6 +55,14 @@
       "title": "F1 – Rain limits running in opening practice for Las Vegas Grand Prix",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
       "url": "https://www.fia.com/news/f1-rain-limits-running-opening-practice-las-vegas-grand-prix"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Alex Marquez shines to top Practice on return, Martin scrapes into Q2",
+      "summary": "A fine comeback from injury is underway for the #73 whilst it was a Q1 close call for one of our Championship contenders",
+      "url": "https://www.motogp.com/en/news/2026/11/20/alex-marquez-shines-to-top-practice-on-return-martin-scrapes-into-q2/1186064",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
     },
     {
       "date": "2026-11-20",
@@ -42,9 +90,9 @@
     },
     {
       "date": "2026-11-20",
-      "title": "Almansa blasts to lap record despite a crash at Portimao",
+      "title": "Almansa blasts to lap record despite a crash in Portimao",
       "summary": "Aiming to secure the runner-up spot for 2026, the Portuguese GP has started well for the Lusail winner",
-      "url": "https://www.motogp.com/en/news/2026/11/20/almansa-blasts-to-lap-record-despite-a-crash-at-portimao/1186063",
+      "url": "https://www.motogp.com/en/news/2026/11/20/almansa-blasts-to-lap-record-despite-a-crash-in-portimao/1186063",
       "series": "Moto3",
       "source": "MotoGP.com"
     },
@@ -73,14 +121,6 @@
       "source": "MotoGP.com"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-18",
-      "title": "F1 - 2026 Las Vegas Grand Prix - Wednesday Press Conference Transcript",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-wednesday-press-conference-transcript"
-    },
-    {
       "date": "2026-11-18",
       "title": "Dixon replaces Mir at the Portuguese GP",
       "summary": "The WorldSBK star will return to the saddle in Portugal, racing alongside Luca Marini as Joan Mir continues his recovery",
@@ -95,14 +135,6 @@
       "url": "https://www.motogp.com/en/news/2026/11/18/razgatlioglu-to-miss-the-valencia-test/1185673",
       "series": "MotoGP",
       "source": "MotoGP.com"
-    },
-    {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-17",
-      "title": "F1 - 2026 Las Vegas Grand Prix Preview",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-preview"
     },
     {
       "date": "2026-11-17",
@@ -125,22 +157,6 @@
       "title": "Alex Marquez set for Portuguese GP return",
       "summary": "BK8 Gresini Racing MotoGP have announced that the #73 will return to action in Portugal following recent surgery",
       "url": "https://www.motogp.com/en/news/2026/11/17/alex-marquez-set-for-portuguese-gp-return/1185531",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "MotoGP Rivals: take control of your own team",
-      "summary": "Build your team, develop your bikes and make the decisions that can turn every race in the first official MotoGP team manager game",
-      "url": "https://www.motogp.com/en/news/2026/11/17/motogp-rivals-take-control-of-your-own-team/1185514",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Lecuona to stand-in for injured Bagnaia in Portugal",
-      "summary": "Pecco remains sidelined after sustaining a double right-foot fracture in Qatar, with Lecuona set for his sixth appearance of the season",
-      "url": "https://www.motogp.com/en/news/2026/11/16/lecuona-to-stand-in-for-injured-bagnaia-in-portugal/1185490",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -215,25 +231,6 @@
       "url": "https://www.motogp.com/en/news/2026/10/30/almansa-soars-to-sepang-p1-on-friday-home-star-danish-fourth/1181639",
       "series": "Moto3",
       "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Pratama pulls of perfection for maiden pole in Phillip Island thriller",
-      "summary": "The Honda Team Asia rider becomes Indonesia’s first Moto3 polesitter as Quiles and home hero Kelso complete a dramatic front row",
-      "url": "https://www.motogp.com/en/news/2026/10/24/pratama-pulls-of-perfection-for-maiden-pole-in-phillip-island-thriller/1179527",
-      "series": "Moto3",
-      "source": "MotoGP.com",
-      "language": "en",
-      "translations": {
-        "en": {
-          "title": "Pratama pulls of perfection for maiden pole in Phillip Island thriller",
-          "summary": "The Honda Team Asia rider becomes Indonesia’s first Moto3 polesitter as Quiles and home hero Kelso complete a dramatic front row"
-        },
-        "es": {
-          "title": "Pratama roza la perfección y consigue su primera pole en el emocionante fin de semana de Phillip Island",
-          "summary": "El piloto de Honda Team Asia se convirtió en el primer indonesio en lograr la pole de Moto3; Quiles y el héroe local Kelso completaron la primera fila."
-        }
-      }
     }
   ],
   "calendars": {
@@ -630,43 +627,43 @@
           "position": 2,
           "name": "Jorge Martin",
           "team": "Aprilia Racing",
-          "points": 371
+          "points": 376
         },
         {
           "position": 3,
           "name": "Marco Bezzecchi",
           "team": "Aprilia Racing",
-          "points": 357
+          "points": 369
         },
         {
           "position": 4,
           "name": "Pedro Acosta",
           "team": "Red Bull KTM Factory Racing",
-          "points": 309
+          "points": 315
         },
         {
           "position": 5,
           "name": "Ai Ogura",
           "team": "SuperFile Trackhouse MotoGP Team",
-          "points": 294
+          "points": 298
         },
         {
           "position": 6,
           "name": "Fabio Di Giannantonio",
           "team": "Pertamina Enduro VR46 Racing Team",
-          "points": 282
+          "points": 285
         },
         {
           "position": 7,
           "name": "Raul Fernandez",
           "team": "SuperFile Trackhouse MotoGP Team",
-          "points": 258
+          "points": 267
         },
         {
           "position": 8,
           "name": "Alex Marquez",
           "team": "BK8 Gresini Racing MotoGP",
-          "points": 197
+          "points": 204
         },
         {
           "position": 9,
@@ -702,7 +699,7 @@
           "position": 14,
           "name": "Fabio Quartararo",
           "team": "Monster Energy Yamaha MotoGP Team",
-          "points": 79
+          "points": 81
         },
         {
           "position": 15,
@@ -743,8 +740,8 @@
         {
           "position": 21,
           "name": "Iker Lecuona",
-          "team": "BK8 Gresini Racing MotoGP",
-          "points": 18
+          "team": "Ducati Lenovo Team",
+          "points": 19
         },
         {
           "position": 22,
@@ -794,37 +791,37 @@
           "position": 1,
           "name": "Aprilia Racing",
           "team": "Aprilia Racing",
-          "points": 728
+          "points": 745
         },
         {
           "position": 2,
           "name": "Ducati Lenovo Team",
           "team": "Ducati Lenovo Team",
-          "points": 604
+          "points": 605
         },
         {
           "position": 3,
           "name": "SuperFile Trackhouse MotoGP Team",
           "team": "SuperFile Trackhouse MotoGP Team",
-          "points": 552
+          "points": 565
         },
         {
           "position": 4,
           "name": "Red Bull KTM Factory Racing",
           "team": "Red Bull KTM Factory Racing",
-          "points": 427
+          "points": 433
         },
         {
           "position": 5,
           "name": "Pertamina Enduro VR46 Racing Team",
           "team": "Pertamina Enduro VR46 Racing Team",
-          "points": 352
+          "points": 355
         },
         {
           "position": 6,
           "name": "BK8 Gresini Racing MotoGP",
           "team": "BK8 Gresini Racing MotoGP",
-          "points": 344
+          "points": 351
         },
         {
           "position": 7,
@@ -848,7 +845,7 @@
           "position": 10,
           "name": "Monster Energy Yamaha MotoGP Team",
           "team": "Monster Energy Yamaha MotoGP Team",
-          "points": 108
+          "points": 110
         },
         {
           "position": 11,
@@ -2991,7 +2988,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-20T16:16:14.150326+00:00",
+  "updatedAt": "2026-11-21T15:28:26.479304+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3010,15 +3007,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-20T16:16:14.150326+00:00",
-    "Moto2": "2026-11-20T16:16:14.150326+00:00",
-    "Moto3": "2026-11-20T16:16:14.150326+00:00",
+    "MotoGP": "2026-11-21T15:28:26.479304+00:00",
+    "Moto2": "2026-11-21T15:28:26.479304+00:00",
+    "Moto3": "2026-11-21T15:28:26.479304+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-20T16:16:14.150326+00:00",
-    "F2": "2026-11-20T16:16:14.150326+00:00",
-    "F3": "2026-11-20T16:16:14.150326+00:00",
-    "WEC": "2026-11-20T16:16:14.150326+00:00"
+    "F1": "2026-11-21T15:28:26.479304+00:00",
+    "F2": "2026-11-21T15:28:26.479304+00:00",
+    "F3": "2026-11-21T15:28:26.479304+00:00",
+    "WEC": "2026-11-21T15:28:26.479304+00:00"
   },
-  "newsUpdatedAt": "2026-11-20T16:16:18.260426+00:00",
-  "newsCheckedAt": "2026-11-20T16:16:18.260426+00:00"
+  "newsUpdatedAt": "2026-11-21T15:28:27.993482+00:00",
+  "newsCheckedAt": "2026-11-21T15:28:27.993482+00:00"
 }
