@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "date": "2026-11-23",
+      "title": "Talking Points: \"This is the best Marc\"",
+      "summary": "102 points down to becoming the 2026 MotoGP World Champion, catch up on the hottest topics from Portugal",
+      "url": "https://www.motogp.com/en/news/2026/11/23/talking-points-this-is-the-best-marc/1267832",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Brazil's superstar: Moreira becomes the 2026 Rookie of the Year",
+      "summary": "Following an impressive debut season, Diogo Moreira is named the 2026 Rookie of the Year with one round to spare!",
+      "url": "https://www.motogp.com/en/news/2026/11/23/brazils-superstar-moreira-becomes-the-2026-rookie-of-the-year/1267833",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Black Friday is here! €5 VideoPass and up to 70% OFF!",
+      "summary": "Watch it. Wear it. Live it. For less. MotoGP Black Friday is GO, with deals on VideoPass, tickets, official merchandise and more!",
+      "url": "https://www.motogp.com/en/news/2026/11/23/black-friday-is-here-5-videopass-and-up-to-70-off/1267831",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "series": "F1",
       "source": "FIA",
       "date": "2026-11-22",
@@ -36,7 +60,7 @@
       "date": "2026-11-22",
       "title": "Muñoz wins wild Portimao battle as championship leader Gonzalez crashes",
       "summary": "An adrenaline-fuelled, dramatic Moto2 race unfolds at the rollercoaster with the championship chase heading to Valencia after Gonzalez's incident and Guevara's P7",
-      "url": "https://www.motogp.com/en/news/2026/11/19/munoz-wins-wild-portimao-battle-as-championship-leader-gonzalez-crashes/1186103",
+      "url": "https://www.motogp.com/en/news/2026/11/22/munoz-wins-wild-portimao-battle-as-championship-leader-gonzalez-crashes/1186103",
       "series": "Moto2",
       "source": "MotoGP.com"
     },
@@ -146,34 +170,10 @@
     },
     {
       "date": "2026-11-20",
-      "title": "Stefan Bradl appointed HRC Sporting Coordinator for 2027",
-      "summary": "The 2011 Moto2 World Champion will bring his wealth of experience to a new trackside role as Honda prepares for a new era",
-      "url": "https://www.motogp.com/en/news/2026/11/20/stefan-bradl-appointed-hrc-sporting-coordinator-for-2027/1234379",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-20",
       "title": "Almansa blasts to lap record despite a crash in Portimao",
       "summary": "Aiming to secure the runner-up spot for 2026, the Portuguese GP has started well for the Lusail winner",
       "url": "https://www.motogp.com/en/news/2026/11/20/almansa-blasts-to-lap-record-despite-a-crash-in-portimao/1186063",
       "series": "Moto3",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "MEDIA DAY DISPATCH: MotoGP match point 2 incoming at Portimao",
-      "summary": "The penultimate round of the year could well bring a coronation as the race for the Tower of Champions intensifies",
-      "url": "https://www.motogp.com/en/news/2026/11/19/media-day-dispatch-motogp-match-point-2-incoming-at-portimao/1186058",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "Alex Marquez given green light to start the weekend in Portugal",
-      "summary": "The BK8 Gresini Racing MotoGP rider will undergo a further medical assessment after FP1",
-      "url": "https://www.motogp.com/en/news/2026/11/19/alex-marquez-declared-fit-for-fp1-in-portugal/1186331",
-      "series": "MotoGP",
       "source": "MotoGP.com"
     },
     {
@@ -2994,7 +2994,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-22T15:29:00.143613+00:00",
+  "updatedAt": "2026-11-23T19:22:51.811962+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3013,15 +3013,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-22T15:29:00.143613+00:00",
-    "Moto2": "2026-11-22T15:29:00.143613+00:00",
-    "Moto3": "2026-11-22T15:29:00.143613+00:00",
+    "MotoGP": "2026-11-23T19:22:51.811962+00:00",
+    "Moto2": "2026-11-23T19:22:51.811962+00:00",
+    "Moto3": "2026-11-23T19:22:51.811962+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-22T15:29:00.143613+00:00",
-    "F2": "2026-11-22T15:29:00.143613+00:00",
-    "F3": "2026-11-22T15:29:00.143613+00:00",
-    "WEC": "2026-11-22T15:29:00.143613+00:00"
+    "F1": "2026-11-23T19:22:51.811962+00:00",
+    "F2": "2026-11-23T19:22:51.811962+00:00",
+    "F3": "2026-11-23T19:22:51.811962+00:00",
+    "WEC": "2026-11-23T19:22:51.811962+00:00"
   },
-  "newsUpdatedAt": "2026-11-22T15:29:01.948482+00:00",
-  "newsCheckedAt": "2026-11-22T15:29:01.948482+00:00"
+  "newsUpdatedAt": "2026-11-23T19:22:53.001161+00:00",
+  "newsCheckedAt": "2026-11-23T19:22:53.001161+00:00"
 }
