@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "date": "2026-11-24",
+      "title": "Watch FREE: Maverick Viñales’ best races",
+      "summary": "After news he’ll be sidelined from Valencia, join us in tipping our hat to the #12's career with three of his best wins",
+      "url": "https://www.motogp.com/en/news/2026/11/24/watch-free-maverick-vinales-best-races/1268075",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Red Bull KTM Tech3 confirm Pol Espargaro to replace Viñales at Valencia",
+      "summary": "The Red Bull KTM test rider will stand in for the recovering Maverick Viñales at the season finale in Valencia",
+      "url": "https://www.motogp.com/en/news/2026/11/24/red-bull-ktm-tech3-confirm-pol-espargaro-to-replace-vinales-at-valencia/1268080",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
       "date": "2026-11-23",
       "title": "Talking Points: \"This is the best Marc\"",
       "summary": "102 points down to becoming the 2026 MotoGP World Champion, catch up on the hottest topics from Portugal",
@@ -137,34 +153,10 @@
       "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-post-qualifying-press-conference-transcript"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-20",
-      "title": "F1 – Russell beats Gasly and Leclerc to top spot in wet Las Vegas FP2",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-russell-beats-gasly-and-leclerc-top-spot-wet-las-vegas-fp2"
-    },
-    {
       "date": "2026-11-20",
       "title": "Alex Marquez shines to top Practice on return, Martin scrapes into Q2",
       "summary": "A fine comeback from injury is underway for the #73 whilst it was a Q1 close call for one of our Championship contenders",
       "url": "https://www.motogp.com/en/news/2026/11/20/alex-marquez-shines-to-top-practice-on-return-martin-scrapes-into-q2/1186064",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-20",
-      "title": "Pol Espargaro to replace Viñales for the Portuguese GP",
-      "summary": "The Red Bull KTM test rider steps in at Tech3 from Friday afternoon on the Algarve",
-      "url": "https://www.motogp.com/en/news/2026/11/20/pol-espargaro-to-replace-vinales-for-the-portuguese-gp/1234494",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-20",
-      "title": "Bezzecchi and Martin hand Aprilia 1-2 in FP1, Marc Marquez fourth fastest",
-      "summary": "Aprilia Racing kickstart the weekend in fine form to spearhead the field in Portugal, with the Marquez brothers their closest challengers ahead of Practice",
-      "url": "https://www.motogp.com/en/news/2026/11/20/bezzecchi-and-martin-hand-aprilia-1-2-in-fp1-marc-marquez-fourth-fastest/1234388",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -2994,7 +2986,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-23T19:22:51.811962+00:00",
+  "updatedAt": "2026-11-24T18:58:56.272453+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3013,15 +3005,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-23T19:22:51.811962+00:00",
-    "Moto2": "2026-11-23T19:22:51.811962+00:00",
-    "Moto3": "2026-11-23T19:22:51.811962+00:00",
+    "MotoGP": "2026-11-24T18:58:56.272453+00:00",
+    "Moto2": "2026-11-24T18:58:56.272453+00:00",
+    "Moto3": "2026-11-24T18:58:56.272453+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-23T19:22:51.811962+00:00",
-    "F2": "2026-11-23T19:22:51.811962+00:00",
-    "F3": "2026-11-23T19:22:51.811962+00:00",
-    "WEC": "2026-11-23T19:22:51.811962+00:00"
+    "F1": "2026-11-24T18:58:56.272453+00:00",
+    "F2": "2026-11-24T18:58:56.272453+00:00",
+    "F3": "2026-11-24T18:58:56.272453+00:00",
+    "WEC": "2026-11-24T18:58:56.272453+00:00"
   },
-  "newsUpdatedAt": "2026-11-23T19:22:53.001161+00:00",
-  "newsCheckedAt": "2026-11-23T19:22:53.001161+00:00"
+  "newsUpdatedAt": "2026-11-24T18:58:57.617496+00:00",
+  "newsCheckedAt": "2026-11-24T18:58:57.617496+00:00"
 }
