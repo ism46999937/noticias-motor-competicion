@@ -3,6 +3,54 @@
     {
       "series": "F1",
       "source": "FIA",
+      "date": "2026-11-27",
+      "title": "F1 - 2026 Qatar Grand Prix - Friday Press Conference Transcript",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-2026-qatar-grand-prix-friday-press-conference-transcript"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
+      "date": "2026-11-27",
+      "title": "F1 – Antonelli leads Mercedes one-two in Qatar opening practice",
+      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
+      "url": "https://www.fia.com/news/f1-antonelli-leads-mercedes-one-two-qatar-opening-practice"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Marc Marquez sets new lap record in final Friday of MotoGP career in Valencia",
+      "summary": "Having announced his retirement in the morning, the #93 signed off a momentous day in the only way he knows how – by being fastest and with 0.247s over everyone else",
+      "url": "https://www.motogp.com/en/news/2026/11/27/marc-marquez-sets-new-lap-record-in-final-friday-of-motogp-career-in-valencia/1268364",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Bezzecchi fastest as Marc Marquez announces MotoGP retirement in Valencia",
+      "summary": "The Italian fronts the FP1 field, from the World Champion, who confirms on Friday morning that this will be his last weekend of competition",
+      "url": "https://www.motogp.com/en/news/2026/11/27/bezzecchi-fastest-as-marc-marquez-announces-motogp-retirement-in-valencia/1268362",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Marc Marquez announces retirement from MotoGP",
+      "summary": "The Ducati Lenovo Team rider announces that 2026 will be his last season as he reveals the news in FP1 at Valencia",
+      "url": "https://www.motogp.com/en/news/2026/11/27/marc-marquez-announces-retirement-from-motogp/1268528",
+      "series": "MotoGP",
+      "source": "MotoGP.com"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Almansa obliterates lap record to top final Practice of 2026 in Moto3",
+      "summary": "The 2026 runner-up had his usual trademark Friday to grab P1 with the top 4 all under the previous lap record",
+      "url": "https://www.motogp.com/en/news/2026/11/27/almansa-obliterates-lap-record-to-top-final-practice-of-2026-in-moto3/1268348",
+      "series": "Moto3",
+      "source": "MotoGP.com"
+    },
+    {
+      "series": "F1",
+      "source": "FIA",
       "date": "2026-11-26",
       "title": "F1 - 2026 Qatar Grand Prix - Thursday Press Conference Transcript",
       "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
@@ -65,14 +113,6 @@
       "url": "https://www.fia.com/news/accepted-breach-agreement-between-williams-grand-prix-engineering-limited-and-fia-breach-fia"
     },
     {
-      "series": "F1",
-      "source": "FIA",
-      "date": "2026-11-25",
-      "title": "F1 - 2026 Qatar GP Schedule of Press Conferences",
-      "summary": "Titular de la fuente oficial. Abre el enlace para leer el comunicado original.",
-      "url": "https://www.fia.com/news/f1-2026-qatar-gp-schedule-press-conferences"
-    },
-    {
       "date": "2026-11-25",
       "title": "Ricardo Tormo classics: the best of the Valencia GP",
       "summary": "We’ve left the best for last! The Valencia GP is here, and what better way to settle in for our final trip than to look back at six legendary battles!",
@@ -117,30 +157,6 @@
       "title": "Red Bull KTM Tech3 confirm Pol Espargaro to replace Viñales at Valencia",
       "summary": "The Red Bull KTM test rider will stand in for the recovering Maverick Viñales at the season finale in Valencia",
       "url": "https://www.motogp.com/en/news/2026/11/24/red-bull-ktm-tech3-confirm-pol-espargaro-to-replace-vinales-at-valencia/1268080",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-23",
-      "title": "Talking Points: \"This is the best Marc\"",
-      "summary": "102 points down to becoming the 2026 MotoGP World Champion, catch up on the hottest topics from Portugal",
-      "url": "https://www.motogp.com/en/news/2026/11/23/talking-points-this-is-the-best-marc/1267832",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-23",
-      "title": "Brazil's superstar: Moreira becomes the 2026 Rookie of the Year",
-      "summary": "Following an impressive debut season, Diogo Moreira is named the 2026 Rookie of the Year with one round to spare!",
-      "url": "https://www.motogp.com/en/news/2026/11/23/brazils-superstar-moreira-becomes-the-2026-rookie-of-the-year/1267833",
-      "series": "MotoGP",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-11-23",
-      "title": "Black Friday is here! €5 VideoPass and up to 70% OFF!",
-      "summary": "Watch it. Wear it. Live it. For less. MotoGP Black Friday is GO, with deals on VideoPass, tickets, official merchandise and more!",
-      "url": "https://www.motogp.com/en/news/2026/11/23/black-friday-is-here-5-videopass-and-up-to-70-off/1267831",
       "series": "MotoGP",
       "source": "MotoGP.com"
     },
@@ -221,14 +237,6 @@
       "title": "Quiles takes 11th win of 2026, Danish denied home podium in fourth",
       "summary": "A commanding victory for the World Champion but the big battle for the home crowd was for a podium",
       "url": "https://www.motogp.com/en/news/2026/11/01/m3-mal-rac-report/1179528",
-      "series": "Moto3",
-      "source": "MotoGP.com"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "Quiles grabs pole at Sepang while Danish takes Malaysia’s first front row since 2012 in P3",
-      "summary": "The reigning Champion takes P1 at Sepang as Uriarte and Danish compete the front row",
-      "url": "https://www.motogp.com/en/news/2026/10/31/quiles-grabs-pole-at-sepang-while-danish-takes-malaysias-first-front-row-since-2012-in-p3/1181640",
       "series": "Moto3",
       "source": "MotoGP.com"
     }
@@ -2994,7 +3002,7 @@
       }
     }
   },
-  "updatedAt": "2026-11-26T17:48:57.702239+00:00",
+  "updatedAt": "2026-11-27T17:33:34.016205+00:00",
   "sources": {
     "F1": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council",
     "F2": "https://www.fia.com/news/miami-and-montreal-host-fia-formula-2-championship-rounds-2026",
@@ -3013,15 +3021,15 @@
     "WEC": "https://api.fia.com/events/world-endurance-championship/season-2026/standings"
   },
   "standingsUpdatedAt": {
-    "MotoGP": "2026-11-26T17:48:57.702239+00:00",
-    "Moto2": "2026-11-26T17:48:57.702239+00:00",
-    "Moto3": "2026-11-26T17:48:57.702239+00:00",
+    "MotoGP": "2026-11-27T17:33:34.016205+00:00",
+    "Moto2": "2026-11-27T17:33:34.016205+00:00",
+    "Moto3": "2026-11-27T17:33:34.016205+00:00",
     "Superbikes": "2026-10-18T00:00:00+00:00",
-    "F1": "2026-11-26T17:48:57.702239+00:00",
-    "F2": "2026-11-26T17:48:57.702239+00:00",
-    "F3": "2026-11-26T17:48:57.702239+00:00",
-    "WEC": "2026-11-26T17:48:57.702239+00:00"
+    "F1": "2026-11-27T17:33:34.016205+00:00",
+    "F2": "2026-11-27T17:33:34.016205+00:00",
+    "F3": "2026-11-27T17:33:34.016205+00:00",
+    "WEC": "2026-11-27T17:33:34.016205+00:00"
   },
-  "newsUpdatedAt": "2026-11-26T17:48:59.165317+00:00",
-  "newsCheckedAt": "2026-11-26T17:48:59.165317+00:00"
+  "newsUpdatedAt": "2026-11-27T17:33:35.338490+00:00",
+  "newsCheckedAt": "2026-11-27T17:33:35.338490+00:00"
 }
